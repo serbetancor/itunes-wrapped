@@ -7,7 +7,7 @@ const config: Config = {
       colors: {
         blue: '#35c0fb',
         pink: '#ff5e73',
-        purple: '#35c0fb',
+        purple: '#9c70ff',
       },
     },
   },
