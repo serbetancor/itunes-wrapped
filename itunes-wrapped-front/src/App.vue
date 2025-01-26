@@ -5,7 +5,7 @@ const topics = ['songs', 'albums', 'artists', 'genres']
 </script>
 
 <template>
-  <div class="h-full w-full bg-white">
+  <div class="flex h-full w-full flex-col bg-white">
     <div class="mt-12 flex h-fit w-full justify-center gap-4">
       <button
         v-for="topic in topics"
