@@ -1,16 +1,19 @@
 <script setup lang="ts">
+import library from '@/../../parser/current/Formatted_Biblioteca.json'
 import { ref, computed } from 'vue'
-import library from '@/../../parser/current/Formatted_Biblioteca_byTimePlayed.json'
+
 import type { Song } from '@/models/itunes'
+
+import ArrowIcon from '@/assets/arrow.svg'
 import { formatMilliseconds } from '@/utils/itunes'
 
 const songs = ref<Song[]>(library.data)
 const topCount = ref<number>(5)
 const tooltip = ref<{ x: number; y: number; text: string; visible: boolean }>({
-  x: 0,
-  y: 0,
   text: '',
   visible: false,
+  x: 0,
+  y: 0,
 })
 
 const maxTimePlayed = computed(() => Math.max(...songs.value.map((s) => s.timePlayed)))
@@ -29,13 +32,13 @@ const circles = computed(() => {
     console.log(index, song, song.timePlayed)
 
     return {
+      color: randomColor,
       id: song.id,
       name: song.name,
       radius,
+      timePlayed: song.timePlayed,
       x,
       y,
-      timePlayed: song.timePlayed,
-      color: randomColor,
     }
   })
 })
@@ -45,10 +48,10 @@ const showTooltip = (event: MouseEvent, text: string) => {
   if (container) {
     const rect = container.getBoundingClientRect()
     tooltip.value = {
-      x: event.clientX - rect.left + 5,
-      y: event.clientY - rect.top - 35,
       text,
       visible: true,
+      x: event.clientX - rect.left + 5,
+      y: event.clientY - rect.top - 35,
     }
   }
 }
@@ -60,7 +63,7 @@ const hideTooltip = () => {
 
 <template>
   <div class="flex flex-col items-center p-4">
-    <input type="range" v-model="topCount" min="1" max="10" class="mb-4 w-64" />
+    <input type="range" v-model="topCount" min="1" max="100" class="mb-4 w-64" />
     <span>Top {{ topCount }} song{{ topCount > 1 ? 's' : '' }}</span>
 
     <div class="relative mt-4 flex w-3/4 justify-between">
@@ -91,11 +94,22 @@ const hideTooltip = () => {
           <li
             v-for="(song, index) in songs.slice(0, topCount)"
             :key="song.id"
-            class="grid grid-cols-[auto_1fr_auto] gap-2 p-2 py-1 odd:bg-blue/10 even:bg-white"
+            class="grid grid-cols-[auto_1fr_auto_auto] gap-2 p-2 py-1 odd:bg-blue/10 even:bg-white"
           >
             <span class="font-semibold">#{{ index + 1 }}</span>
             <span>{{ song.name }}</span>
             <span>{{ formatMilliseconds(song.timePlayed) }}</span>
+            <div
+              class="flex items-center"
+              :class="{
+                'text-red': song.positionsGained < 0,
+                'text-green': song.positionsGained > 0,
+              }"
+            >
+              <span v-if="song.positionsGained === 0" class="w-4 text-center">-</span>
+              <ArrowIcon v-else class="w-4" :class="{ 'rotate-180': song.positionsGained < 0 }" />
+              <span class="w-5 text-right">{{ song.positionsGained }}</span>
+            </div>
           </li>
         </ul>
       </div>

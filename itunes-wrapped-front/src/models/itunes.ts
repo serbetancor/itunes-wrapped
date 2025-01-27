@@ -1,6 +1,11 @@
-export interface Song {
+interface BaseEntity {
   id: string
   name: string
+  timePlayed: number
+  positionsGained: number
+}
+
+export interface Song extends BaseEntity {
   duration: number
   trackNumber: number
   artist: string
@@ -9,32 +14,22 @@ export interface Song {
   year: number
   genre: string
   playCount: number
-  timePlayed: number
 }
 
-export interface Album {
-  id: string
-  name: string
+export interface Album extends BaseEntity {
   artist: string
   year: number
   genre: string
   playCount: number
-  timePlayed: number
   tracks: Song[]
 }
 
-export interface Artist {
-  id: string
-  name: string
+export interface Artist extends BaseEntity {
   albums: string[]
   songsCount: number
-  timePlayed: number
 }
 
-export interface Genre {
-  id: string
-  name: string
+export interface Genre extends BaseEntity {
   albums: string[]
   artists: string[]
-  timePlayed: number
 }

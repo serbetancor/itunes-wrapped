@@ -1,8 +1,9 @@
 import './index.css'
 
 import { type Component, createApp } from 'vue'
-import { createAppRouter } from './router'
+
 import App from './App.vue'
+import { createAppRouter } from './router'
 
 const app = createApp(App as Component)
 
