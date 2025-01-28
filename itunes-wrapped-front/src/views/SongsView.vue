@@ -29,8 +29,6 @@ const circles = computed(() => {
     const colors = ['fill-blue', 'fill-pink', 'fill-purple']
     const randomColor = colors[Math.floor(Math.random() * colors.length)]
 
-    console.log(index, song, song.timePlayed)
-
     return {
       color: randomColor,
       id: song.id,
