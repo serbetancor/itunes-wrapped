@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "id": "259c02c3-f533-4ef3-9ae9-44fdbdcb0030",
+            "id": "f814e916-b4ef-49e3-9c91-47bb26c47b2d",
             "name": "Alternativa",
             "albums": [
                 "A Head Full of Dreams",
@@ -91,7 +91,7 @@
             "positionsGained": 0
         },
         {
-            "id": "65c46105-0895-42a3-a3cc-085143762152",
+            "id": "5ce75d43-15e8-478b-9426-74e1c44052ee",
             "name": "Hip-hop/Rap",
             "albums": [
                 "2014 Forest Hills Drive",
@@ -170,7 +170,7 @@
             "positionsGained": 0
         },
         {
-            "id": "3b5c149b-ef39-495b-9474-bb06371fafa4",
+            "id": "f88b2c65-8491-451d-9b6e-ab637056ee58",
             "name": "Pop",
             "albums": [
                 "1989 (Deluxe Edition)",
@@ -305,7 +305,7 @@
             "positionsGained": 0
         },
         {
-            "id": "5f2aa716-6ff3-478a-9a72-97eee98fc8bc",
+            "id": "3d982db1-d3fd-44e6-b1c0-96fa674bc4b6",
             "name": "Banda sonora",
             "albums": [
                 "Arcane League of Legends (Soundtrack from the Animated Series)",
@@ -445,7 +445,7 @@
             "positionsGained": 0
         },
         {
-            "id": "4ca3b4c5-8917-409b-9dea-8a5dc6cc7f4a",
+            "id": "e88c1d65-7fcc-4c59-b31c-f71ca719eeb9",
             "name": "Rock",
             "albums": [
                 "...Nothing Like the Sun",
@@ -482,7 +482,7 @@
             "positionsGained": 0
         },
         {
-            "id": "4148a576-6e61-41d2-85cf-440aa255e182",
+            "id": "35b388f4-88fb-44f5-a422-4861b63c95ad",
             "name": "Anime",
             "albums": [
                 "TVアニメ「進撃の巨人」 The Final Season Original Soundtrack",
@@ -499,7 +499,7 @@
             "positionsGained": 0
         },
         {
-            "id": "e0b868cb-33a8-4198-81d5-f82e6c0b1350",
+            "id": "e5ee2a11-e598-40ea-8a9e-2cab5141a04b",
             "name": "Country",
             "albums": [
                 "F-1 Trillion",
@@ -517,7 +517,7 @@
             "positionsGained": 0
         },
         {
-            "id": "5346e9bb-ba2c-43c5-a883-775d654c8415",
+            "id": "e3ecfcd5-dedb-4f30-8f0e-9126b44dc349",
             "name": "Dance",
             "albums": [
                 "Discovery",
@@ -540,7 +540,7 @@
             "positionsGained": 0
         },
         {
-            "id": "14d8e483-209b-4f49-9f54-3a74e5542856",
+            "id": "a80eaf1f-1553-492c-b33d-bd8f52a43350",
             "name": "Hard rock",
             "albums": [
                 "Hybrid Theory",
@@ -555,7 +555,7 @@
             "positionsGained": 0
         },
         {
-            "id": "7713beab-d3d8-4a0f-95cc-e6c428ad0f9a",
+            "id": "3c70caaf-1c76-430a-ba50-e2d5c973a903",
             "name": "Jazz",
             "albums": [
                 "Winelight"
@@ -567,7 +567,7 @@
             "positionsGained": 0
         },
         {
-            "id": "a8b98b33-df56-49bc-bcb9-af94fe5b5ea6",
+            "id": "0626950e-d26c-4d51-b4bb-403c5bde83fe",
             "name": "Cantautores",
             "albums": [
                 "Blood Orange",
@@ -580,7 +580,7 @@
             "positionsGained": 0
         },
         {
-            "id": "e782d455-0eb5-4c5c-b38f-3cc41feb1062",
+            "id": "db6f3199-1cc2-4964-b9d8-ce7f4adc6eda",
             "name": "R&B/Soul",
             "albums": [
                 "Addicted",
@@ -594,7 +594,7 @@
             "positionsGained": 0
         },
         {
-            "id": "08db0ab5-a002-4ebb-b513-8e36067d67b4",
+            "id": "1f088b6f-a360-4be0-bdba-7839250ae083",
             "name": "Música latina",
             "albums": [
                 "54+1",
@@ -648,7 +648,7 @@
             "positionsGained": 0
         },
         {
-            "id": "c7793c06-2e05-49f4-8e03-70c3ca0cc2f0",
+            "id": "d431c29b-3622-44ac-9959-d9db8bf36e01",
             "name": "Electrónica",
             "albums": [
                 "A Moment Apart"
@@ -660,7 +660,7 @@
             "positionsGained": 0
         },
         {
-            "id": "6365db95-988c-4f78-a9e5-3c1fd8b9d683",
+            "id": "c3b258c7-cada-43bc-8c9c-b650566fbbc1",
             "name": "Pop en español",
             "albums": [
                 "11 RAZONES",
@@ -679,7 +679,7 @@
             "positionsGained": 0
         },
         {
-            "id": "b85110a8-7b8e-404b-b48f-ce9a36ee8573",
+            "id": "d4d2aceb-5286-482c-a63b-2126c3cb1476",
             "name": "Pop/Rock",
             "albums": [
                 "Metamorph"
@@ -691,7 +691,7 @@
             "positionsGained": 0
         },
         {
-            "id": "1cb0cd01-181e-4015-be88-06d40301bd35",
+            "id": "265891d1-b959-4c54-876e-0d966d4fabb2",
             "name": "Metal",
             "albums": [
                 "II: Grasp of the Undying",

@@ -1,9 +1,12 @@
 import os
 import json
+import requests
 import uuid
 from collections import defaultdict
 from datetime import datetime
 import xml.etree.ElementTree as ET
+import time
+import random
 
 
 def get_current_date():
@@ -44,6 +47,104 @@ def add_date(date):
 
         with open(json_file, "w") as f:
             json.dump(data, f, indent=2)
+
+
+current_date = get_current_date()
+output_folder = f"./{current_date}"
+current_folder = "./current"
+os.makedirs(output_folder, exist_ok=True)
+
+dates = load_json('dates.json')
+oldest_date = min(dates["data"])
+old_json_directory = f"./{oldest_date}"
+
+
+def fetch_album_data(album_name, album_artist):
+    url = "https://itunes.apple.com/search"
+    params = {"term": album_name, "limit": 1,
+              "entity": "album", "attributes": album_artist}
+    response = requests.get(url, params=params)
+    return response.json()
+
+
+def fetch_new_covers():
+    input_file = "./current/Formatted_Biblioteca_byAlbum.json"
+    output_file = "./covers.json"
+
+    with open(input_file, "r", encoding="utf-8") as file:
+        data = json.load(file)
+
+    existing_data = {}
+    if os.path.exists(output_file):
+        with open(output_file, "r", encoding="utf-8") as file:
+            try:
+                existing_data = json.load(file)
+            except json.JSONDecodeError:
+                existing_data = {"data": []}
+    else:
+        existing_data = {"data": []}
+
+    existing_album_names = {album["name"]
+                            for album in existing_data.get("data", [])}
+
+    new_albums = []
+
+    for album in data.get("data", []):
+        album_name = album.get("name")
+        album_artist = album.get("artist")
+
+        if not album_name or album_name in existing_album_names:
+            continue
+
+        result = fetch_album_data(album_name, album_artist)
+
+        if result.get("resultCount", 0) > 0:
+            artwork_url = result["results"][0].get(
+                "artworkUrl100", "Not found")
+            new_albums.append({"name": album_name, "image": artwork_url})
+        else:
+            print(f"No results found for {album_name}.")
+
+        time.sleep(random.uniform(2, 5))
+
+    existing_data["data"].extend(new_albums)
+
+    with open(output_file, "w", encoding="utf-8") as file:
+        json.dump(existing_data, file, indent=2, ensure_ascii=False)
+
+    return existing_data
+
+
+def update_covers():
+    covers = fetch_new_covers()
+    cover_dict = {cover['name']: cover['image']
+                  for cover in covers.get('data', [])}
+
+    album_file = "./current/Formatted_Biblioteca_byAlbum.json"
+    with open(album_file, "r", encoding="utf-8") as file:
+        albums = json.load(file)
+
+    for album in albums.get('data', []):
+        album_name = album.get('name')
+        if album_name in cover_dict:
+            album['image'] = cover_dict[album_name]
+
+    save_json(albums, [file_path(
+        f'Formatted_Biblioteca_byAlbum_{current_date}.json', output_folder), file_path(
+        f'Formatted_Biblioteca_byAlbum.json', current_folder)])
+
+    tracks_file = "./current/Formatted_Biblioteca.json"
+    with open(tracks_file, "r", encoding="utf-8") as file:
+        tracks = json.load(file)
+
+    for track in tracks.get('data', []):
+        album_name = track.get('album')
+        if album_name in cover_dict:
+            track['image'] = cover_dict[album_name]
+
+    save_json(tracks, [file_path(
+        f'Formatted_Biblioteca_{current_date}.json', output_folder), file_path(
+        f'Formatted_Biblioteca.json', current_folder)])
 
 
 def parse_xml(xml_file, new_xml_file):
@@ -97,7 +198,7 @@ def parse_xml(xml_file, new_xml_file):
     return tracks
 
 
-def process_tracks(tracks,  oldest_date, old_json_directory, current_date, output_folder, current_folder):
+def process_tracks(tracks):
     formatted_tracks = {"data": []}
     for track_id, track in tracks.items():
         formatted_tracks["data"].append({
@@ -133,7 +234,7 @@ def process_tracks(tracks,  oldest_date, old_json_directory, current_date, outpu
     return formatted_tracks
 
 
-def process_albums(data, oldest_date, old_json_directory, current_date, output_folder, current_folder):
+def process_albums(data):
     albums = defaultdict(lambda: {
         "id": generate_uuid(),
         "name": "",
@@ -206,7 +307,7 @@ def process_albums(data, oldest_date, old_json_directory, current_date, output_f
         f'Formatted_Biblioteca_byAlbum.json', current_folder)])
 
 
-def process_genres(data, oldest_date, old_json_directory, current_date, output_folder, current_folder):
+def process_genres(data):
     genres = defaultdict(lambda: {
         "id": generate_uuid(),
         "name": "",
@@ -255,7 +356,7 @@ def process_genres(data, oldest_date, old_json_directory, current_date, output_f
         f'Formatted_Biblioteca_byGenre.json', current_folder)])
 
 
-def process_artists(data, oldest_date, old_json_directory, current_date, output_folder, current_folder):
+def process_artists(data):
     artists = defaultdict(lambda: {
         "id": generate_uuid(),
         "name": "",
@@ -306,15 +407,6 @@ def process_artists(data, oldest_date, old_json_directory, current_date, output_
 
 
 def main():
-    current_date = get_current_date()
-    output_folder = f"./{current_date}"
-    current_folder = "./current"
-    os.makedirs(output_folder, exist_ok=True)
-
-    dates = load_json('dates.json')
-    oldest_date = min(dates["data"])
-    old_json_directory = f"./{oldest_date}"
-
     xml_file = "Biblioteca.xml"
     new_xml_file = f"Biblioteca_{current_date}.xml"
     add_date(current_date)
@@ -325,7 +417,7 @@ def main():
         f'Biblioteca_{current_date}.json', output_folder)])
 
     formatted_tracks = process_tracks(
-        tracks,  oldest_date, old_json_directory, current_date, output_folder, current_folder)
+        tracks)
     save_json(formatted_tracks, [file_path(
         f'Formatted_Biblioteca.json', current_folder), file_path(
         f'Formatted_Biblioteca_{current_date}.json', output_folder)])
@@ -333,8 +425,9 @@ def main():
     group_fields = ['albums', 'genres', 'artists']
 
     for field in group_fields:
-        globals()[f'process_{field}'](
-            formatted_tracks["data"], oldest_date, old_json_directory, current_date, output_folder, current_folder)
+        globals()[f'process_{field}'](formatted_tracks["data"])
+
+    update_covers()
 
 
 if __name__ == "__main__":

@@ -22,6 +22,7 @@ export interface Album extends BaseEntity {
   genre: string
   playCount: number
   tracks: Song[]
+  image?: string
 }
 
 export interface Artist extends BaseEntity {

@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "id": "052e429d-0e5b-4a6a-8026-9ac4ff253837",
+            "id": "b22ce7e2-e4ac-439c-9f03-a46bbda54547",
             "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
             "artist": "Arcane & League of Legends Music",
             "year": 2024,
@@ -318,10 +318,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "8993a991-d55b-4ec7-bf52-5f9c274d85bc",
+            "id": "8025e52f-6aa4-4d0c-8061-21aa8d86f5ad",
             "name": "UTOPIA",
             "artist": "Travis Scott",
             "year": 2023,
@@ -596,10 +597,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 1
+            "positionsGained": 1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/100x100bb.jpg"
         },
         {
-            "id": "10762100-4d1f-448e-87a9-13f01ca53999",
+            "id": "7e566d24-eeaa-4118-98c7-7f942907af03",
             "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
             "artist": "Ramsey",
             "year": 2021,
@@ -762,10 +764,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/cf/da/60cfdaed-e33d-4f11-dae6-12ab04b75a8c/00196922993985_Cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "b0a9dcc7-d6b3-47de-b5fa-f9847601b9c3",
+            "id": "5e977ffd-0a71-47b5-97cc-3f69517a6547",
             "name": "From Zero",
             "artist": "LINKIN PARK",
             "year": 2024,
@@ -928,10 +931,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/100x100bb.jpg"
         },
         {
-            "id": "ddaf0fe5-4574-454a-a37c-9a72f4b398c0",
+            "id": "ca0b823e-1fed-4348-b2bc-eea3168fbe2f",
             "name": "LOOM",
             "artist": "Imagine Dragons",
             "year": 2024,
@@ -1080,10 +1084,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/ad/84/11ad84d7-2baa-cfe8-6616-02e7045d7ab0/24UMGIM43945.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a5c60b4b-ce13-4b84-a88d-c99a2eed8ca8",
+            "id": "899f8ada-432a-4cdc-bb13-78e415d472b4",
             "name": "Pink Is Better",
             "artist": "Token",
             "year": 2022,
@@ -1344,10 +1349,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/81/8f/fa/818ffa27-e1a8-efd0-de9b-bf1cac8985f1/075679768643.jpg/100x100bb.jpg"
         },
         {
-            "id": "ec47f81c-8876-42aa-a38f-e514ee8a0e1f",
+            "id": "8fa523dc-3936-446f-addb-aa5e2040a695",
             "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
             "artist": "Metro Boomin",
             "year": 2023,
@@ -1538,10 +1544,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c9/ca/6b/c9ca6b51-87a9-4a13-d37f-24535687023d/23UMGIM63882.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a1c57a5b-764f-42b1-a0ef-1653633f2b32",
+            "id": "300fc245-eea3-4a70-a5d4-ea90924d263c",
             "name": "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
             "artist": "Juice WRLD",
             "year": 2018,
@@ -1732,10 +1739,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "ddb43bc4-0e89-4c78-a5d1-026141850232",
+            "id": "61ed80ad-d173-4c09-9e4f-b68d82d2bb9f",
             "name": "Discovery",
             "artist": "Daft Punk",
             "year": 2001,
@@ -1940,10 +1948,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/100x100bb.jpg"
         },
         {
-            "id": "bbeec3fa-2564-452b-87b4-8a7b65639240",
+            "id": "46840739-21fd-42af-980a-faa4fa69f1cf",
             "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
             "artist": "Taylor Swift",
             "year": 2024,
@@ -2386,10 +2395,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "2d48c5f1-1c8e-4a2f-b4ff-beda8fe54a8a",
+            "id": "97af1e9c-53fb-4943-b033-03127fba3665",
             "name": "Moon Music (Full Moon Edition)",
             "artist": "Coldplay",
             "year": 2024,
@@ -2678,10 +2688,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/6d/06/c66d06d3-0ceb-35b9-594d-4b85b697ec2c/5021732499189.jpg/100x100bb.jpg"
         },
         {
-            "id": "6bdcd789-de10-4b67-b4fa-7a02acd45ad1",
+            "id": "745d97a9-6b8b-4436-983f-cc9fe7057f2f",
             "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack)",
             "artist": "Madonna",
             "year": 2024,
@@ -2942,10 +2953,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c2/f8/d5c2f8e8-e9d8-9134-9763-c854abc7933c/24UMGIM77986.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "316818f7-3dab-41eb-b09d-308377e12ba2",
+            "id": "399a117a-3ffe-4636-977b-837b0c390a75",
             "name": "Swimming",
             "artist": "Mac Miller",
             "year": 2018,
@@ -3136,10 +3148,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/38/b5/e338b529-da3f-b4b9-b8f9-1fae428e7a23/093624905899.jpg/100x100bb.jpg"
         },
         {
-            "id": "6828adb2-298b-4589-b6bd-b8064a8b1570",
+            "id": "e4972f4a-9150-4bcb-a1f0-a28b2c4dab71",
             "name": "TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック",
             "artist": "Hiroyuki Sawano",
             "year": 2017,
@@ -3610,10 +3623,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 1
+            "positionsGained": 1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/d7/97/08/d797084f-05bf-197c-0aee-56480ee60380/PCCG_01615.jpg/100x100bb.jpg"
         },
         {
-            "id": "b0c38113-cf84-4fb4-b5a7-497d42bf3f74",
+            "id": "a1c7e938-3319-47f7-aa89-c5682af2dc35",
             "name": "Broadcast",
             "artist": "Cutting Crew",
             "year": 1986,
@@ -3762,10 +3776,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/f1/a5/1bf1a599-decb-1437-358c-4b63c8edafec/00077778600251.jpg/100x100bb.jpg"
         },
         {
-            "id": "03296ccb-b514-44fe-82c8-37fdd1155593",
+            "id": "881efa83-1ce0-4f24-9860-35e130af10b2",
             "name": "American Idiot",
             "artist": "Green Day",
             "year": 2004,
@@ -3900,10 +3915,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/9e/17/c2/mzi.ofggkufy.jpg/100x100bb.jpg"
         },
         {
-            "id": "5903eabb-d2cf-4ebc-86a6-7989ff0b0362",
+            "id": "6f08fcea-9a78-47df-9f12-c75957b36a78",
             "name": "「進撃の巨人」Season3 オリジナルサウンドトラック",
             "artist": "Hiroyuki Sawano",
             "year": 2019,
@@ -4346,10 +4362,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 7
+            "positionsGained": 7,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/00/7a/a8007a02-e081-45cd-ef27-4785188c481d/PCCG_01800.jpg/100x100bb.jpg"
         },
         {
-            "id": "ea0f1b61-b543-4d85-ab2c-5464f01e8f57",
+            "id": "a833375c-65e4-4d14-ab09-4837838fa8c3",
             "name": "Nevermind",
             "artist": "Nirvana",
             "year": 1991,
@@ -4540,10 +4557,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a574c0c9-beb4-4024-bc07-73769cf18410",
+            "id": "b7c3d90a-08d5-4c49-a6e8-35c63bc88309",
             "name": "Pronounced Leh-Nerd Skin-Nerd",
             "artist": "Lynyrd Skynyrd",
             "year": 1973,
@@ -4664,10 +4682,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/00/f3/5700f331-2d06-7f5d-cb98-43970fd52874/14UMGIM00860.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "9820ffad-5fc4-4b27-974d-ac60b0441595",
+            "id": "7287e118-c0e9-403e-a64f-bbea0dbdf516",
             "name": "Might Delete Later",
             "artist": "J. Cole",
             "year": 2024,
@@ -4844,10 +4863,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/91/e9/e591e93a-969f-6b82-9dc5-874edc3d22ba/24UMGIM38890.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "21d01455-7c04-45ba-b777-eaffa6724a9a",
+            "id": "08e39ce2-127b-40fb-9ab7-22089aad9ddf",
             "name": "2014 Forest Hills Drive",
             "artist": "J. Cole",
             "year": 2014,
@@ -5038,10 +5058,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/b9/62/92b9624d-e9fb-0e4f-f14b-6f1f96c0a3e0/21UM1IM54414.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "061bfc9b-0b4e-4fd5-86a3-a4d2351d3701",
+            "id": "9a083bfb-9601-4043-8470-ce748b213621",
             "name": "Trench",
             "artist": "twenty one pilots",
             "year": 2018,
@@ -5246,10 +5267,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/c0/2b/a3c02b76-baa1-e575-dcba-247509200424/075679864789.jpg/100x100bb.jpg"
         },
         {
-            "id": "b23d9fcc-d7b9-48a1-bb87-b1aa117799cd",
+            "id": "ae57bf4d-ff80-4968-a350-8048d056e76c",
             "name": "folklore (deluxe version)",
             "artist": "Taylor Swift",
             "year": 2020,
@@ -5496,10 +5518,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/80/dc/b580dca0-349d-036b-e09b-bd849f6affd8/20UMGIM64216.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "6262bfd2-0c08-4ccf-bc74-a216b6ad3485",
+            "id": "33d13eaa-afe1-49fb-bbf4-a19f1c40e44a",
             "name": "Stoney (Deluxe)",
             "artist": "Post Malone",
             "year": 2016,
@@ -5760,10 +5783,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/ea/45/c1ea4509-59b6-c323-c6f5-d8d676f79577/16UMGIM76040.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "1c11b715-96d0-4302-b268-29e5466ccce9",
+            "id": "9ac546a5-60a3-49c0-98e1-21a092ce742a",
             "name": "Goodbye & Good Riddance",
             "artist": "Juice WRLD",
             "year": 2018,
@@ -6010,10 +6034,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/14/b2/eb14b2c0-176d-d239-8c8a-c7b02a33fd5b/18UMGIM30624.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a48957bf-955d-4caf-8349-1c55b94411e9",
+            "id": "c325488e-8d40-456b-9662-9252972dc4fc",
             "name": "TVアニメ「進撃の巨人」 The Final Season Original Soundtrack",
             "artist": "KOHTA YAMAMOTO, Hiroyuki Sawano",
             "year": 2021,
@@ -6344,10 +6369,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 11
+            "positionsGained": 11,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/8a/2b/388a2b4b-3d7c-ea63-bb20-bf6292bbe539/PCSP_03597.jpg/100x100bb.jpg"
         },
         {
-            "id": "37ee1d37-4d8c-4f18-b71b-dc938e0ab42f",
+            "id": "d6869a8c-89c0-4ffc-af05-981b4893ee54",
             "name": "TVアニメ「進撃の巨人」オリジナルサウンドトラック",
             "artist": "Hiroyuki Sawano",
             "year": 2013,
@@ -6580,10 +6606,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 15
+            "positionsGained": 15,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d8/58/18/d858188c-a96d-a98c-e8ca-ae6f70e2825e/PCCG_01351_itunes.png/100x100bb.jpg"
         },
         {
-            "id": "65776b0c-a7ba-41ba-af5d-a45dc00f6977",
+            "id": "85e1a561-654a-462c-a17e-5ebde64baf2d",
             "name": "Greatest Hits (Bonus Track Version)",
             "artist": "Guns N' Roses",
             "year": 2004,
@@ -6802,10 +6829,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/4e/9c/b44e9c1c-54c4-0eab-544c-1c5d0933158a/20UMGIM52444.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "3a45a540-6b72-4a50-a713-6f2bb1669a59",
+            "id": "f38ea159-9fe2-4d69-aea0-d3c54efd21e8",
             "name": "F*CK LOVE (SAVAGE)",
             "artist": "The Kid LAROI",
             "year": 2020,
@@ -7125,7 +7153,7 @@
             "positionsGained": -3
         },
         {
-            "id": "117b4274-e664-4c1b-baf1-ab5c02b27fb7",
+            "id": "98576311-61c7-4c65-a795-6193f17e3d3e",
             "name": "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)",
             "artist": "Radiohead",
             "year": 2023,
@@ -7372,10 +7400,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/02/1d/2e021d5b-9ebe-91a6-7cc4-98c502203a59/23UMGIM44883.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "256a3ee4-2604-4dc6-ab4c-b076fc05f8ee",
+            "id": "13d6ecc4-e069-4d06-acab-3bc6e2f4d9b9",
             "name": "Smoke + Mirrors (Deluxe)",
             "artist": "Imagine Dragons",
             "year": 2015,
@@ -7678,10 +7707,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/a8/b0/b3a8b05f-7dfe-f557-6147-57e74dfdbebe/15UMGIM53209.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "5bf36091-3221-43e0-adb6-22fc523beb46",
+            "id": "9bb42f64-4b7d-463c-88f9-8802ee7fd9a7",
             "name": "Midnights (The Til Dawn Edition)",
             "artist": "Taylor Swift",
             "year": 2023,
@@ -8012,10 +8042,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/85/b9/a685b9f8-dad3-2ed7-58b2-ab7f64304505/23UMGIM58157.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "37076e39-dec2-4805-895f-8e1cf8658047",
+            "id": "adf37f8e-041f-4f17-9360-f45024357a48",
             "name": "WUNNA (Deluxe)",
             "artist": "Gunna",
             "year": 2020,
@@ -8388,10 +8419,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cb/f0/02/cbf002ed-38d5-3cb2-78ba-641af55c5d53/810043681926.jpg/100x100bb.jpg"
         },
         {
-            "id": "31c87b5e-1829-4c68-b16a-7007922d8575",
+            "id": "ad9d8e07-69fe-40ba-9332-106219e3b54b",
             "name": "DONDE QUIERO ESTAR",
             "artist": "Quevedo",
             "year": 2023,
@@ -8624,10 +8656,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/c2/e0/07c2e002-29f2-c975-259c-d8d49022851e/197338933862.jpg/100x100bb.jpg"
         },
         {
-            "id": "c38d5b24-1097-4211-a75e-e5d72f17cd24",
+            "id": "21a3bd44-dc52-438a-9d20-f09b9c505669",
             "name": "Red (Deluxe Version)",
             "artist": "Taylor Swift",
             "year": 2012,
@@ -8944,10 +8977,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/a4/93/be/a493bebd-bbda-a6f1-de12-f3478821b9f6/886443851184.jpg/100x100bb.jpg"
         },
         {
-            "id": "913caae2-2e22-4a66-8a40-13f169509805",
+            "id": "db772cab-563a-459b-a8d4-78fdb70fef44",
             "name": "Red (Taylor's Version)",
             "artist": "Taylor Swift",
             "year": 2021,
@@ -9376,10 +9410,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/b1/04/e1b10422-f39c-a8c7-195b-ebdb8c05489c/21UM1IM25046.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "e59ce87e-05e1-4a0e-b7b6-7e2b9d7d02f5",
+            "id": "531ca4ef-8e74-45da-a9c6-b771fde0b0f9",
             "name": "Winelight",
             "artist": "Grover Washington, Jr.",
             "year": 1980,
@@ -9472,10 +9507,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/2b/74/812b74f7-060b-7386-bb02-967cd2cdd78c/mzi.yfyaqhnz.jpg/100x100bb.jpg"
         },
         {
-            "id": "9b71a655-a655-4eaf-95fc-a882c24951ce",
+            "id": "a7735de4-49ce-4afc-bb8b-e11f861f2046",
             "name": "Lover",
             "artist": "Taylor Swift",
             "year": 2019,
@@ -9736,10 +9772,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "6de42a7e-5aed-4cf1-af1b-6e7296a28be8",
+            "id": "37a3a357-3a54-4866-bb80-199610ce1fd8",
             "name": "The Search",
             "artist": "NF",
             "year": 2019,
@@ -10028,10 +10065,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/fe/fa/3efefa81-fa46-8124-46b1-1b340baff0e9/19UMGIM46307.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "0ee0526d-9f57-431d-a0bc-7649fba1112e",
+            "id": "ae51d76a-7cf1-4a7b-a7fd-0bb7f095a7e6",
             "name": "HOPE",
             "artist": "NF",
             "year": 2023,
@@ -10222,10 +10260,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 1
+            "positionsGained": 1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/49/8d/49498da7-d2f6-24a8-8f5c-6d76119b07e7/886443503175.jpg/100x100bb.jpg"
         },
         {
-            "id": "43129b01-e2f9-4528-a463-d62b14c3d9ab",
+            "id": "b8eed439-da07-43cf-b7a3-872e9ac22fe5",
             "name": "TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02",
             "artist": "KOHTA YAMAMOTO, Hiroyuki Sawano",
             "year": 2022,
@@ -10444,10 +10483,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 23
+            "positionsGained": 23,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5f/04/e8/5f04e826-29b9-072b-1eac-5fd4f4c9927f/PCSP_04298_A.jpg/100x100bb.jpg"
         },
         {
-            "id": "7962f5ab-b4a4-4fb2-8dde-71e41799fa8e",
+            "id": "f1670a90-4fa1-46f5-876c-f91c815b6e78",
             "name": "The Eminem Show",
             "artist": "Eminem",
             "year": 2002,
@@ -10736,10 +10776,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c9/02/cd/c902cdef-e179-5b70-8142-112a2abe7f27/22UMGIM49875.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "8e9e4871-7251-4e9f-b3da-0c9d5aeb53ce",
+            "id": "2434d9ab-eaff-4d7c-868a-031a50e703a3",
             "name": "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)",
             "artist": "Fleetwood Mac",
             "year": 2017,
@@ -10944,10 +10985,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cb/59/f4/cb59f4e3-69b5-f95c-cc5d-22637b29e139/00050087368777.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "d59c1cf1-f952-406b-99d4-db7c07e3d5fa",
+            "id": "68103a1a-7374-4be9-8798-1e67a44b9e90",
             "name": "beerbongs & bentleys",
             "artist": "Post Malone",
             "year": 2018,
@@ -11208,10 +11250,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a7164505-a7bb-4b0b-90f0-8d013287c793",
+            "id": "7a0807ac-ac7f-4b1b-9eec-d28f0c408a33",
             "name": "Perception",
             "artist": "NF",
             "year": 2017,
@@ -11444,10 +11487,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 4
+            "positionsGained": 4,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/96/04/6e9604a8-3270-f86e-0c47-0127141545c3/17UM1IM17084.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "6156fa73-e0cc-4f27-b017-43bf9ab2947d",
+            "id": "21d68063-9c89-4904-b19e-f6e3212579b9",
             "name": "Life Is But a Dream...",
             "artist": "Avenged Sevenfold",
             "year": 2023,
@@ -11610,10 +11654,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/44/23/30442317-fced-e429-40ef-f536e60964c5/093624869931.jpg/100x100bb.jpg"
         },
         {
-            "id": "c2e9d92a-14bd-41e8-adb9-13351349582c",
+            "id": "fba53d54-76b0-4a9c-bf32-50680b2d4d67",
             "name": "evermore (deluxe version)",
             "artist": "Taylor Swift",
             "year": 2020,
@@ -11860,10 +11905,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/44/e3/94/44e3945f-d613-09f8-538a-aba063d59358/20UM1IM14847.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "81d9fe0f-583f-47ad-9725-374122c6445c",
+            "id": "93645fdf-0c2a-4e81-967f-335bcbaa546e",
             "name": "~how i'm feeling~",
             "artist": "Lauv",
             "year": 2020,
@@ -12166,10 +12212,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/ad/f1/ccadf18b-590a-9cdc-bb66-bcd42d6a367f/5056167113867_1.jpg/100x100bb.jpg"
         },
         {
-            "id": "ac8269d9-cce0-4d40-93a2-7cc36fba6c47",
+            "id": "1782120f-8433-4b62-a7f2-4929b7ee2f40",
             "name": "Blurryface",
             "artist": "twenty one pilots",
             "year": 2015,
@@ -12374,10 +12421,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/100x100bb.jpg"
         },
         {
-            "id": "742c2de6-4285-415f-baed-6e91c3a7f48c",
+            "id": "b2b68bcd-b5b4-4f1f-824d-a0331b72c63b",
             "name": "mama's boy (deluxe)",
             "artist": "LANY",
             "year": 2021,
@@ -12624,10 +12672,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 6
+            "positionsGained": 6,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/da/17/0ada17e2-255a-1ed8-0eb5-c3d717540d5b/20UMGIM33837.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a25fea95-d608-4f39-9dd7-e40ed0bcbd8f",
+            "id": "c4709815-9a7a-4e4f-90d2-c6c4268f4d0d",
             "name": "Dizzy Up the Girl",
             "artist": "The Goo Goo Dolls",
             "year": 1998,
@@ -12818,10 +12867,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/100x100bb.jpg"
         },
         {
-            "id": "7803105f-ac26-434c-83a0-f154812b93d8",
+            "id": "d23bfd66-8139-4770-8f3f-c447946d5532",
             "name": "Some Kind of Trouble",
             "artist": "James Blunt",
             "year": 2010,
@@ -12998,10 +13048,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -4
+            "positionsGained": -4,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/95/08/ae/9508ae11-8a08-2908-2a83-f989f50b64de/075678833038.jpg/100x100bb.jpg"
         },
         {
-            "id": "13b3293f-283a-434f-a161-aa87c0f1aaf4",
+            "id": "9de816e0-f9ba-49cc-ab9e-955a37ed17b5",
             "name": "So Much (For) Stardust",
             "artist": "Fall Out Boy",
             "year": 2023,
@@ -13192,10 +13243,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bc/dd/88/bcdd8829-c974-8467-a650-a3332eed5932/075679675552.jpg/100x100bb.jpg"
         },
         {
-            "id": "3ee8d9db-f3cf-4d8f-a680-ac57c450eaa6",
+            "id": "49a872db-cf6f-48c8-a8a1-b02cd45cd44a",
             "name": "Therapy Session",
             "artist": "NF",
             "year": 2016,
@@ -13400,10 +13452,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 5
+            "positionsGained": 5,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/54/42/1a544242-6740-c953-2d4b-cbcb4759085f/00602547250391.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "b3e93851-e315-49d7-8021-a6e680501bb2",
+            "id": "139886d4-0a07-4ad0-b5d2-44b46e9a7033",
             "name": "BUENAS NOCHES",
             "artist": "Quevedo",
             "year": 2024,
@@ -13664,10 +13717,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 6
+            "positionsGained": 6,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/6c/d6/216cd611-56e0-07bf-fdf6-5322796f7ccb/198846802275.jpg/100x100bb.jpg"
         },
         {
-            "id": "acc0bb0d-f920-4646-9af6-33789fb53be3",
+            "id": "0a060a27-11ac-4326-9d4f-8abc826514b5",
             "name": "The Joshua Tree",
             "artist": "U2",
             "year": 1987,
@@ -13830,10 +13884,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -5
+            "positionsGained": -5,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/e2/c3/8fe2c384-f6cb-9af7-371d-2b6a9b204e59/17UMGIM79292.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "3f128ae2-f662-4ba2-983e-5abba1776875",
+            "id": "1319059b-5c56-445b-ae2f-78a33270acee",
             "name": "1989 (Deluxe Edition)",
             "artist": "Taylor Swift",
             "year": 2014,
@@ -14066,10 +14121,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -5
+            "positionsGained": -5,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/45/87/544587c8-3f71-8484-3fdb-186a7d7b7326/00843930013609.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "906c8ca2-3171-4119-8abf-363c81106788",
+            "id": "f101ca84-b2b3-4f86-ad2d-b152f5eda338",
             "name": "Twelve Carat Toothache",
             "artist": "Post Malone",
             "year": 2022,
@@ -14274,10 +14330,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/e8/8b/0de88b7c-bed9-be30-24e2-82d796e7bcf3/22UMGIM49145.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "62d531e5-e0c8-49b6-a9e7-312b3b16a956",
+            "id": "504dff56-af8c-4158-9692-c4b253839528",
             "name": "Fine Line",
             "artist": "Harry Styles",
             "year": 2019,
@@ -14454,10 +14511,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -5
+            "positionsGained": -5,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c4/c9/2bc4c9d4-3bc6-ab13-3f71-df0b89b173de/886448022213.jpg/100x100bb.jpg"
         },
         {
-            "id": "dd988c16-bd1c-4021-9df0-bf1706540bf5",
+            "id": "1b8ee17e-2bd1-4e2d-9e66-9f75fe06a16d",
             "name": "Music of the Spheres",
             "artist": "Coldplay",
             "year": 2021,
@@ -14634,10 +14692,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -5
+            "positionsGained": -5,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/60/00/df600071-c5c7-24e7-e4d7-1a6b71fa44e7/190296529818.jpg/100x100bb.jpg"
         },
         {
-            "id": "d17f4977-0892-41c5-a75e-5f801f5a4d91",
+            "id": "4020bc4b-5f9f-4447-bf9c-89db849ac226",
             "name": "Speak Now",
             "artist": "Taylor Swift",
             "year": 2010,
@@ -14954,10 +15013,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/02/ea/3b02ea2d-2586-59d7-d2b8-e9b6af6b52b3/23UMGIM63932.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "5f107464-868c-4ea6-b0b1-ee9ff2f5bede",
+            "id": "9e237605-c0c4-4fae-8a22-d889042e74a4",
             "name": "From Under the Cork Tree",
             "artist": "Fall Out Boy",
             "year": 2005,
@@ -15148,10 +15208,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b2/27/f4/b227f473-75fd-f557-17ac-90fb92fc2c49/06UMGIM11830.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "d1d92a43-0921-4233-a5de-e61da9cc2901",
+            "id": "461723ae-b789-420a-9d37-7c343f0bb4f8",
             "name": "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)",
             "artist": "David Bowie",
             "year": 2014,
@@ -15328,10 +15389,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3b/46/fe/3b46fe36-3fc6-8aca-8953-71f504fd0222/14DMGIM05236.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "2427aa25-3b9c-434f-9d0f-fbefd649c428",
+            "id": "6396ee0b-b67b-4520-8f48-40457564a0b7",
             "name": "The Hunna",
             "artist": "The Hunna",
             "year": 2022,
@@ -15522,10 +15584,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/8b/d7/808bd7ae-cb85-6040-5f04-9248cf268756/cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "483a9641-59a2-4fb9-8c61-3c788e4edbf4",
+            "id": "3040ced4-06ea-4ea1-b687-7dd4232dff8a",
             "name": "Songs of Innocence",
             "artist": "U2",
             "year": 2014,
@@ -15688,10 +15751,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/90/4c/ff904c75-b4cd-b2d8-b939-762903911d73/14UMGIM39480.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "b59106f4-a0b6-4cd2-afd3-1e0b0e54f17f",
+            "id": "bd0b9cd5-f3b9-4fb7-8b4f-e7306373b228",
             "name": "AUSTIN",
             "artist": "Post Malone",
             "year": 2023,
@@ -15938,10 +16002,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 1
+            "positionsGained": 1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/6a/bc/606abcfb-9b0e-f7fe-e1b8-0d37091f29d1/23UMGIM50188.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "1138812f-5ebe-4bb6-a05a-3e38c180a712",
+            "id": "09041b63-0db1-4b3b-9b80-0f8ec12d62a7",
             "name": "Mercury - Act 2",
             "artist": "Imagine Dragons",
             "year": 2022,
@@ -16202,10 +16267,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 5
+            "positionsGained": 5,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/54/70/2d5470e7-ab60-f062-7ac8-e950e9726cba/22UMGIM37171.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "f128df81-a3ad-4035-b922-bb285e852361",
+            "id": "a0c12d4b-86cf-44a8-aa96-019520601c09",
             "name": "Mercury - Act 1",
             "artist": "Imagine Dragons",
             "year": 2021,
@@ -16410,10 +16476,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/8a/c2/018ac22e-1756-2dd1-03e7-74a55e92ea2c/21UMGIM58932.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "e8492f55-08ee-4d43-8a95-9dc5a60b2f04",
+            "id": "c61d62e3-1aa5-421a-9238-dff25a4484da",
             "name": "I met you when I was 18. (the playlist)",
             "artist": "Lauv",
             "year": 2018,
@@ -16660,10 +16727,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3d/e5/5c3de510-1123-0da6-9531-318d9597159c/5056167107347_Cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "c06088d2-f754-49d6-a471-83fca5cf6781",
+            "id": "e38907de-8e8d-4d6c-bcf1-e18b82ba089d",
             "name": "Letter To You",
             "artist": "Bruce Springsteen",
             "year": 2020,
@@ -16840,10 +16908,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7d/8c/0c/7d8c0ce3-f1cf-26d3-cb30-a790baf3a026/886448711810.jpg/100x100bb.jpg"
         },
         {
-            "id": "126bfb5d-ee13-4bac-9225-490d7bbdb496",
+            "id": "4474b520-2e86-4b9f-8d73-5c0b5b27e672",
             "name": "Hollywood's Bleeding",
             "artist": "Post Malone",
             "year": 2019,
@@ -17090,10 +17159,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "ef57f09f-fc49-4789-9635-e25e461e551f",
+            "id": "9e379cc7-2fb0-4cb5-885f-7cac892a1288",
             "name": "ATLAS (Deluxe)",
             "artist": "The Score",
             "year": 2017,
@@ -17494,10 +17564,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1c/11/bb/1c11bbb9-ef71-9765-ec68-58cb73576b6e/17UM1IM33558.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "6ae8ba9f-f283-42cb-befd-4d5429a6e1e0",
+            "id": "c7d8c2c7-ab12-40a8-94b6-42183eeb3a8a",
             "name": "Human (Deluxe)",
             "artist": "OneRepublic",
             "year": 2021,
@@ -17730,10 +17801,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/5b/8b/9f5b8bcb-8edf-c065-b25d-3872b0d50d92/19UMGIM85967.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "2cf7f7b6-b07a-4d6f-9ca6-279f1f4617d0",
+            "id": "a7cdd1df-e7ac-4147-a348-fee0936f65b9",
             "name": "A Head Full of Dreams",
             "artist": "Coldplay",
             "year": 2015,
@@ -17896,10 +17968,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/100x100bb.jpg"
         },
         {
-            "id": "8e6a6a95-9183-4a76-bd7b-425f6f49d9ad",
+            "id": "0f4fc99b-7955-4132-9a62-775dccb61bfd",
             "name": "hopeless fountain kingdom (Deluxe)",
             "artist": "Halsey",
             "year": 2017,
@@ -18132,10 +18205,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/0f/fa/0a0ffabf-43c3-c076-6d33-132c65859b33/17UMGIM86564.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "804fd196-cb47-425b-8b23-3da2eb7d999e",
+            "id": "0aebf6d5-df7e-4be2-9a21-5b38dc991e80",
             "name": "if i could make it go quiet",
             "artist": "girl in red",
             "year": 2021,
@@ -18298,10 +18372,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/b0/43/c2b04314-f52f-3ef2-bb96-f03c0c5d1e54/5056167163206_1.jpg/100x100bb.jpg"
         },
         {
-            "id": "2b986681-3955-4848-ae3a-206c76f37472",
+            "id": "e2eab213-bb1c-4f98-a1f4-a1d2eace6575",
             "name": "Night Visions",
             "artist": "Imagine Dragons",
             "year": 2013,
@@ -18506,10 +18581,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "10a9d586-5fd2-4c4b-9755-ad8bb5d434fd",
+            "id": "62c38d11-d889-4f0b-ae42-d2c83047ee68",
             "name": "Manic",
             "artist": "Halsey",
             "year": 2020,
@@ -18742,10 +18818,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 1
+            "positionsGained": 1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/22/b3/2d22b3a8-2666-d609-443f-dc6e348c7ef6/19UMGIM75011.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "733fd756-7bc6-4cdf-91a8-6f2bfcdf8caa",
+            "id": "feeec452-089e-4a8e-af5d-33019f4876a4",
             "name": "reputation",
             "artist": "Taylor Swift",
             "year": 2017,
@@ -18964,10 +19041,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/16/42/ba1642a8-0c75-a83d-3b9c-8c2eba140dc5/00843930033133.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "674db9c2-cc23-4191-9981-08404ed33f7d",
+            "id": "a40d999e-1571-4d7b-b504-f8a6a3e5fbc1",
             "name": "young forever",
             "artist": "Nessa Barrett",
             "year": 2022,
@@ -19158,10 +19236,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 1
+            "positionsGained": 1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/c4/80/89/mzi.ohttsyfh.jpg/100x100bb.jpg"
         },
         {
-            "id": "7e998866-095b-4ab7-b8ed-8122fed3cf83",
+            "id": "5c504b4e-1afa-4373-b0a5-e3881a4d0f86",
             "name": "Fearless (International Version)",
             "artist": "Taylor Swift",
             "year": 2009,
@@ -19355,7 +19434,7 @@
             "positionsGained": -1
         },
         {
-            "id": "dd9829ab-4d90-4f02-b722-799b65a4c641",
+            "id": "6a83c370-71fe-45d6-ac0e-94dd721e0736",
             "name": "...Nothing Like the Sun",
             "artist": "Sting",
             "year": 1987,
@@ -19532,10 +19611,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/d2/d2/85d2d208-5ef3-7d27-4646-e94d0753693a/22UMGIM47823.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "14c9743a-f526-47e4-8dfe-b77350181eba",
+            "id": "55356fcf-c54f-451d-8d45-bcb13d71142f",
             "name": "BLAME IT ON BABY",
             "artist": "DaBaby",
             "year": 2020,
@@ -19726,10 +19806,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/9b/06/bd9b06e4-d9e3-a471-a3e6-663b42e950cf/20UMGIM66717.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "dc4265f4-6e90-4ea3-a660-4ea21ff1a454",
+            "id": "0b22e5bc-d831-49de-8e5c-faab2a8eee9d",
             "name": "Relentless",
             "artist": "Empyre",
             "year": 2023,
@@ -19878,10 +19959,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/8a/64/6f/mzi.ildonwvr.jpg/100x100bb.jpg"
         },
         {
-            "id": "ab5e662c-d8b2-4178-95d6-78189debaf9a",
+            "id": "e2935d9e-f526-41ad-ba31-587095251fd1",
             "name": "Back To Bedlam",
             "artist": "James Blunt",
             "year": 2004,
@@ -20044,10 +20126,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 2
+            "positionsGained": 2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/a7/50/b6a75009-7eb8-5dc0-124c-047fca47c0d1/075678375224.jpg/100x100bb.jpg"
         },
         {
-            "id": "d8b47881-342a-4240-a8a7-5659709d2a15",
+            "id": "d6c1c15c-ee2e-487a-a84a-0279583a9ee2",
             "name": "Music To Be Murdered By",
             "artist": "Eminem",
             "year": 2020,
@@ -20336,10 +20419,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 6
+            "positionsGained": 6,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/bc/52/56bc527c-14a5-4ece-aeb2-380deba46d5b/20UMGIM02954.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "42c09451-5818-44b6-afa8-e3acf7c903bc",
+            "id": "0865b141-4d86-476e-b957-517b6fe8fb78",
             "name": "Origins (Deluxe)",
             "artist": "Imagine Dragons",
             "year": 2018,
@@ -20558,10 +20642,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 4
+            "positionsGained": 4,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/80/a8/3f80a8ef-5409-42ac-c126-c7354698c7fc/18UMGIM65849.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "f3175fc8-99d9-44e6-9b9f-e9625fa7ce9f",
+            "id": "3e2ea614-b001-42e4-962c-85944928db1b",
             "name": "Moon Landing",
             "artist": "James Blunt",
             "year": 2013,
@@ -20724,10 +20809,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/fb/23/56fb23e5-0965-e191-b301-19c5090060f4/825646402335.jpg/100x100bb.jpg"
         },
         {
-            "id": "24cd0fd0-7c38-4fcb-b940-c6a01dba5e9a",
+            "id": "e1eace08-db5a-4df6-9280-fca66fe6ffc7",
             "name": "Return of the Dream Canteen",
             "artist": "Red Hot Chili Peppers",
             "year": 2022,
@@ -20974,10 +21060,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/68/87/05/688705e6-ff03-16f6-2509-defaeea662be/093624875611.jpg/100x100bb.jpg"
         },
         {
-            "id": "b872efae-dbad-463e-8e3c-76467ea93e26",
+            "id": "49bd6d65-3bff-46c4-a83f-c2996f4ecc0f",
             "name": "THINK LATER",
             "artist": "Tate McRae",
             "year": 2023,
@@ -21182,10 +21269,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/9a/d3/1b9ad377-0346-7c99-bbdd-6dbbaf0d1107/196871542654.jpg/100x100bb.jpg"
         },
         {
-            "id": "e59e4479-9c06-4794-94e5-cee929cb5b09",
+            "id": "4ea32005-9b43-4d2a-b851-b828d8906531",
             "name": "The Golden Age",
             "artist": "Woodkid",
             "year": 2013,
@@ -21390,10 +21478,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8a/bb/b8/8abbb875-e377-2156-e768-9cf3912faba2/00602537276257.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a61d91e8-7578-4ff1-a8ca-b2a87fa246b7",
+            "id": "5f952276-3847-4540-9e98-26434d2dfeb5",
             "name": "The Death of Slim Shady (Coup De Grâce)",
             "artist": "Eminem",
             "year": 2024,
@@ -21668,10 +21757,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 2
+            "positionsGained": 2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/2c/ce/8b2cced1-ef53-ae9f-df26-5c5d8ad0009e/24UMGIM70968.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "66690196-972e-4ad4-876b-c238b2cade1f",
+            "id": "74bbdca3-a6d6-4297-ae8b-28668090ba18",
             "name": "Addicted",
             "artist": "Daniel Di Angelo",
             "year": 2018,
@@ -21820,10 +21910,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/17/3b/92173ba9-9d6d-b8e3-fbb9-b26b40983d6d/mzm.zyirlvas.jpg/100x100bb.jpg"
         },
         {
-            "id": "710d502d-c7f3-4b40-9cdf-864851b34ff0",
+            "id": "98239045-ed10-43c5-b01d-b74106a38b91",
             "name": "The Jaws of Life",
             "artist": "Pierce the Veil",
             "year": 2023,
@@ -22000,10 +22091,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 1
+            "positionsGained": 1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/26/4f/d2/264fd23a-66a4-5aa6-8617-bd0afcf0d824/22CRGIM31777.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "20259728-dc6f-4975-ae23-bbc9552857cf",
+            "id": "9bf4b933-2184-47fa-92c1-8db8057e27e3",
             "name": "BADLANDS (Deluxe Edition)",
             "artist": "Halsey",
             "year": 2015,
@@ -22236,10 +22328,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/36/55/ae3655f6-2e9e-8261-e1d8-db09739f4b6e/15UMGIM28494.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "bd79df06-4910-4375-a083-634e323c21a2",
+            "id": "f07b6592-e86e-472b-a0a0-e201c9617c4e",
             "name": "Blood Orange",
             "artist": "Freya Ridings",
             "year": 2023,
@@ -22444,10 +22537,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/15/94/dc/1594dc78-a927-f905-9e68-da3621bc3dc4/197187412297.jpg/100x100bb.jpg"
         },
         {
-            "id": "2accd0c0-851e-48cb-8a38-d81c71aaaf68",
+            "id": "bfe4d9dd-c3e1-438d-8ee3-59d13b82cb1a",
             "name": "Meteora",
             "artist": "LINKIN PARK",
             "year": 2003,
@@ -22638,10 +22732,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/dd/7d/72/dd7d7259-d27f-5b3e-ce64-9e304d2cb40f/dj.rxzrauer.jpg/100x100bb.jpg"
         },
         {
-            "id": "5604eb13-6a18-41ab-aba8-aaedbc239fc2",
+            "id": "eeed9851-c261-4009-9420-d0cde7fc8d65",
             "name": "Speak Now (Taylor's Version)",
             "artist": "Taylor Swift",
             "year": 2023,
@@ -22958,10 +23053,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/02/ea/3b02ea2d-2586-59d7-d2b8-e9b6af6b52b3/23UMGIM63932.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "05a8f665-2b18-4915-9d08-63a623ed8ddb",
+            "id": "81484c10-03a4-47f8-a16e-4c2a59012bee",
             "name": "Encore",
             "artist": "Eminem",
             "year": 2004,
@@ -23250,10 +23346,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/c4/11/40c41197-802e-6726-f48d-aeb43acb4189/075679953261.jpg/100x100bb.jpg"
         },
         {
-            "id": "872ddf63-ac6a-474b-aa49-e55c038cb480",
+            "id": "ab09fb3c-717f-48b0-9450-153a66997264",
             "name": "THE S(EX) TAPES",
             "artist": "FLETCHER",
             "year": 2020,
@@ -23360,10 +23457,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/46/4b/0e464b5c-d563-9bf4-24ca-6da8952482f3/20UMGIM70086.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "2bc0d140-5981-46ff-a87b-3867c48bcb45",
+            "id": "d86fd016-99d6-4021-bcc7-913af07750ac",
             "name": "Taylor Swift (Deluxe Edition)",
             "artist": "Taylor Swift",
             "year": 2006,
@@ -23582,10 +23680,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/45/87/544587c8-3f71-8484-3fdb-186a7d7b7326/00843930013609.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "5c5b722e-9859-4d41-86a5-6b8c77a39599",
+            "id": "3c7d490d-2450-4807-85ed-01d8367ed232",
             "name": "SOUR",
             "artist": "Olivia Rodrigo",
             "year": 2021,
@@ -23748,10 +23847,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "be769268-3de4-403d-ab0d-c0c5bb6224dd",
+            "id": "42d29170-6917-4d09-91b3-67ed5d3ee038",
             "name": "Death Race For Love (Bonus Track Version)",
             "artist": "Juice WRLD",
             "year": 2019,
@@ -24082,10 +24182,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 15
+            "positionsGained": 15,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/e1/fc/86e1fc10-e593-0568-dc18-2cc2ae06e09b/19UMGIM16007.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "8a46c101-38bc-487c-a0d2-92526510ff62",
+            "id": "96ec1910-19d6-46a4-941e-0e0fd0d6a2c7",
             "name": "Fearless (Taylor's Version)",
             "artist": "Taylor Swift",
             "year": 2021,
@@ -24458,10 +24559,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "8808d93a-72bd-4fb1-b309-2606b50d22c3",
+            "id": "89a36dd3-d6dd-49c8-ae02-712b040176a0",
             "name": "Homesick - EP",
             "artist": "Trevor Daniel",
             "year": 2018,
@@ -24554,10 +24656,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/30/a7/ae30a7d4-3bc4-fec4-d5cf-a21f24e98e03/888915751855.jpg/100x100bb.jpg"
         },
         {
-            "id": "6f477dd7-cc8c-4e28-9cae-31954d8d0b65",
+            "id": "4d1fd3de-3f02-4263-b196-ead82566ca29",
             "name": "The Afterlove (Extended Version)",
             "artist": "James Blunt",
             "year": 2017,
@@ -24762,10 +24865,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 2
+            "positionsGained": 2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/5d/26/6e5d26fd-8123-d7c1-9c40-1c708023c4e7/190295783853.jpg/100x100bb.jpg"
         },
         {
-            "id": "f437d7f2-7165-4e1d-ad3c-a1129ccc0757",
+            "id": "4d7b4a94-9856-4330-ac3f-c8f3e723fcb4",
             "name": "TRAUMA",
             "artist": "I Prevail",
             "year": 2019,
@@ -24956,10 +25060,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/0c/8e/e40c8e78-987e-0114-43ea-5caf4d442a85/18CRGIM07197.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a44ed129-3a63-4171-8c53-c33d5b6119f2",
+            "id": "e226eb80-37e9-4cff-bb3b-5cf5cd3ed13c",
             "name": "Evolve",
             "artist": "Imagine Dragons",
             "year": 2017,
@@ -25136,10 +25241,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 9
+            "positionsGained": 9,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "d41df9d1-78bd-47e8-8139-05f72f53c60a",
+            "id": "53f3df76-4c07-4f6e-9ad1-3a18b2e0dbda",
             "name": "Wonder",
             "artist": "Shawn Mendes",
             "year": 2020,
@@ -25344,10 +25450,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -4
+            "positionsGained": -4,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/f0/d2/d5f0d270-fc16-5691-d83e-917c067a6561/20UMGIM83351.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "08710239-8e87-4b63-b4ad-a6f776b51d78",
+            "id": "ac0aa579-8aca-4da7-9b76-dfe5e7d107a9",
             "name": "LANY",
             "artist": "LANY",
             "year": 2017,
@@ -25580,10 +25687,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -4
+            "positionsGained": -4,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9e/1e/b2/9e1eb210-d6d6-efd6-658e-1b59bb78eccf/00602557466126.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "a5207475-3105-43ea-ae1c-ff00a155241a",
+            "id": "c5eab9f5-54fd-4dfb-812f-3c101bd63d46",
             "name": "Harry's House",
             "artist": "Harry Styles",
             "year": 2022,
@@ -25774,10 +25882,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/100x100bb.jpg"
         },
         {
-            "id": "6b4fd12d-0319-49a9-a07f-b4e82e02002e",
+            "id": "729ca465-7674-4b68-9b41-bcbf602bd187",
             "name": "The Marshall Mathers LP",
             "artist": "Eminem",
             "year": 2000,
@@ -26038,10 +26147,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 4
+            "positionsGained": 4,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "8250b9d7-f21c-46df-908e-eebcb660eb99",
+            "id": "fba734c6-c7b9-45f9-a203-402c148794eb",
             "name": "All the Lost Souls",
             "artist": "James Blunt",
             "year": 2007,
@@ -26204,10 +26314,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/df/4f/a1/df4fa17c-1093-485f-ebf4-501bcbbb43d2/075678997242.jpg/100x100bb.jpg"
         },
         {
-            "id": "bfbca453-a1e7-4df9-b0aa-efec89e5d0ff",
+            "id": "9057a434-fc56-4859-a6cd-ce0f51d3e702",
             "name": "1989 (Taylor's Version) [Deluxe]",
             "artist": "Taylor Swift",
             "year": 2023,
@@ -26524,10 +26635,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "cd9a720b-6339-4acb-b055-61cc709eb64c",
+            "id": "0993f1c5-b432-4bc4-8dc1-c724a6e61b24",
             "name": "gg bb xx",
             "artist": "LANY",
             "year": 2021,
@@ -26704,10 +26816,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/ed/a0/d4eda068-4307-781e-1415-933c686f5553/21UMGIM61686.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "4b2357e9-83b2-432f-b0b0-93f2fafd2d48",
+            "id": "28129149-9d27-4c21-ac1b-1a4d32f3a9d3",
             "name": "That Was Then",
             "artist": "Trevor Daniel",
             "year": 2021,
@@ -26814,10 +26927,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/7c/c8/82/mzi.letyapng.tif/100x100bb.jpg"
         },
         {
-            "id": "932392e1-335f-4d68-ad95-dcc5333e0030",
+            "id": "0af6b309-38b4-4201-80e4-f294ec0b517b",
             "name": "Once Upon a Mind",
             "artist": "James Blunt",
             "year": 2019,
@@ -26980,10 +27094,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/7e/9f/eb7e9f7e-8fed-7e65-d8f1-4a23303b9b2b/190295361280.jpg/100x100bb.jpg"
         },
         {
-            "id": "344096f3-e557-419b-8a95-abe984a41f2e",
+            "id": "3ead2381-ffe7-47c2-9853-ad15765c5e9e",
             "name": "Sick Boy",
             "artist": "The Chainsmokers",
             "year": 2018,
@@ -27132,10 +27247,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/24/e1/6324e131-0034-4753-9cc6-ade1da39a4a8/886447471074.jpg/100x100bb.jpg"
         },
         {
-            "id": "c9c9ddb0-1abe-4067-a672-3fd935e63933",
+            "id": "6b536b18-7c6c-4fe0-8f53-510948df0c07",
             "name": "Heart Shaped World",
             "artist": "Chris Isaak",
             "year": 1989,
@@ -27298,10 +27414,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/34/9b/d0349b33-35fb-8913-8755-08b6a1bdd382/21UMGIM47740.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "1e7acbd3-f675-427f-a2da-a4bcdc896793",
+            "id": "e6573c02-0f8c-4a72-9c0e-7cf59b98f8ff",
             "name": "CLOUDS (THE MIXTAPE)",
             "artist": "NF",
             "year": 2021,
@@ -27464,10 +27581,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 8
+            "positionsGained": 8,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/38/87/c23887b2-b0db-6962-61ac-203f801c5fa3/21UMGIM08880.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "273398e4-b297-4584-afea-808595ba0c7e",
+            "id": "00ef0a69-27d0-41fc-97b9-7d1f81089cb7",
             "name": "Restless - EP",
             "artist": "Trevor Daniel",
             "year": 2019,
@@ -27560,10 +27678,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/18/9b/ce/189bce77-b158-adeb-ef71-b1b0a2d5fa4f/887516147494.jpg/100x100bb.jpg"
         },
         {
-            "id": "8946a3d3-e54f-48a5-8c60-1fbbd30a0809",
+            "id": "c0069063-7c57-4ef0-97b2-df21e6cb9d27",
             "name": "All 4 Nothing",
             "artist": "Lauv",
             "year": 2022,
@@ -27754,10 +27873,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 3
+            "positionsGained": 3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/99/55/04995508-c4d6-4c5a-79fe-cc71e53a34ac/22UMGIM33632.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "f4fede45-91fb-49dd-abd0-bc42f3a7b9a8",
+            "id": "648b4a8a-3fcb-458b-95fa-a0392676f88b",
             "name": "Fireworks & Rollerblades",
             "artist": "Benson Boone",
             "year": 2024,
@@ -27976,10 +28096,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/c1/9c/a5c19c62-d641-93b4-2800-e74778569f5f/093624852483.jpg/100x100bb.jpg"
         },
         {
-            "id": "1ce72686-8e10-4a91-aa83-d5c1498cb505",
+            "id": "33b32a89-8181-4b11-8eb1-88555be4719a",
             "name": "Business As Usual",
             "artist": "Men At Work",
             "year": 1981,
@@ -28128,10 +28249,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 12
+            "positionsGained": 12,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/80/07/23/80072391-3543-cdb9-e298-08d5f0595f41/dj.uyepaoyc.jpg/100x100bb.jpg"
         },
         {
-            "id": "32f838ba-d382-4a19-bd17-d1fb78faa545",
+            "id": "753d3881-f7b1-4f53-87a6-fa38d64e8498",
             "name": "Songs Of A Lost World",
             "artist": "The Cure",
             "year": 2024,
@@ -28252,10 +28374,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/25/d9/5b25d98e-3734-a7fd-c198-69ffd088d10f/24UMGIM94240.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "4ef97048-ec0f-4c73-a2a6-d4b43149d271",
+            "id": "c8edc221-b9d9-401a-8f53-99d33a3d93ec",
             "name": "I'M DOING IT AGAIN BABY!",
             "artist": "girl in red",
             "year": 2024,
@@ -28404,10 +28527,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/70/1c/f6701c37-b467-97f3-f753-b86e971d527a/196871778343.jpg/100x100bb.jpg"
         },
         {
-            "id": "c7f74907-7244-4ac1-9bd7-e35c5273e7dd",
+            "id": "f641483c-df78-484d-a773-6517f5895031",
             "name": "Nicotine",
             "artist": "Trevor Daniel",
             "year": 2020,
@@ -28556,10 +28680,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/ed/73/deed7300-00be-23a5-d2b1-6c09d2fe0795/880547856731.jpg/100x100bb.jpg"
         },
         {
-            "id": "83f183df-22f5-4131-ae9c-951542237167",
+            "id": "564d24a0-0346-4fad-ac6c-33581b499bd5",
             "name": "The Wild Robot (Original Motion Picture Soundtrack)",
             "artist": "Kris Bowers",
             "year": 2024,
@@ -29142,10 +29267,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/5b/b4/a15bb48e-be43-9736-965e-d8d4b4625da0/819.jpg/100x100bb.jpg"
         },
         {
-            "id": "a3ad37ca-b2ca-4d1b-9091-58f83d952c65",
+            "id": "693cbf80-0dc0-4e69-b433-747d8ab4f97f",
             "name": "Music To Be Murdered By - Side B",
             "artist": "Eminem",
             "year": 2020,
@@ -29378,10 +29504,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/36/53/7d36532b-0e8c-90d3-3dbc-b2239d1ad0ad/20UM1IM15658.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "f3a6404f-3d24-4ea4-a955-7a57c4aede99",
+            "id": "acf068d2-0fd1-4c81-8e2e-91954e585734",
             "name": "Hybrid Theory",
             "artist": "LINKIN PARK",
             "year": 2000,
@@ -29558,10 +29685,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f0/31/b2/f031b2b2-bcf0-6102-426f-e0b2c7437415/dj.vrgpwamf.jpg/100x100bb.jpg"
         },
         {
-            "id": "9c6aadbd-a5b4-40e7-ac2f-114940004c6f",
+            "id": "3ff1c9e4-ada7-4bba-902c-703eb804deed",
             "name": "Make Out - EP",
             "artist": "LANY",
             "year": 2018,
@@ -29654,10 +29782,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 3
+            "positionsGained": 3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d6/d8/0f/d6d80fbc-c06b-0e29-8495-529f8ebdcc53/00602547731050.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "9658d3bd-7cbc-45fe-941f-4f0747629867",
+            "id": "109c86f9-9366-43a2-a280-79ffc66a968a",
             "name": "Ghost Stories",
             "artist": "Coldplay",
             "year": 2014,
@@ -29792,10 +29921,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/100x100bb.jpg"
         },
         {
-            "id": "f5f2026e-6da9-4762-9f21-a0a6aaa3162d",
+            "id": "42ba4a71-e2e2-4590-bcd3-b75996e20b8e",
             "name": "Fix Yourself, Not the World",
             "artist": "The Wombats",
             "year": 2022,
@@ -29972,10 +30102,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/33/ab/e833ab29-222b-b9c2-62a7-26879b7916b7/5056167164982_1.jpg/100x100bb.jpg"
         },
         {
-            "id": "18f82912-ed17-4dd5-985d-e03c95d562c0",
+            "id": "eea4df12-098b-47c8-96b7-2429212c45ea",
             "name": "Malibu Nights",
             "artist": "LANY",
             "year": 2018,
@@ -30110,10 +30241,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -3
+            "positionsGained": -3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/35/dc/b435dcd6-1feb-b96f-46ce-9517b06c9e52/00602577021664.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "f4d10fe6-a267-47db-8d69-ba150a20d52a",
+            "id": "b20a6992-9eb7-429b-b0ab-80db631ea849",
             "name": "F-1 Trillion",
             "artist": "Post Malone",
             "year": 2024,
@@ -30374,10 +30506,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/ad/c8/95adc8ca-e583-1800-9b56-4665f186e899/24UMGIM60824.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "2c93f7c3-93cf-4410-a6dd-574c8dd8932b",
+            "id": "c4150f22-e0c4-4a8c-ab8c-5a0ca5b7b195",
             "name": "Kamikaze",
             "artist": "Eminem",
             "year": 2018,
@@ -30568,10 +30701,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/f8/88/58f88801-2fc9-4600-a07f-425bb94315c8/00602577046223.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "388aad46-feb5-4b87-ab56-9a025db5e443",
+            "id": "10c67698-1c8d-43dd-899a-7c423708c36a",
             "name": "Good Riddance",
             "artist": "Gracie Abrams",
             "year": 2023,
@@ -30748,10 +30882,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/76/c2/b676c229-9eac-8c51-cf93-47d4c2e0a973/22UM1IM44923.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "c5f95a81-b301-4e3b-8e9b-d561fa26499f",
+            "id": "0dd12bcb-ab8f-4ec6-a136-1105fa093f01",
             "name": "AFTERCARE",
             "artist": "Nessa Barrett",
             "year": 2024,
@@ -30970,10 +31105,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 3
+            "positionsGained": 3,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/11/7f/b4117f1d-ba82-1662-801a-78a8644a39ff/093624852452.jpg/100x100bb.jpg"
         },
         {
-            "id": "e23fbd15-92b8-4f46-88e5-17c934dfe870",
+            "id": "f958fb17-829a-4db1-bfa2-7374211a34c5",
             "name": "How To Let Go",
             "artist": "Sigrid",
             "year": 2022,
@@ -31150,10 +31286,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d7/db/80/d7db80e0-c9fa-1e32-cf86-bb786f3b376d/21UMGIM65173.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "40180fdd-c9c6-404a-a53f-f38e52c54655",
+            "id": "4870a0d8-aee2-4093-af0c-8aff9251b470",
             "name": "Voicenotes",
             "artist": "Charlie Puth",
             "year": 2018,
@@ -31344,10 +31481,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/e2/1b/a8e21b3b-9c8d-2974-2318-6bcd4c9d2370/075679884336.jpg/100x100bb.jpg"
         },
         {
-            "id": "755d665b-18ea-4643-9aaf-b6cad93ded7a",
+            "id": "7251fde8-1e5f-4bab-9a21-676a293d11c8",
             "name": "SMITHEREENS",
             "artist": "Joji",
             "year": 2022,
@@ -31482,10 +31620,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 2
+            "positionsGained": 2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/97/a8/5397a8df-b197-6eae-8b53-a4c871563a54/93624864394.jpg/100x100bb.jpg"
         },
         {
-            "id": "3caa29b7-51b1-45b1-a1fb-25c0a7a10287",
+            "id": "ebfee4d8-f327-453d-a3e3-b9ec26c4ef3b",
             "name": "Higher Than Heaven (Deluxe)",
             "artist": "Ellie Goulding",
             "year": 2023,
@@ -31718,10 +31857,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -2
+            "positionsGained": -2,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2d/ae/06/2dae0610-2438-71d0-1c99-eb76352367c2/22UM1IM11045.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "c35023d6-1151-4fbb-9748-637801034751",
+            "id": "5aec14a3-2eb5-4ac5-b52a-133f5e634445",
             "name": "If I Can’t Have Love, I Want Power",
             "artist": "Halsey",
             "year": 2021,
@@ -31912,10 +32052,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/4e/07/8c4e07bc-7d08-fe98-a0fa-413ca6e7441a/21UMGIM35852.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "9b1d6f1b-3f6f-418c-96dc-4aac10d450d0",
+            "id": "0475d612-be0c-4308-9fee-ad84456cfa9c",
             "name": "Freya Ridings",
             "artist": "Freya Ridings",
             "year": 2019,
@@ -32092,10 +32233,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/da/7b/e1da7b05-1d8a-2d5f-8d20-10108855d14b/19UMGIM46350.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "32e3792c-d57a-41ff-a926-871d0e924697",
+            "id": "ce752dee-7e32-4c6b-b37e-198686ca8c2d",
             "name": "Seasons",
             "artist": "American Authors",
             "year": 2019,
@@ -32244,10 +32386,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/b6/98/a0b6983b-3e5b-0a42-3d04-308425815922/s06.tapekocb.jpg/100x100bb.jpg"
         },
         {
-            "id": "f2a29ba3-7fdd-4cf4-8de6-3412d36efae9",
+            "id": "e3b92a5f-79fa-42b8-82de-8537f7af43cb",
             "name": "CHARLIE",
             "artist": "Charlie Puth",
             "year": 2022,
@@ -32424,10 +32567,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/5f/22/7e5f2239-6143-7cf4-dfe1-d9b53d47c4c0/075679736307.jpg/100x100bb.jpg"
         },
         {
-            "id": "c1cddad1-6b61-4b9e-a228-12c2a0346f09",
+            "id": "079375b0-77bc-4b51-a9a7-161978af9c99",
             "name": "This Is What It Feels Like",
             "artist": "Gracie Abrams",
             "year": 2021,
@@ -32604,10 +32748,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dc/08/3f/dc083fdd-37be-a036-2b34-a48e4935d28a/8718522030093.jpg/100x100bb.jpg"
         },
         {
-            "id": "82a63c20-f09c-4692-9f4b-758b2ac8f8c1",
+            "id": "be5fb5d2-278b-4fd8-a412-f6028a097872",
             "name": "Harry Styles",
             "artist": "Harry Styles",
             "year": 2017,
@@ -32756,10 +32901,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/100x100bb.jpg"
         },
         {
-            "id": "f3f3ad13-5108-4554-837f-9ce52613da3e",
+            "id": "bc36e4d8-35a6-4736-bb48-f38294b3b93c",
             "name": "kinda - EP",
             "artist": "LANY",
             "year": 2016,
@@ -32852,10 +32998,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/ce/f3/adcef36b-5239-201e-adf9-1d8b3098bd0f/00602557010190.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "8a1d545e-7e9d-47e7-82e3-4218df5bfc13",
+            "id": "1e8ff1cb-48a1-4aad-88bb-95e62a8dd1c1",
             "name": "Short n' Sweet",
             "artist": "Sabrina Carpenter",
             "year": 2024,
@@ -33032,10 +33179,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "b5eae101-1cc2-4345-adda-4b30cbf15bd8",
+            "id": "b95cf7b2-f936-409e-b292-42e5082ada63",
             "name": "Everybody Else Is Doing It, So Why Can't We?",
             "artist": "The Cranberries",
             "year": 1993,
@@ -33212,10 +33360,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/3c/68/ce3c684e-b147-d580-b2ea-8655a854ebce/06UMGIM00853.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "0c1b7a28-4447-42ba-860e-7a03e1fa3d8b",
+            "id": "f4dd5669-1beb-46fd-bbf0-94952b34ce11",
             "name": "Shawn Mendes (Deluxe)",
             "artist": "Shawn Mendes",
             "year": 2018,
@@ -33448,10 +33597,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/1d/95/731d9575-4dc2-23f9-baad-d3f624022020/18UMGIM23926.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "f4d4a78c-5306-41cb-8a72-ac89b5906aed",
+            "id": "f9516ae8-4aad-468a-ba2b-d90fde1ce8e4",
             "name": "I Loved You. - EP",
             "artist": "LANY",
             "year": 2016,
@@ -33530,10 +33680,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/aa/df/25/aadf25a8-4558-5d1a-7494-34dc724b211b/cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "aeac3fee-1284-4132-b01d-f2d8eefeb8b2",
+            "id": "6b8b8237-4720-480c-8f37-c97319b9b03b",
             "name": "Professional Rapper",
             "artist": "Lil Dicky",
             "year": 2015,
@@ -33822,10 +33973,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/08/cb/2508cb9d-5c9c-0689-8fc5-235100fe681f/192641548086_Cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "6564acde-1c55-4188-9b8d-8d51026fe368",
+            "id": "7a53797c-138a-4e49-a925-d1d26e12b49c",
             "name": "TRUE POWER",
             "artist": "I Prevail",
             "year": 2022,
@@ -34044,10 +34196,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/35/9e/34/359e3433-ae1a-2e8c-b01f-1a5e232ac8a5/21CRGIM27443.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "48aaca56-71b8-44f8-b95d-ce4ee7db16cf",
+            "id": "455a517c-2fe7-4357-b9b5-d1aa8cc1e164",
             "name": "Un Verano Sin Ti",
             "artist": "Bad Bunny",
             "year": 2022,
@@ -34378,10 +34531,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/100x100bb.jpg"
         },
         {
-            "id": "3f7b8dd5-253a-423d-9420-00848d97a3f9",
+            "id": "18d31b1c-b836-46c0-9752-da002d2f427e",
             "name": "Room 93 - EP",
             "artist": "Halsey",
             "year": 2015,
@@ -34460,10 +34614,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/12/ab/39/12ab3924-e407-d0d0-f5ec-3245eaceb811/15UMGIM16550.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "8ae36580-b0d8-4fef-a19a-580dce0d905b",
+            "id": "aadd2915-8f27-4ba0-8b2a-a90816351000",
             "name": "hell is a teenage girl",
             "artist": "Nessa Barrett",
             "year": 2023,
@@ -34584,10 +34739,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/7b/30/3a7b30a1-2535-3585-6497-8a3a545cc624/093624855033.jpg/100x100bb.jpg"
         },
         {
-            "id": "f70f266b-ac9f-4a3d-afb0-87450ae29e80",
+            "id": "341e23eb-b2c4-4e55-9be9-8fea45ddc6ba",
             "name": "A Moment Apart",
             "artist": "ODESZA",
             "year": 2017,
@@ -34820,10 +34976,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3d/2a/f3/3d2af348-220d-06fa-b20b-21dc339afc53/5054429135121.png/100x100bb.jpg"
         },
         {
-            "id": "fa000872-f62b-4ab4-8caa-8432f3594c21",
+            "id": "3d39f89a-f693-4fe8-addc-9ad00cc5a672",
             "name": "Shawn",
             "artist": "Shawn Mendes",
             "year": 2024,
@@ -35000,10 +35157,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 7
+            "positionsGained": 7,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/07/3b/96073b55-8e58-ef6e-6e81-2d751ac83ed8/24UMGIM83490.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "7d571d94-dbbb-4e44-bd24-eacfb827edc6",
+            "id": "9de1d9bf-555c-423a-93c8-b56d9e80ee24",
             "name": "Free Spirit",
             "artist": "Khalid",
             "year": 2019,
@@ -35250,10 +35408,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/cb/39/cdcb393c-14e6-786a-b120-320957c25699/886447501610.jpg/100x100bb.jpg"
         },
         {
-            "id": "53bb13c8-e370-4527-bbf4-11090fd3b4d9",
+            "id": "13b9a12a-0e6f-4440-a937-132d120f24fc",
             "name": "Feel Something",
             "artist": "Jaymes Young",
             "year": 2017,
@@ -35430,10 +35589,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/bf/6d/fbbf6d06-9a6c-9c49-c313-aed403613252/075679900180.jpg/100x100bb.jpg"
         },
         {
-            "id": "4a13f8ef-5bea-4cd0-8ca8-2d82002c4c61",
+            "id": "89190cda-2abc-4d7d-a691-d5cba3053344",
             "name": "÷ (Deluxe)",
             "artist": "Ed Sheeran",
             "year": 2017,
@@ -35666,10 +35826,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/100x100bb.jpg"
         },
         {
-            "id": "15f2203a-5e69-4745-97f2-221607792bc9",
+            "id": "e1e573b4-ed83-4c4f-b439-81f9e6dfcaf2",
             "name": "Euphoria (Original Score from the HBO Series)",
             "artist": "Labrinth",
             "year": 2019,
@@ -36042,10 +36203,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/f4/05/6ff40578-72c8-e9ed-5413-96dc4874cc86/886447932223.jpg/100x100bb.jpg"
         },
         {
-            "id": "1774b019-7aaa-4242-b259-56aafdc034f2",
+            "id": "7a512405-d00e-4afc-8070-9f66aface8bd",
             "name": "OASIS",
             "artist": "J Balvin & Bad Bunny",
             "year": 2019,
@@ -36166,10 +36328,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/32/74/7732746d-25e5-baae-b921-bad4a07d87b1/19UMGIM55524.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "01509776-b8d3-4ef7-b7f1-6abb589e6d70",
+            "id": "868781a4-a2d7-4e72-8049-4791f0210bf9",
             "name": "ROOM UNDER THE STAIRS",
             "artist": "ZAYN",
             "year": 2024,
@@ -36388,10 +36551,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/e5/bc/1ae5bced-ba9f-4610-357e-93eaa1f97b8e/24UMGIM24552.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "655a7ba1-e6a0-493a-a76d-a39bd431c044",
+            "id": "79ad87c9-7db4-4726-9188-bd3fd31c1e00",
             "name": "KG0516",
             "artist": "KAROL G",
             "year": 2021,
@@ -36624,10 +36788,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": -1
+            "positionsGained": -1,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/be/ca/11beca85-d1fa-ff53-b0be-ca07a6c29deb/21UMGIM20318.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "835bb726-8351-43b2-9495-0e5bbf47ec04",
+            "id": "aad84b91-6f5f-4e92-ba01-8908c7f31879",
             "name": "EVERY LOSER",
             "artist": "Iggy Pop",
             "year": 2023,
@@ -36790,10 +36955,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6d/9d/70/6d9d70c9-9ff3-167c-615a-13684c14a2e0/075679726544.jpg/100x100bb.jpg"
         },
         {
-            "id": "befe5af8-b8b4-41ad-817f-5427893a4316",
+            "id": "7d77e9d5-05c5-44cd-9cde-b4d000cbc0ca",
             "name": "Divinely Uninspired To a Hellish Extent (Extended Edition)",
             "artist": "Lewis Capaldi",
             "year": 2019,
@@ -37012,10 +37178,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/58/7c/9f587c97-f0e9-e335-d8e2-60b8e2d62bad/19UMGIM90850.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "90ef39cd-4cc7-4eef-a786-4f21d904babf",
+            "id": "a6df032a-a08d-4006-bee4-5e8bdf874c60",
             "name": "Bailar El Viento",
             "artist": "Manuel Carrasco",
             "year": 2015,
@@ -37206,10 +37373,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/d9/6b/82d96b1c-4cc7-99f7-edc6-d40655f3e270/00602547598721.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "4483e566-a595-43ff-b5c6-9ff7361a3b58",
+            "id": "04472d64-5593-4629-81a3-bab132bbd985",
             "name": "UNIKORNIO Once millones de versos después de ti",
             "artist": "Pablo López",
             "year": 2020,
@@ -37358,10 +37526,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/fd/26/b1fd2651-9010-666d-c343-c1dc7a6ab09e/20UM1IM04132.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "b196d063-0fdb-4bb5-acc0-f04b19519745",
+            "id": "6c6866bd-0c50-4f0c-be12-0a88a4ec0f13",
             "name": "Only Honest On The Weekend",
             "artist": "Becky Hill",
             "year": 2021,
@@ -37580,10 +37749,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/fb/0e/fafb0e1a-2e1c-4514-db16-276be83d588a/21UMGIM18808.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "fc9de57b-caa1-4d02-abf0-36623742b9fe",
+            "id": "daeae36e-bafd-49f1-8cf9-248b62070ed0",
             "name": "Mind of Mine (Deluxe Edition)",
             "artist": "ZAYN",
             "year": 2016,
@@ -37844,10 +38014,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/40/c4/1740c467-3fc5-d1b9-6a94-b45b445da794/886445750775.jpg/100x100bb.jpg"
         },
         {
-            "id": "2af331d7-7d36-4337-a235-c67505bf6bc2",
+            "id": "8b81718e-55eb-449f-8aa6-f752c04d80a7",
             "name": "Heartbreak Weather",
             "artist": "Niall Horan",
             "year": 2020,
@@ -38052,10 +38223,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/87/ad/e287ad34-3236-86bd-ccff-c50d1675425e/19UM1IM08786.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "ee4f3a65-8ea0-4e1e-99b0-5777d19843a2",
+            "id": "afec2c0f-8890-45a0-8fb5-7611f2ba82de",
             "name": "OCEAN",
             "artist": "KAROL G",
             "year": 2019,
@@ -38288,10 +38460,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/91/91/9891917e-6960-f72b-fb2f-25f0d56c2ccf/19OPBMR00757.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "78ffbebd-8cb0-4346-8769-6e4734199c47",
+            "id": "957c8946-f7c5-4774-a1e4-70b15d357152",
             "name": "El Amor y Yo",
             "artist": "Jay Wheeler",
             "year": 2022,
@@ -38468,10 +38641,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/e6/15/46e61575-c943-54b9-b9af-b9f5d8e847df/194690754531_cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "d1f8ac43-585f-4bd9-a406-b65954838e61",
+            "id": "79bbf173-6144-4bc7-8259-dac1788c61b3",
             "name": "Metamorph",
             "artist": "The Score",
             "year": 2022,
@@ -38634,10 +38808,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/3d/cc/6c3dcc59-9198-d526-e832-4b3f938a4f57/192641943683_Cover.jpg/100x100bb.jpg"
         },
         {
-            "id": "ed6861f7-19f5-49d4-a629-d2f6f5656a2c",
+            "id": "e233479b-c60f-46a7-ba53-dc33a1ce95e9",
             "name": "La Cruz del Mapa",
             "artist": "Manuel Carrasco",
             "year": 2018,
@@ -38842,10 +39017,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/52/c4/2b52c43d-cc25-db56-111e-a304de4e7dd7/00602577282713.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "91f83aea-6781-447e-95bf-ad7d161f2146",
+            "id": "38d0cb8b-e956-4e82-a9a8-6ec301dd3162",
             "name": "Nobody Is Listening",
             "artist": "ZAYN",
             "year": 2021,
@@ -39008,10 +39184,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6e/ec/ad/6eecad65-b231-83a4-ae7f-dd8e8ceb2e92/886448777052.jpg/100x100bb.jpg"
         },
         {
-            "id": "aaeb7a3a-28db-4775-96bf-b5e3d728cee3",
+            "id": "076adf44-e6b1-4fc9-84f3-60e39e3d338b",
             "name": "Icarus Falls",
             "artist": "ZAYN",
             "year": 2018,
@@ -39426,10 +39603,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/fe/dc/03fedc98-83cf-8e0c-76c8-1a97799b7b63/886448747352.jpg/100x100bb.jpg"
         },
         {
-            "id": "2de00cc6-102a-4f88-94bf-95e16ceae457",
+            "id": "4c089be9-da19-4d70-b94a-5fdb868c6c36",
             "name": "Kid Krow",
             "artist": "Conan Gray",
             "year": 2020,
@@ -39606,10 +39784,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/08/a1/1808a1be-b5a9-5e69-583d-b8a357efd760/19UM1IM12338.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "03e97354-43cb-45df-a819-a01c80c26f1e",
+            "id": "1583bf37-5f7e-4501-adbe-65e2fcef4678",
             "name": "x (Deluxe Edition)",
             "artist": "Ed Sheeran",
             "year": 2014,
@@ -39842,10 +40021,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/a7/7b/92/a77b92fc-d331-dd1b-8772-80597dc51fd0/dj.xllwtvne.jpg/100x100bb.jpg"
         },
         {
-            "id": "2dcc7558-8b4d-4482-a547-84900b49ae6e",
+            "id": "35ad124f-ebbd-4d77-b8ec-de413931d4ea",
             "name": "Corazón Y Flecha",
             "artist": "Manuel Carrasco",
             "year": 2022,
@@ -40008,10 +40188,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d8/f8/89/d8f88998-a7b7-42bb-b8df-3133f710b227/22UMGIM76059.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "249a56b6-24a7-4b75-af53-3f55e26cde70",
+            "id": "08949dcc-2db8-4597-a770-70b0ef75ef10",
             "name": "Love Is Dead",
             "artist": "CHVRCHES",
             "year": 2018,
@@ -40202,10 +40383,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/01/93/fa/0193fa8b-d009-c675-04c6-4ad3b6b17cdc/44003194212.jpg/100x100bb.jpg"
         },
         {
-            "id": "fdb7b0a5-e376-4c81-b8f7-36355635d819",
+            "id": "72962a20-89e6-456a-8e43-c8950da3662f",
             "name": "Carry On",
             "artist": "The Score",
             "year": 2020,
@@ -40424,10 +40606,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/ab/14/afab14e7-6407-c7b0-9d37-29be7631d28d/194660367594.jpg/100x100bb.jpg"
         },
         {
-            "id": "976f084b-3980-4c06-b85e-1ad99647e146",
+            "id": "35b0effd-cda7-4188-9fb6-3ff6048e9811",
             "name": "MAÑANA SERÁ BONITO",
             "artist": "KAROL G",
             "year": 2023,
@@ -40674,10 +40857,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "59e360b3-c4fe-4f5a-952f-3239d337d65e",
+            "id": "486ee013-2065-4d75-8e8d-00fb24764ef5",
             "name": "Good Thing We Stayed",
             "artist": "Julia Wolf",
             "year": 2023,
@@ -40826,10 +41010,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/d4/17/d9d41718-bbd6-16e4-3795-d58cb82633ab/4050538848182.jpg/100x100bb.jpg"
         },
         {
-            "id": "cdf335b2-4e5d-415b-955e-5db447204240",
+            "id": "3a737dcb-c473-4a7d-a404-f20c54b98736",
             "name": "II: Grasp of the Undying",
             "artist": "Pentakill",
             "year": 2017,
@@ -40978,10 +41163,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f9/da/6af9dafa-a989-b45b-3f5d-cb3c14c76977/859722129991.png/100x100bb.jpg"
         },
         {
-            "id": "979557d2-de43-4667-b85a-a3a033aa64c6",
+            "id": "f6f9af5e-0ab6-4f56-ad7b-b93d6cd4a502",
             "name": "Smite and Ignite",
             "artist": "Pentakill",
             "year": 2014,
@@ -41102,10 +41288,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/f8/e9/fcf8e98f-b05d-14a4-315e-dbbc0bb8e168/859712299550.png/100x100bb.jpg"
         },
         {
-            "id": "d33b42b9-b45e-4367-a6e3-da323481bf77",
+            "id": "2b10a3d8-1f21-4c36-bcf8-46e97a4421f8",
             "name": "Screen Violence",
             "artist": "CHVRCHES",
             "year": 2021,
@@ -41254,10 +41441,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/27/55/222755ea-c652-807f-e95f-7a0812265dc9/5056167164074.jpg/100x100bb.jpg"
         },
         {
-            "id": "bc6e9326-0854-4587-a76c-9f727e832391",
+            "id": "0cb0419f-8d7d-48e3-8b84-9d32610311fa",
             "name": "Thrill Of The Chase",
             "artist": "Kygo",
             "year": 2022,
@@ -41462,10 +41650,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/96/c7/1b/96c71bf7-7d5d-9dc0-1643-d241c9ca4b6c/196589585011.jpg/100x100bb.jpg"
         },
         {
-            "id": "2cf6119b-21db-47a6-bba1-8ff184791f44",
+            "id": "3f32aedd-804c-418d-9bb8-607a1a872ee2",
             "name": "54+1",
             "artist": "Danny Ocean",
             "year": 2019,
@@ -41656,10 +41845,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/ab/eb/0fabeb71-8f9b-55da-8a24-248f7a510871/190296877360.jpg/100x100bb.jpg"
         },
         {
-            "id": "b29d5f3b-82ac-48ac-9116-a19ea5d2295c",
+            "id": "3974f5aa-33a9-4072-bc3e-f1b887028b3e",
             "name": "11 RAZONES",
             "artist": "Aitana",
             "year": 2020,
@@ -41822,10 +42012,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5b/58/aa/5b58aaef-3e31-2e11-dd21-4daa7e632424/20UMGIM88611.rgb.jpg/100x100bb.jpg"
         },
         {
-            "id": "eedb3dba-0918-42ac-8837-fb127c18009a",
+            "id": "77086d69-5ce5-4187-81cd-e9f08624bf61",
             "name": "=",
             "artist": "Ed Sheeran",
             "year": 2021,
@@ -42030,10 +42221,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/100x100bb.jpg"
         },
         {
-            "id": "a4a764e9-6252-40b0-a0ec-4d992eecc8db",
+            "id": "693bccd3-3f6d-4c43-8797-51c3e61647fd",
             "name": "III: Lost Chapter",
             "artist": "Pentakill",
             "year": 2021,
@@ -42196,10 +42388,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/f3/75/47f375d6-8e31-e812-02d8-d35bed93d2f9/811395036167.png/100x100bb.jpg"
         },
         {
-            "id": "69547215-6201-4532-9aa9-3b627d0c301e",
+            "id": "931093cf-253e-4e3a-853a-14f03295da09",
             "name": "Autumn Variations",
             "artist": "Ed Sheeran",
             "year": 2023,
@@ -42404,10 +42597,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/2a/1a/a82a1a21-6ef1-e050-46f5-e4d69647ec39/5054197789243.jpg/100x100bb.jpg"
         },
         {
-            "id": "a7406171-8915-42a4-b2ea-bbc60b157779",
+            "id": "07783845-b1c4-4e36-a271-914fd18d12f7",
             "name": "Western Dream",
             "artist": "Bob Sinclar",
             "year": 2006,
@@ -42570,10 +42764,11 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/56/e7/4656e708-2156-1e94-48b7-4287de2795b3/mzi.thfryszi.jpg/100x100bb.jpg"
         },
         {
-            "id": "5b636055-7569-418b-9303-92ebc0cc13be",
+            "id": "00c73c97-0f23-4d6d-ac5f-9e4a03ab9687",
             "name": "Superache",
             "artist": "Conan Gray",
             "year": 2022,
@@ -42750,7 +42945,8 @@
                     "positionsGained": 0
                 }
             ],
-            "positionsGained": 0
+            "positionsGained": 0,
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cd/ea/7f/cdea7f8e-9d63-3d7f-e54b-4df8bc3520c0/22UMGIM49870.rgb.jpg/100x100bb.jpg"
         }
     ]
 }

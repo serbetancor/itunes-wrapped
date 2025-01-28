@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import library from '@/../../parser/current/Formatted_Biblioteca_byArtist.json'
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 
 import type { Artist } from '@/models/itunes'
 
@@ -8,7 +8,9 @@ import ArrowIcon from '@/assets/arrow.svg'
 import { formatMilliseconds } from '@/utils/itunes'
 
 const artists = ref<Artist[]>(library.data)
-const topCount = ref<number>(5)
+const topCount = ref<number>(2)
+
+const shownArtists = computed(() => artists.value.slice(0, topCount.value))
 </script>
 
 <template>
@@ -20,7 +22,7 @@ const topCount = ref<number>(5)
       <h3 class="mb-2 text-lg font-bold">Ranking</h3>
       <ul class="divide-y">
         <li
-          v-for="(artist, index) in artists.slice(0, topCount)"
+          v-for="(artist, index) in shownArtists"
           :key="artist.id"
           class="grid grid-cols-[auto_1fr_auto_auto] gap-2 p-2 py-1 odd:bg-blue/10 even:bg-white"
         >
