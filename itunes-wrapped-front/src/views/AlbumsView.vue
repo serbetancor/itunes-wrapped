@@ -5,29 +5,31 @@ import { ref, computed } from 'vue'
 import type { Album } from '@/models/itunes'
 
 import ArrowIcon from '@/assets/arrow.svg'
+import NoImageIcon from '@/assets/no-image.svg'
 import { formatMilliseconds } from '@/utils/itunes'
 
 const albums = ref<Album[]>(library.data)
-const topCount = ref<number>(10)
+const topCount = ref<number>(20)
 
 const shownAlbums = computed(() => albums.value.slice(0, topCount.value))
 </script>
 
 <template>
   <div class="flex flex-col items-center p-4">
-    <input type="range" v-model="topCount" min="1" max="30" class="mb-4 w-64" />
+    <input type="range" v-model="topCount" min="1" max="200" class="mb-4 w-64" />
     <span>Top {{ topCount }} album{{ topCount > 1 ? 's' : '' }}</span>
 
-    <div class="w-3/5 px-4">
+    <div class="w-1/2 px-4">
       <h3 class="mb-2 text-lg font-bold">Ranking</h3>
       <ul class="divide-y">
         <li
           v-for="(album, index) in shownAlbums"
           :key="album.id"
-          class="grid min-h-10 grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1 odd:bg-pink/10 even:bg-white"
+          class="grid grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1 odd:bg-pink/10 even:bg-white"
         >
-          <span class="w-8 font-semibold">#{{ index + 1 }}</span>
-          <img class="w-8 rounded-full" :src="album.image" />
+          <span class="w-4 font-semibold">{{ index + 1 }}</span>
+          <img v-if="album.image" class="w-10 rounded-full" :src="album.image" />
+          <NoImageIcon v-else class="w-10 rounded-full border p-2" />
           <span>{{ album.name }}</span>
           <span>{{ formatMilliseconds(album.timePlayed) }}</span>
           <div

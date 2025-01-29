@@ -129,9 +129,8 @@ def update_covers():
         if album_name in cover_dict:
             album['image'] = cover_dict[album_name]
 
-    save_json(albums, [file_path(
-        f'Formatted_Biblioteca_byAlbum_{current_date}.json', output_folder), file_path(
-        f'Formatted_Biblioteca_byAlbum.json', current_folder)])
+    save_json(albums, [file_path(f'Formatted_Biblioteca_byAlbum_{
+              current_date}.json', output_folder), file_path(f'Formatted_Biblioteca_byAlbum.json', current_folder)])
 
     tracks_file = "./current/Formatted_Biblioteca.json"
     with open(tracks_file, "r", encoding="utf-8") as file:
@@ -142,9 +141,8 @@ def update_covers():
         if album_name in cover_dict:
             track['image'] = cover_dict[album_name]
 
-    save_json(tracks, [file_path(
-        f'Formatted_Biblioteca_{current_date}.json', output_folder), file_path(
-        f'Formatted_Biblioteca.json', current_folder)])
+    save_json(tracks, [file_path(f'Formatted_Biblioteca_{
+              current_date}.json', output_folder), file_path(f'Formatted_Biblioteca.json', current_folder)])
 
 
 def parse_xml(xml_file, new_xml_file):
@@ -302,9 +300,8 @@ def process_albums(data):
         positions_gained = old_index - idx
         album['positionsGained'] = positions_gained
 
-    save_json(formatted_albums, [file_path(
-        f'Formatted_Biblioteca_byAlbum_{current_date}.json', output_folder), file_path(
-        f'Formatted_Biblioteca_byAlbum.json', current_folder)])
+    save_json(formatted_albums, [file_path(f'Formatted_Biblioteca_byAlbum_{
+              current_date}.json', output_folder), file_path(f'Formatted_Biblioteca_byAlbum.json', current_folder)])
 
 
 def process_genres(data):
@@ -351,9 +348,8 @@ def process_genres(data):
         positions_gained = old_index - idx
         genre['positionsGained'] = positions_gained
 
-    save_json(formatted_genres, [file_path(
-        f'Formatted_Biblioteca_byGenre_{current_date}.json', output_folder), file_path(
-        f'Formatted_Biblioteca_byGenre.json', current_folder)])
+    save_json(formatted_genres, [file_path(f'Formatted_Biblioteca_byGenre_{
+              current_date}.json', output_folder), file_path(f'Formatted_Biblioteca_byGenre.json', current_folder)])
 
 
 def process_artists(data):
@@ -401,9 +397,8 @@ def process_artists(data):
         positions_gained = old_index - idx
         artist['positionsGained'] = positions_gained
 
-    save_json(formatted_artists, [file_path(
-        f'Formatted_Biblioteca_byArtist_{current_date}.json', output_folder), file_path(
-        f'Formatted_Biblioteca_byArtist.json', current_folder)])
+    save_json(formatted_artists, [file_path(f'Formatted_Biblioteca_byArtist_{
+              current_date}.json', output_folder), file_path(f'Formatted_Biblioteca_byArtist.json', current_folder)])
 
 
 def main():
@@ -412,14 +407,11 @@ def main():
     add_date(current_date)
 
     tracks = parse_xml(xml_file, new_xml_file)
-    save_json(tracks, [file_path(
-        f'Biblioteca.json', current_folder), file_path(
+    save_json(tracks, [file_path(f'Biblioteca.json', current_folder), file_path(
         f'Biblioteca_{current_date}.json', output_folder)])
 
-    formatted_tracks = process_tracks(
-        tracks)
-    save_json(formatted_tracks, [file_path(
-        f'Formatted_Biblioteca.json', current_folder), file_path(
+    formatted_tracks = process_tracks(tracks)
+    save_json(formatted_tracks, [file_path(f'Formatted_Biblioteca.json', current_folder), file_path(
         f'Formatted_Biblioteca_{current_date}.json', output_folder)])
 
     group_fields = ['albums', 'genres', 'artists']
