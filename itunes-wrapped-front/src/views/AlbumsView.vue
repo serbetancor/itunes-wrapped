@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import library from '@/../../parser/current/Formatted_Biblioteca_byalbum.json'
+import library from '@/../../parser/data/current/Formatted_Biblioteca_byalbum.json'
 import { ref, computed } from 'vue'
 
 import type { Album } from '@/models/itunes'

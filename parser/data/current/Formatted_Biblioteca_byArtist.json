@@ -1,0 +1,3271 @@
+{
+  "data": [
+    {
+      "id": "225ce377-3a73-41f5-be4f-b154e9a9c5d3",
+      "name": "Taylor Swift",
+      "albums": [
+        "1989 (Deluxe Edition)",
+        "1989 (Taylor's Version) [Deluxe]",
+        "Fearless (International Version)",
+        "Fearless (Taylor's Version)",
+        "Lover",
+        "Midnights (The Til Dawn Edition)",
+        "Red (Deluxe Version)",
+        "Red (Taylor's Version)",
+        "Speak Now",
+        "Speak Now (Taylor's Version)",
+        "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "Taylor Swift (Deluxe Edition)",
+        "evermore (deluxe version)",
+        "folklore (deluxe version)",
+        "reputation"
+      ],
+      "songsCount": 309,
+      "timePlayed": 173349021,
+      "positionsGained": 0
+    },
+    {
+      "id": "1c28a01d-f83a-47c2-a877-90383db057c4",
+      "name": "Imagine Dragons",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "Evolve",
+        "LOOM",
+        "Mercury - Act 1",
+        "Mercury - Act 2",
+        "Night Visions",
+        "Origins (Deluxe)",
+        "Smoke + Mirrors (Deluxe)"
+      ],
+      "songsCount": 102,
+      "timePlayed": 102882163,
+      "positionsGained": 0
+    },
+    {
+      "id": "8cfe0e1c-3ba0-40da-81fa-95cf44f5f79b",
+      "name": "Travis Scott",
+      "albums": [
+        "UTOPIA"
+      ],
+      "songsCount": 19,
+      "timePlayed": 72098488,
+      "positionsGained": 0
+    },
+    {
+      "id": "814d388b-51db-4078-b5fc-e77491a05bd0",
+      "name": "Hiroyuki Sawano",
+      "albums": [
+        "TVアニメ「進撃の巨人」 The Final Season Original Soundtrack",
+        "TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02",
+        "TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック",
+        "TVアニメ「進撃の巨人」オリジナルサウンドトラック",
+        "「進撃の巨人」Season3 オリジナルサウンドトラック"
+      ],
+      "songsCount": 86,
+      "timePlayed": 68940278,
+      "positionsGained": 2
+    },
+    {
+      "id": "7fccd5a8-4795-4485-be50-3217c55996af",
+      "name": "LINKIN PARK",
+      "albums": [
+        "From Zero",
+        "Hybrid Theory",
+        "Meteora"
+      ],
+      "songsCount": 36,
+      "timePlayed": 64625636,
+      "positionsGained": -1
+    },
+    {
+      "id": "7e4320b7-e624-45ac-9696-c6593efc970f",
+      "name": "Post Malone",
+      "albums": [
+        "AUSTIN",
+        "F-1 Trillion",
+        "Hollywood's Bleeding",
+        "Stoney (Deluxe)",
+        "Twelve Carat Toothache",
+        "beerbongs & bentleys"
+      ],
+      "songsCount": 101,
+      "timePlayed": 61315097,
+      "positionsGained": -1
+    },
+    {
+      "id": "a627f527-624e-43ca-bb7f-eb51507af8ca",
+      "name": "NF",
+      "albums": [
+        "CLOUDS (THE MIXTAPE)",
+        "HOPE",
+        "Perception",
+        "The Search",
+        "Therapy Session"
+      ],
+      "songsCount": 71,
+      "timePlayed": 51429199,
+      "positionsGained": 0
+    },
+    {
+      "id": "f8204186-109f-4408-97dc-210c2c716e05",
+      "name": "Coldplay",
+      "albums": [
+        "A Head Full of Dreams",
+        "Ghost Stories",
+        "Moon Music (Full Moon Edition)",
+        "Music of the Spheres"
+      ],
+      "songsCount": 44,
+      "timePlayed": 45912907,
+      "positionsGained": 0
+    },
+    {
+      "id": "7f1d88c2-6b6a-4e85-9b6f-965935430c8b",
+      "name": "James Blunt",
+      "albums": [
+        "All the Lost Souls",
+        "Back To Bedlam",
+        "Moon Landing",
+        "Once Upon a Mind",
+        "Some Kind of Trouble",
+        "The Afterlove (Extended Version)"
+      ],
+      "songsCount": 69,
+      "timePlayed": 44200930,
+      "positionsGained": 1
+    },
+    {
+      "id": "1a16396b-74c5-4325-beee-593d088fc40d",
+      "name": "Token",
+      "albums": [
+        "Pink Is Better"
+      ],
+      "songsCount": 17,
+      "timePlayed": 44105827,
+      "positionsGained": -1
+    },
+    {
+      "id": "18ca8cc4-b186-40b5-af02-702aa80102c5",
+      "name": "Eminem",
+      "albums": [
+        "Encore",
+        "Kamikaze",
+        "Music To Be Murdered By",
+        "Music To Be Murdered By - Side B",
+        "The Death of Slim Shady (Coup De Grâce)",
+        "The Eminem Show",
+        "The Marshall Mathers LP"
+      ],
+      "songsCount": 112,
+      "timePlayed": 42922173,
+      "positionsGained": 0
+    },
+    {
+      "id": "ed44c4c3-6d1f-463c-9631-b7c34093329c",
+      "name": "LANY",
+      "albums": [
+        "I Loved You. - EP",
+        "LANY",
+        "Make Out - EP",
+        "Malibu Nights",
+        "gg bb xx",
+        "kinda - EP",
+        "mama's boy (deluxe)"
+      ],
+      "songsCount": 71,
+      "timePlayed": 36827026,
+      "positionsGained": 0
+    },
+    {
+      "id": "0f9e4ee1-b521-4a21-b2f7-840de89648ce",
+      "name": "Daft Punk",
+      "albums": [
+        "Discovery"
+      ],
+      "songsCount": 14,
+      "timePlayed": 35715846,
+      "positionsGained": 0
+    },
+    {
+      "id": "e91986e2-1782-4f3c-be1f-b8f58a35feb3",
+      "name": "J. Cole",
+      "albums": [
+        "2014 Forest Hills Drive",
+        "Might Delete Later"
+      ],
+      "songsCount": 23,
+      "timePlayed": 32135867,
+      "positionsGained": 0
+    },
+    {
+      "id": "4e5e6687-c0a5-4194-a5e7-38b33c242ed6",
+      "name": "Halsey",
+      "albums": [
+        "BADLANDS (Deluxe Edition)",
+        "If I Can’t Have Love, I Want Power",
+        "Manic",
+        "Room 93 - EP",
+        "hopeless fountain kingdom (Deluxe)"
+      ],
+      "songsCount": 63,
+      "timePlayed": 29406781,
+      "positionsGained": 1
+    },
+    {
+      "id": "df3459df-657b-4a91-a29e-3cb549294617",
+      "name": "twenty one pilots",
+      "albums": [
+        "Blurryface",
+        "Trench"
+      ],
+      "songsCount": 28,
+      "timePlayed": 28947079,
+      "positionsGained": -1
+    },
+    {
+      "id": "2c9d4e12-a013-438f-b4a7-331b015efcd9",
+      "name": "Mac Miller",
+      "albums": [
+        "Swimming"
+      ],
+      "songsCount": 13,
+      "timePlayed": 28794935,
+      "positionsGained": 0
+    },
+    {
+      "id": "0b86af3f-56dc-4845-bc49-e4f5cdf49fcc",
+      "name": "Juice WRLD",
+      "albums": [
+        "Death Race For Love (Bonus Track Version)",
+        "Goodbye & Good Riddance",
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 39,
+      "timePlayed": 26123708,
+      "positionsGained": 2
+    },
+    {
+      "id": "07a49f41-3869-4eaf-9504-17c06012d9a7",
+      "name": "Lauv",
+      "albums": [
+        "All 4 Nothing",
+        "I met you when I was 18. (the playlist)",
+        "~how i'm feeling~"
+      ],
+      "songsCount": 50,
+      "timePlayed": 26066612,
+      "positionsGained": -1
+    },
+    {
+      "id": "b8ca8bf0-9ca9-455c-8e9d-d5516a38d792",
+      "name": "Cutting Crew",
+      "albums": [
+        "Broadcast"
+      ],
+      "songsCount": 10,
+      "timePlayed": 24666689,
+      "positionsGained": -1
+    },
+    {
+      "id": "d42dfd73-37a5-4b88-8358-6e50d7552e70",
+      "name": "KOHTA YAMAMOTO",
+      "albums": [
+        "TVアニメ「進撃の巨人」 The Final Season Original Soundtrack",
+        "TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02"
+      ],
+      "songsCount": 32,
+      "timePlayed": 22902863,
+      "positionsGained": 6
+    },
+    {
+      "id": "e663249d-8747-4d0e-bf07-96d740224017",
+      "name": "Trevor Daniel",
+      "albums": [
+        "Homesick - EP",
+        "Nicotine",
+        "Restless - EP",
+        "That Was Then"
+      ],
+      "songsCount": 28,
+      "timePlayed": 22652974,
+      "positionsGained": -1
+    },
+    {
+      "id": "b5b88fd8-a6be-4e84-a260-00fffb602cd3",
+      "name": "Fall Out Boy",
+      "albums": [
+        "From Under the Cork Tree",
+        "So Much (For) Stardust"
+      ],
+      "songsCount": 26,
+      "timePlayed": 21187209,
+      "positionsGained": 0
+    },
+    {
+      "id": "324478db-c48a-4d84-80cc-85f26c2370c8",
+      "name": "Green Day",
+      "albums": [
+        "American Idiot",
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 10,
+      "timePlayed": 20881368,
+      "positionsGained": -2
+    },
+    {
+      "id": "309efe8d-e4b7-4527-8a5a-b69e08ee5875",
+      "name": "U2",
+      "albums": [
+        "Songs of Innocence",
+        "The Joshua Tree"
+      ],
+      "songsCount": 22,
+      "timePlayed": 20134203,
+      "positionsGained": -1
+    },
+    {
+      "id": "b8e5eeaa-8b9c-4659-9c5b-006d652927be",
+      "name": "Harry Styles",
+      "albums": [
+        "Fine Line",
+        "Harry Styles",
+        "Harry's House"
+      ],
+      "songsCount": 35,
+      "timePlayed": 19597953,
+      "positionsGained": -1
+    },
+    {
+      "id": "8cb1b63c-fad4-4da6-9c09-fbc51ea1ea67",
+      "name": "Lynyrd Skynyrd",
+      "albums": [
+        "Pronounced Leh-Nerd Skin-Nerd"
+      ],
+      "songsCount": 8,
+      "timePlayed": 19045954,
+      "positionsGained": 1
+    },
+    {
+      "id": "979443c5-31e4-4467-add4-b31d2ada4c7e",
+      "name": "Nirvana",
+      "albums": [
+        "Nevermind"
+      ],
+      "songsCount": 13,
+      "timePlayed": 18528719,
+      "positionsGained": -2
+    },
+    {
+      "id": "7441bfef-4a5f-4317-acfb-d9c35c8c55b2",
+      "name": "Woodkid",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "The Golden Age"
+      ],
+      "songsCount": 15,
+      "timePlayed": 15931308,
+      "positionsGained": 0
+    },
+    {
+      "id": "8245fb21-39e8-4019-abad-8eaed363e00d",
+      "name": "Guns N' Roses",
+      "albums": [
+        "Greatest Hits (Bonus Track Version)"
+      ],
+      "songsCount": 15,
+      "timePlayed": 15394905,
+      "positionsGained": 0
+    },
+    {
+      "id": "d24f254c-e033-426f-8cdf-1ab22172aa39",
+      "name": "girl in red",
+      "albums": [
+        "I'M DOING IT AGAIN BABY!",
+        "if i could make it go quiet"
+      ],
+      "songsCount": 20,
+      "timePlayed": 15294694,
+      "positionsGained": 3
+    },
+    {
+      "id": "d4ae7ada-fa31-4afd-9fa2-ea417f8a7d06",
+      "name": "The Goo Goo Dolls",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)",
+        "Dizzy Up the Girl"
+      ],
+      "songsCount": 14,
+      "timePlayed": 15214803,
+      "positionsGained": -1
+    },
+    {
+      "id": "15ea94e2-38ac-48cf-8efe-2674cf64d769",
+      "name": "Quevedo",
+      "albums": [
+        "BUENAS NOCHES",
+        "DONDE QUIERO ESTAR"
+      ],
+      "songsCount": 21,
+      "timePlayed": 14318720,
+      "positionsGained": -1
+    },
+    {
+      "id": "ecfe4ea6-317a-4393-aac3-b5f42cb9c94e",
+      "name": "The Kid LAROI",
+      "albums": [
+        "F*CK LOVE (SAVAGE)"
+      ],
+      "songsCount": 20,
+      "timePlayed": 13910541,
+      "positionsGained": -1
+    },
+    {
+      "id": "80a7cbe9-85e5-4430-abdd-ebf3180ef165",
+      "name": "Gunna",
+      "albums": [
+        "WUNNA (Deluxe)"
+      ],
+      "songsCount": 26,
+      "timePlayed": 13799560,
+      "positionsGained": 0
+    },
+    {
+      "id": "28a38585-4fd0-4b97-a033-17ff60401e0d",
+      "name": "Nessa Barrett",
+      "albums": [
+        "AFTERCARE",
+        "hell is a teenage girl",
+        "young forever"
+      ],
+      "songsCount": 34,
+      "timePlayed": 13431154,
+      "positionsGained": 0
+    },
+    {
+      "id": "d975b49d-6a14-4e01-9d8f-e2b8ca527266",
+      "name": "Grover Washington, Jr.",
+      "albums": [
+        "Winelight"
+      ],
+      "songsCount": 6,
+      "timePlayed": 12957969,
+      "positionsGained": 0
+    },
+    {
+      "id": "903f8fb3-d5ea-4eee-ae5e-a97869ee09a2",
+      "name": "Avenged Sevenfold",
+      "albums": [
+        "Life Is But a Dream..."
+      ],
+      "songsCount": 11,
+      "timePlayed": 11419544,
+      "positionsGained": 0
+    },
+    {
+      "id": "1e2af2ca-43ef-4dcb-a419-de4bfa1627c1",
+      "name": "Bruce Springsteen",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)",
+        "Letter To You"
+      ],
+      "songsCount": 13,
+      "timePlayed": 10454448,
+      "positionsGained": 3
+    },
+    {
+      "id": "9a8ca6c8-7b79-4666-8738-45ae42d151b3",
+      "name": "Arcane & League of Legends Music",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 10253372,
+      "positionsGained": -1
+    },
+    {
+      "id": "67df3f5b-82d9-4432-a623-05ba123f948b",
+      "name": "Freya Ridings",
+      "albums": [
+        "Blood Orange",
+        "Freya Ridings"
+      ],
+      "songsCount": 26,
+      "timePlayed": 10161190,
+      "positionsGained": -1
+    },
+    {
+      "id": "a9dc0549-6239-4cfd-aafd-61017fab74b0",
+      "name": "The Score",
+      "albums": [
+        "ATLAS (Deluxe)",
+        "Carry On",
+        "Metamorph"
+      ],
+      "songsCount": 52,
+      "timePlayed": 10036765,
+      "positionsGained": -1
+    },
+    {
+      "id": "9b356a9b-4ce6-4946-b0dd-dddf1891bdde",
+      "name": "The Hunna",
+      "albums": [
+        "The Hunna"
+      ],
+      "songsCount": 13,
+      "timePlayed": 9684456,
+      "positionsGained": 0
+    },
+    {
+      "id": "eacfc1a1-2849-49f0-ab68-97dab6363eb6",
+      "name": "Shawn Mendes",
+      "albums": [
+        "Shawn",
+        "Shawn Mendes (Deluxe)",
+        "Wonder"
+      ],
+      "songsCount": 40,
+      "timePlayed": 9318612,
+      "positionsGained": 4
+    },
+    {
+      "id": "fcf07ee0-27ee-4bf4-8547-1ff7eaf8f99e",
+      "name": "Ramsey",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 9240960,
+      "positionsGained": -1
+    },
+    {
+      "id": "2a2787c9-c8c4-46e9-9372-4386bd94b894",
+      "name": "OneRepublic",
+      "albums": [
+        "Human (Deluxe)"
+      ],
+      "songsCount": 15,
+      "timePlayed": 8930700,
+      "positionsGained": 0
+    },
+    {
+      "id": "5bd68b64-63cf-43dd-b143-2940c30813b6",
+      "name": "Sting & Ray Chen",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 8754648,
+      "positionsGained": -2
+    },
+    {
+      "id": "bf53c410-4ba7-4d68-99dd-a37f0da9dbdd",
+      "name": "Arcane, League of Legends Music & Freya Ridings",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 8381100,
+      "positionsGained": -1
+    },
+    {
+      "id": "5542e843-434e-4935-8d94-87e84075cbe2",
+      "name": "Sting",
+      "albums": [
+        "...Nothing Like the Sun"
+      ],
+      "songsCount": 12,
+      "timePlayed": 8295351,
+      "positionsGained": 3
+    },
+    {
+      "id": "aac2678d-7c64-445a-8cfa-e42429b8dcb2",
+      "name": "I Prevail",
+      "albums": [
+        "TRAUMA",
+        "TRUE POWER"
+      ],
+      "songsCount": 28,
+      "timePlayed": 8286562,
+      "positionsGained": 0
+    },
+    {
+      "id": "8e0987ad-364f-42a3-b685-c01cf4041500",
+      "name": "Arcane, League of Legends Music & twenty one pilots",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 8068368,
+      "positionsGained": -2
+    },
+    {
+      "id": "b41d5270-8440-49eb-b5de-5fa9d10dd218",
+      "name": "Arcane, League of Legends Music & d4vd",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 7915512,
+      "positionsGained": -1
+    },
+    {
+      "id": "89517546-bd31-4a07-8ec3-91c76eb85404",
+      "name": "DaBaby",
+      "albums": [
+        "BLAME IT ON BABY"
+      ],
+      "songsCount": 13,
+      "timePlayed": 7869576,
+      "positionsGained": 0
+    },
+    {
+      "id": "235bb7ad-6a5a-4a0b-a02f-ed8270291263",
+      "name": "Empyre",
+      "albums": [
+        "Relentless"
+      ],
+      "songsCount": 10,
+      "timePlayed": 7696421,
+      "positionsGained": 0
+    },
+    {
+      "id": "910cd8a2-d3a0-4398-838c-a41df74190c7",
+      "name": "Arcane, League of Legends Music & Marcus King",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 7630178,
+      "positionsGained": 0
+    },
+    {
+      "id": "874b6562-e944-43f5-80af-d2f47cc1a174",
+      "name": "Red Hot Chili Peppers",
+      "albums": [
+        "Return of the Dream Canteen"
+      ],
+      "songsCount": 17,
+      "timePlayed": 7478241,
+      "positionsGained": 0
+    },
+    {
+      "id": "efcfca34-57be-4350-8444-c673953c00bf",
+      "name": "Tate McRae",
+      "albums": [
+        "THINK LATER"
+      ],
+      "songsCount": 14,
+      "timePlayed": 7403036,
+      "positionsGained": 0
+    },
+    {
+      "id": "528708a8-cae9-4fcf-84cf-6d0a6bd12526",
+      "name": "Daniel Di Angelo",
+      "albums": [
+        "Addicted"
+      ],
+      "songsCount": 10,
+      "timePlayed": 7273629,
+      "positionsGained": 1
+    },
+    {
+      "id": "1798e830-6040-4ca0-b088-39f2860c339d",
+      "name": "Arcane, League of Legends Music & Sheryl Lee Ralph",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 7135392,
+      "positionsGained": -1
+    },
+    {
+      "id": "14a06018-60c6-4cd2-977b-8693364a1b36",
+      "name": "Pierce the Veil",
+      "albums": [
+        "The Jaws of Life"
+      ],
+      "songsCount": 12,
+      "timePlayed": 7037086,
+      "positionsGained": 2
+    },
+    {
+      "id": "57951215-4540-434e-b7bd-f91c8ef2770d",
+      "name": "Gracie Abrams",
+      "albums": [
+        "Good Riddance",
+        "This Is What It Feels Like"
+      ],
+      "songsCount": 24,
+      "timePlayed": 6979798,
+      "positionsGained": 0
+    },
+    {
+      "id": "6ab63fea-f01b-41e8-a29e-ac161b21f8fa",
+      "name": "Denzel Curry, Gizzle & Bren Joy",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 6947928,
+      "positionsGained": -2
+    },
+    {
+      "id": "307d6ca3-2602-4da7-bd6c-5173a3cafd07",
+      "name": "Arcane, League of Legends Music & King Princess",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 6848811,
+      "positionsGained": 1
+    },
+    {
+      "id": "cabcc185-78ce-4fa9-a254-df002e7e095b",
+      "name": "BONES UK",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 6773184,
+      "positionsGained": -1
+    },
+    {
+      "id": "bfddbcc4-2cf9-480d-a496-d9d3d6b4e4bb",
+      "name": "FLETCHER",
+      "albums": [
+        "THE S(EX) TAPES"
+      ],
+      "songsCount": 7,
+      "timePlayed": 6535043,
+      "positionsGained": 0
+    },
+    {
+      "id": "796d138b-2ded-416c-87a8-0d8834cd6c8b",
+      "name": "Olivia Rodrigo",
+      "albums": [
+        "SOUR"
+      ],
+      "songsCount": 11,
+      "timePlayed": 6470567,
+      "positionsGained": 2
+    },
+    {
+      "id": "3d0e131f-cfeb-4e6b-b339-5116b3fb3c46",
+      "name": "Charlie Puth",
+      "albums": [
+        "CHARLIE",
+        "Voicenotes"
+      ],
+      "songsCount": 24,
+      "timePlayed": 6465867,
+      "positionsGained": -1
+    },
+    {
+      "id": "25cb7c0b-efb1-41f4-822c-88cf3cf0a4a0",
+      "name": "Stromae & Pomme",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 6368902,
+      "positionsGained": -1
+    },
+    {
+      "id": "188514d1-865d-4947-8ec8-57a1c63ed4a1",
+      "name": "Arcane, League of Legends Music & Woodkid",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5898240,
+      "positionsGained": 0
+    },
+    {
+      "id": "6523addc-09ab-4724-a7c3-5225643a8ddd",
+      "name": "Curtis Harding & Jazmine Sullivan",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5893560,
+      "positionsGained": 0
+    },
+    {
+      "id": "b761c263-e33b-4d0d-a1d7-ffe13e33d5d3",
+      "name": "Arcane, League of Legends Music & Misha Mansoor",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5773050,
+      "positionsGained": 0
+    },
+    {
+      "id": "67b84d44-e332-412b-959d-d2e4f4a0b467",
+      "name": "Metro Boomin & James Blake",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5752476,
+      "positionsGained": 3
+    },
+    {
+      "id": "87bb11f5-3f26-42ca-ac2c-3fcd1113f242",
+      "name": "Raja Kumari & Stefflon Don",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5653935,
+      "positionsGained": -1
+    },
+    {
+      "id": "70039c3c-ebe2-4e1b-bd48-56aeef77effe",
+      "name": "Joji",
+      "albums": [
+        "SMITHEREENS"
+      ],
+      "songsCount": 9,
+      "timePlayed": 5610854,
+      "positionsGained": 29
+    },
+    {
+      "id": "883eb8c7-60d8-4f97-853a-b5b47092e1c9",
+      "name": "Chris Isaak",
+      "albums": [
+        "Heart Shaped World"
+      ],
+      "songsCount": 11,
+      "timePlayed": 5607429,
+      "positionsGained": 1
+    },
+    {
+      "id": "64adf7a2-d601-4a22-a75b-7b2b7e216e8c",
+      "name": "Fantastic Negrito",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5602104,
+      "positionsGained": -3
+    },
+    {
+      "id": "3d58fbf5-7caf-48c6-9cfa-0c9745c857bc",
+      "name": "Arcane, League of Legends Music & Royal & the Serpent",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5483520,
+      "positionsGained": -3
+    },
+    {
+      "id": "53c828de-2d2a-4b4c-a606-ebe51841586a",
+      "name": "The Cure",
+      "albums": [
+        "Songs Of A Lost World"
+      ],
+      "songsCount": 8,
+      "timePlayed": 5349661,
+      "positionsGained": 4
+    },
+    {
+      "id": "0e504a51-78d7-4ad0-b7f6-3224201670ef",
+      "name": "Pusha T",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5312832,
+      "positionsGained": -2
+    },
+    {
+      "id": "aba8de8d-7d4c-4372-ba2c-eb2805332c56",
+      "name": "Metro Boomin, Swae Lee & NAV",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5269416,
+      "positionsGained": 1
+    },
+    {
+      "id": "3d3403d7-c299-4b19-a8db-c834c4996185",
+      "name": "Arcane, League of Legends Music & FEVER 333",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5112241,
+      "positionsGained": -3
+    },
+    {
+      "id": "dbe9f258-1f6c-4474-9e2d-fc5a940840e7",
+      "name": "Benson Boone",
+      "albums": [
+        "Fireworks & Rollerblades"
+      ],
+      "songsCount": 15,
+      "timePlayed": 5102434,
+      "positionsGained": -3
+    },
+    {
+      "id": "7b00014e-2799-41a3-956a-4eefa27c75d2",
+      "name": "Bea Miller",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5072496,
+      "positionsGained": -3
+    },
+    {
+      "id": "706c9c0e-4be6-48fa-9fd4-8f263855b82b",
+      "name": "Men At Work",
+      "albums": [
+        "Business As Usual"
+      ],
+      "songsCount": 10,
+      "timePlayed": 5061682,
+      "positionsGained": 13
+    },
+    {
+      "id": "ad0fa7c6-98e5-468b-a26b-c8cce89b6fe2",
+      "name": "Stray Kids, Young Miko & Tom Morello",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5015862,
+      "positionsGained": -2
+    },
+    {
+      "id": "50b2f1fd-3482-4efb-a185-43cd7695cecd",
+      "name": "PVRIS & MIYAVI",
+      "albums": [
+        "Arcane League of Legends (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 5004144,
+      "positionsGained": -2
+    },
+    {
+      "id": "f0c79502-6cae-4810-9ac9-6095fd5c712b",
+      "name": "Metro Boomin, A$AP Rocky & Roisee",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4866470,
+      "positionsGained": 0
+    },
+    {
+      "id": "85c69ba7-a125-45d3-9a9b-61389c6f7e8b",
+      "name": "Arcane, League of Legends Music & Djerv",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4801804,
+      "positionsGained": -3
+    },
+    {
+      "id": "f3116fdd-1eaf-4cd7-99eb-5f0ba2d7aa0e",
+      "name": "Madonna",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4773664,
+      "positionsGained": 6
+    },
+    {
+      "id": "2c168827-6846-492f-a120-6cccd62708bf",
+      "name": "Metro Boomin, Future & Lil Uzi Vert",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4661992,
+      "positionsGained": -2
+    },
+    {
+      "id": "476a0d3e-09d0-48aa-b6ed-e7b8ac2fb1fa",
+      "name": "Kris Bowers",
+      "albums": [
+        "The Wild Robot (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 39,
+      "timePlayed": 4630162,
+      "positionsGained": -5
+    },
+    {
+      "id": "1d0f07ee-4baa-4f6d-90de-34e883f8128f",
+      "name": "Imagine Dragons & J Balvin",
+      "albums": [
+        "LOOM"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4402728,
+      "positionsGained": -3
+    },
+    {
+      "id": "d8884adf-33c4-4ed9-a561-7d45a3a76ff0",
+      "name": "The Wombats",
+      "albums": [
+        "Fix Yourself, Not the World"
+      ],
+      "songsCount": 12,
+      "timePlayed": 4384462,
+      "positionsGained": -3
+    },
+    {
+      "id": "c2c4b95d-2c3a-459f-9cfe-756fe212b4e3",
+      "name": "Arcane, League of Legends Music & ZAND",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4310444,
+      "positionsGained": -3
+    },
+    {
+      "id": "12d6b737-92d4-4d22-8fa1-30bc1d857ab8",
+      "name": "Mike Shinoda & Emily Armstrong",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4270056,
+      "positionsGained": -3
+    },
+    {
+      "id": "1862b6d1-f5a8-4d8e-ac7e-0c72b19103a0",
+      "name": "Don Toliver, 21 Savage & 2 Chainz",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4226184,
+      "positionsGained": 2
+    },
+    {
+      "id": "e9d031d6-e273-41b9-b0bd-9b04b8564eec",
+      "name": "Offset & JID",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4107480,
+      "positionsGained": 2
+    },
+    {
+      "id": "273cb61c-a41e-4edd-8a90-5a629750a28b",
+      "name": "The Chainsmokers",
+      "albums": [
+        "Sick Boy"
+      ],
+      "songsCount": 7,
+      "timePlayed": 4102992,
+      "positionsGained": -5
+    },
+    {
+      "id": "2072f972-233c-4b9e-99b5-b0fd44453ae3",
+      "name": "Imagine Dragons & JID",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4098138,
+      "positionsGained": -5
+    },
+    {
+      "id": "4bd13fa7-dc3c-4032-b739-cd1dcc288d43",
+      "name": "Mako & Grey",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 4056234,
+      "positionsGained": -4
+    },
+    {
+      "id": "a3034ce1-9660-428a-b69a-215fb8bfe86f",
+      "name": "Metro Boomin, Don Toliver & Wizkid",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3910000,
+      "positionsGained": 1
+    },
+    {
+      "id": "155cfd55-6e99-4e16-bed3-acb5a35d0a40",
+      "name": "Arcane, League of Legends Music & Ashnikko",
+      "albums": [
+        "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3815361,
+      "positionsGained": -2
+    },
+    {
+      "id": "daff4a66-a13d-4ef7-9adb-4bfc6f6a8c7a",
+      "name": "Sigrid",
+      "albums": [
+        "How To Let Go"
+      ],
+      "songsCount": 11,
+      "timePlayed": 3777349,
+      "positionsGained": -2
+    },
+    {
+      "id": "b025946b-d02c-4991-a579-9271fe897cd2",
+      "name": "Lil Wayne & Ty Dolla $ign",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3729856,
+      "positionsGained": 0
+    },
+    {
+      "id": "b9973cef-9402-4a1c-b9e1-76d3e20d6653",
+      "name": "DJ Khalil",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3511680,
+      "positionsGained": 2
+    },
+    {
+      "id": "9cd24d41-9f9a-426c-8243-66146c35114e",
+      "name": "Metro Boomin, Swae Lee, Lil Wayne & Offset",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3477930,
+      "positionsGained": 3
+    },
+    {
+      "id": "a0960afa-f29e-4543-8989-a88f017a79ec",
+      "name": "American Authors",
+      "albums": [
+        "Seasons"
+      ],
+      "songsCount": 10,
+      "timePlayed": 3340220,
+      "positionsGained": -2
+    },
+    {
+      "id": "84397154-6b36-431b-ac18-1d008e170471",
+      "name": "Ellie Goulding",
+      "albums": [
+        "Higher Than Heaven (Deluxe)"
+      ],
+      "songsCount": 15,
+      "timePlayed": 3335698,
+      "positionsGained": -2
+    },
+    {
+      "id": "e0dbcfa7-2314-4d95-84eb-112e59494be0",
+      "name": "Coldplay, Little Simz, Burna Boy, Elyanna & TINI",
+      "albums": [
+        "Moon Music (Full Moon Edition)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 3268644,
+      "positionsGained": -1
+    },
+    {
+      "id": "7ef1fb77-adf2-44a7-abcc-f239f0f8114a",
+      "name": "Beau Young Prince",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3199266,
+      "positionsGained": 0
+    },
+    {
+      "id": "27c5036c-12e6-419a-a684-a4c58caa9b17",
+      "name": "Blackway & Black Caviar",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3113684,
+      "positionsGained": 6
+    },
+    {
+      "id": "07151568-c5ac-4320-b004-2ebe20b60f43",
+      "name": "Jaden",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 3077220,
+      "positionsGained": 2
+    },
+    {
+      "id": "12881c01-af12-48df-b00a-42cb3091f7b6",
+      "name": "Post Malone & Swae Lee",
+      "albums": [
+        "Hollywood's Bleeding",
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 3019383,
+      "positionsGained": -2
+    },
+    {
+      "id": "cecddf3a-3612-45e1-82b5-73581aaf1908",
+      "name": "Animé",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2946990,
+      "positionsGained": 1
+    },
+    {
+      "id": "c8a61009-8db1-4254-85d9-6c1e21b285d6",
+      "name": "Metro Boomin, Don Toliver & Lil Uzi Vert",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2931720,
+      "positionsGained": 1
+    },
+    {
+      "id": "2b8bcd5c-45ca-46ad-b37e-64843ac71799",
+      "name": "*NSYNC",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2806482,
+      "positionsGained": -4
+    },
+    {
+      "id": "d658628f-4aca-4b99-8091-4d27dee2edfc",
+      "name": "Nicki Minaj & Anuel AA",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2800320,
+      "positionsGained": 1
+    },
+    {
+      "id": "442eaf57-7338-4778-8a55-5e11e3237c26",
+      "name": "ZAYN",
+      "albums": [
+        "Icarus Falls",
+        "Mind of Mine (Deluxe Edition)",
+        "Nobody Is Listening",
+        "ROOM UNDER THE STAIRS"
+      ],
+      "songsCount": 73,
+      "timePlayed": 2795592,
+      "positionsGained": -5
+    },
+    {
+      "id": "fa27c01e-dff3-452a-ab88-1ddfdd9a3f91",
+      "name": "Thutmose",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2788926,
+      "positionsGained": 0
+    },
+    {
+      "id": "720e3776-eaf6-4ec8-ac07-40a269d86722",
+      "name": "Vince Staples",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2748993,
+      "positionsGained": 0
+    },
+    {
+      "id": "ba396bbb-bc61-4b0c-bc8b-c83dd76a923d",
+      "name": "Ski Mask the Slump Go & Jacquees",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2503676,
+      "positionsGained": 0
+    },
+    {
+      "id": "20b3d25f-d887-4b9d-b3a5-fa48c8c77be4",
+      "name": "Sabrina Carpenter",
+      "albums": [
+        "Short n' Sweet"
+      ],
+      "songsCount": 12,
+      "timePlayed": 2498706,
+      "positionsGained": 2
+    },
+    {
+      "id": "94d21e54-1125-4c16-ba34-31c7f22d0d89",
+      "name": "Eminem, Big Sean & BabyTron",
+      "albums": [
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2280176,
+      "positionsGained": -1
+    },
+    {
+      "id": "9ae5ecde-b70e-4e9a-a8ff-2c6badef32a9",
+      "name": "Coldplay & Jon Hopkins",
+      "albums": [
+        "Moon Music (Full Moon Edition)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 2272856,
+      "positionsGained": -1
+    },
+    {
+      "id": "84a563e6-df11-4bc3-8dd0-315091ca9e33",
+      "name": "The Cranberries",
+      "albums": [
+        "Everybody Else Is Doing It, So Why Can't We?"
+      ],
+      "songsCount": 12,
+      "timePlayed": 2132635,
+      "positionsGained": 0
+    },
+    {
+      "id": "82d56d84-c91c-4dbd-a78c-a3f0cde8cd19",
+      "name": "Metro Boomin, James Blake, A$AP Rocky & 21 Savage",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2096580,
+      "positionsGained": 4
+    },
+    {
+      "id": "e41e7b4e-fd94-4b59-b051-5a0b379cec8f",
+      "name": "Radiohead",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2070144,
+      "positionsGained": 7
+    },
+    {
+      "id": "cef07794-1942-4c3c-8507-87f49d237157",
+      "name": "Merrilee Rush & The Turnarounds",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 2020408,
+      "positionsGained": -2
+    },
+    {
+      "id": "7c13df54-1420-4ab4-8c47-d7563feb2354",
+      "name": "Lil Dicky",
+      "albums": [
+        "Professional Rapper"
+      ],
+      "songsCount": 20,
+      "timePlayed": 1998600,
+      "positionsGained": -2
+    },
+    {
+      "id": "ab36cd61-6c73-4aed-b07c-a5fa5e7843ec",
+      "name": "Imagine Dragons, JID, Arcane & League of Legends",
+      "albums": [
+        "Mercury - Act 1"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1908555,
+      "positionsGained": -2
+    },
+    {
+      "id": "df84cdf0-9960-4818-a960-7037ba62febf",
+      "name": "Fleetwood Mac",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1889097,
+      "positionsGained": -2
+    },
+    {
+      "id": "3f5a4c29-e96d-493a-9b1d-7f0d7db4d96d",
+      "name": "J. Cole, Bas & Central Cee",
+      "albums": [
+        "Might Delete Later"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1877680,
+      "positionsGained": -1
+    },
+    {
+      "id": "61cfded4-3b34-4555-b784-7528a6ca1257",
+      "name": "Manuel Carrasco",
+      "albums": [
+        "Bailar El Viento",
+        "Corazón Y Flecha",
+        "La Cruz del Mapa"
+      ],
+      "songsCount": 38,
+      "timePlayed": 1817048,
+      "positionsGained": -1
+    },
+    {
+      "id": "d791edbc-e48d-4047-af9a-d4c9b69f47b6",
+      "name": "Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The Greatest Showman Ensemble",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1813260,
+      "positionsGained": -1
+    },
+    {
+      "id": "c69be65f-08c8-4f3b-83bb-f4edc31ff488",
+      "name": "Chris de Burgh",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1793645,
+      "positionsGained": 0
+    },
+    {
+      "id": "e6dbd62a-c4b1-4e78-9f59-01a7cf5c559f",
+      "name": "J. Cole & Ari Lennox",
+      "albums": [
+        "Might Delete Later"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1771572,
+      "positionsGained": 0
+    },
+    {
+      "id": "8cdfe9d3-76cd-4d96-a00e-e5d12e18a1db",
+      "name": "Fergie",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1726536,
+      "positionsGained": 0
+    },
+    {
+      "id": "d8e28414-b6fb-4226-89e5-81507938c44e",
+      "name": "DUCKWRTH & Shaboozey",
+      "albums": [
+        "Spider-Man Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1715200,
+      "positionsGained": 3
+    },
+    {
+      "id": "2988e05d-e6c4-4120-bb30-ba422b854413",
+      "name": "Ed Sheeran",
+      "albums": [
+        "=",
+        "Autumn Variations",
+        "x (Deluxe Edition)",
+        "÷ (Deluxe)"
+      ],
+      "songsCount": 60,
+      "timePlayed": 1659817,
+      "positionsGained": -1
+    },
+    {
+      "id": "6b06bd17-bed9-41fd-833a-183c698ec12a",
+      "name": "Coldplay X BTS",
+      "albums": [
+        "Music of the Spheres"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1584086,
+      "positionsGained": -1
+    },
+    {
+      "id": "84b35b5e-4445-4094-bf04-87f2888e7029",
+      "name": "Token & YKD Jah",
+      "albums": [
+        "Pink Is Better"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1555330,
+      "positionsGained": -1
+    },
+    {
+      "id": "ddcadbea-f254-459f-a66f-e2b881157273",
+      "name": "Coldplay & Ayra Starr",
+      "albums": [
+        "Moon Music (Full Moon Edition)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1522465,
+      "positionsGained": 0
+    },
+    {
+      "id": "ccdad8df-59f3-43ce-80dc-322e67f7c992",
+      "name": "Metro Boomin & Coi Leray",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1516768,
+      "positionsGained": 9
+    },
+    {
+      "id": "f6696562-0563-4302-975f-a765f38e13f2",
+      "name": "The The",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1493285,
+      "positionsGained": -1
+    },
+    {
+      "id": "ac3ce613-4eea-4600-9f39-1d7b01d364b1",
+      "name": "Patsy Cline",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1481872,
+      "positionsGained": -1
+    },
+    {
+      "id": "6c3b54aa-1267-46a3-ac1f-57c8dfb0578e",
+      "name": "ODESZA",
+      "albums": [
+        "A Moment Apart"
+      ],
+      "songsCount": 16,
+      "timePlayed": 1472991,
+      "positionsGained": -1
+    },
+    {
+      "id": "35f7b7e6-f79d-44be-b9ab-f9322c7099c5",
+      "name": "Redbone",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)",
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 1459142,
+      "positionsGained": -1
+    },
+    {
+      "id": "064e0be9-e16b-4009-b080-c03b940598fb",
+      "name": "Heart",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1455020,
+      "positionsGained": -1
+    },
+    {
+      "id": "9cb8081d-0cac-4fb2-86c0-7db339187137",
+      "name": "Eric Carmen",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1429940,
+      "positionsGained": -1
+    },
+    {
+      "id": "8c96ff3c-3e40-4b82-8e7d-40459f148b22",
+      "name": "The Platters",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1425888,
+      "positionsGained": -1
+    },
+    {
+      "id": "e7fe2fc5-3efe-4bdd-8b85-0d5915965909",
+      "name": "David Bowie",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1419755,
+      "positionsGained": -1
+    },
+    {
+      "id": "ad79aae0-6cea-4ca0-a98f-b9073ca217ae",
+      "name": "Stray Kids",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1342166,
+      "positionsGained": -1
+    },
+    {
+      "id": "10125563-5890-4ad4-b232-d87565c38889",
+      "name": "EI8HT & Offset",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1299224,
+      "positionsGained": 20
+    },
+    {
+      "id": "56e35dad-9c9e-4076-93b3-c983fc68af51",
+      "name": "Quevedo & JC Reyes",
+      "albums": [
+        "DONDE QUIERO ESTAR"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1265160,
+      "positionsGained": -1
+    },
+    {
+      "id": "b81f0fb9-2527-45a9-9b07-af68b0e493cc",
+      "name": "Florence + the Machine",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1248650,
+      "positionsGained": -1
+    },
+    {
+      "id": "fb8abefe-0eef-40a5-abeb-f7b8484d57c2",
+      "name": "Eminem & Skylar Grey",
+      "albums": [
+        "Music To Be Murdered By - Side B",
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 1243269,
+      "positionsGained": -1
+    },
+    {
+      "id": "f24cea8e-eec1-4d71-b30e-862e818cca6f",
+      "name": "Blue Swede",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1236480,
+      "positionsGained": -1
+    },
+    {
+      "id": "27963133-dce4-4807-aa48-dfe9f4913654",
+      "name": "KAROL G",
+      "albums": [
+        "KG0516",
+        "MAÑANA SERÁ BONITO",
+        "OCEAN"
+      ],
+      "songsCount": 28,
+      "timePlayed": 1209833,
+      "positionsGained": -1
+    },
+    {
+      "id": "17243804-5725-4e44-be71-4dc7ed7af586",
+      "name": "Aretha Franklin",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1196015,
+      "positionsGained": -1
+    },
+    {
+      "id": "f4031804-f5f8-41a3-b0f6-b731fa9dc646",
+      "name": "Spacehog",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1193688,
+      "positionsGained": -1
+    },
+    {
+      "id": "d2512f53-6ad6-4459-a52d-659545d9d798",
+      "name": "Khalid",
+      "albums": [
+        "Free Spirit"
+      ],
+      "songsCount": 17,
+      "timePlayed": 1189797,
+      "positionsGained": -1
+    },
+    {
+      "id": "75aae7f6-c21b-4285-9b52-f7d748927e3c",
+      "name": "Jaymes Young",
+      "albums": [
+        "Feel Something"
+      ],
+      "songsCount": 12,
+      "timePlayed": 1188648,
+      "positionsGained": -1
+    },
+    {
+      "id": "27b69878-7276-4dde-9b20-4d78910dc5d3",
+      "name": "Huey Lewis and the News",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1175770,
+      "positionsGained": -1
+    },
+    {
+      "id": "6402e9f3-361b-409b-8f30-e1a21bce3de0",
+      "name": "Eminem & Ez Mil",
+      "albums": [
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1174725,
+      "positionsGained": -1
+    },
+    {
+      "id": "4a99112d-d3e0-4373-8c90-fd3ba4f8c0d0",
+      "name": "Jimmy Durante",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1157328,
+      "positionsGained": -1
+    },
+    {
+      "id": "afa65a3a-1a0a-4448-b1b8-de34ec422948",
+      "name": "Labrinth",
+      "albums": [
+        "Euphoria (Original Score from the HBO Series)"
+      ],
+      "songsCount": 26,
+      "timePlayed": 1152990,
+      "positionsGained": -1
+    },
+    {
+      "id": "6fb99acc-d103-41e7-b5e0-3a642c67b107",
+      "name": "George Harrison",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1125352,
+      "positionsGained": -1
+    },
+    {
+      "id": "5717453d-6267-435e-a0ea-6ade65f354ef",
+      "name": "Rupert Holmes",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1120024,
+      "positionsGained": -1
+    },
+    {
+      "id": "0698a646-2c93-4544-a62f-50fb67f803fb",
+      "name": "Quevedo & Ovy On the Drums",
+      "albums": [
+        "DONDE QUIERO ESTAR"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1111248,
+      "positionsGained": -1
+    },
+    {
+      "id": "517ec6cf-f090-45c2-8ee3-248a15bb098b",
+      "name": "10cc",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1100118,
+      "positionsGained": 24
+    },
+    {
+      "id": "111969b9-cc54-4775-96d7-ae51f2ef327d",
+      "name": "Quevedo & Sech",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1097665,
+      "positionsGained": 9
+    },
+    {
+      "id": "4f580668-79fa-428b-ae60-0bf7b784b89f",
+      "name": "The Kid LAROI & Juice WRLD",
+      "albums": [
+        "F*CK LOVE (SAVAGE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1093104,
+      "positionsGained": 5
+    },
+    {
+      "id": "32359cc6-d1e3-4864-8804-a5b7bac5ea4b",
+      "name": "X",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1037664,
+      "positionsGained": -4
+    },
+    {
+      "id": "6a616642-bb73-4aa0-8685-f3ce756b1497",
+      "name": "Raspberries",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1020600,
+      "positionsGained": -4
+    },
+    {
+      "id": "51099ce0-79e3-4581-9d2d-f39d11ab2984",
+      "name": "John Travolta & Olivia Newton-John",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1019712,
+      "positionsGained": -4
+    },
+    {
+      "id": "a935c2f0-87ab-4be8-82b9-712039b4b3f7",
+      "name": "Metro Boomin & Nas",
+      "albums": [
+        "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 1003254,
+      "positionsGained": 8
+    },
+    {
+      "id": "e7807832-9cf3-4b8b-87b2-69937b4c8b72",
+      "name": "Beastie Boys",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 987948,
+      "positionsGained": -5
+    },
+    {
+      "id": "66df3e0e-8c56-4c4e-afac-a93ae3c093e9",
+      "name": "Coldplay X Selena Gomez",
+      "albums": [
+        "Music of the Spheres"
+      ],
+      "songsCount": 1,
+      "timePlayed": 966844,
+      "positionsGained": -4
+    },
+    {
+      "id": "9af666a2-7c93-4c9a-be10-d5e212cdc2a4",
+      "name": "Looking Glass",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 934400,
+      "positionsGained": -4
+    },
+    {
+      "id": "db6d8a43-6db0-4f8a-83f1-520cbfaf781e",
+      "name": "Quevedo & Omar Montes",
+      "albums": [
+        "DONDE QUIERO ESTAR"
+      ],
+      "songsCount": 1,
+      "timePlayed": 926196,
+      "positionsGained": -4
+    },
+    {
+      "id": "7d4103b9-3973-4916-9a7c-771685d7cc30",
+      "name": "Marvin Gaye & Tammi Terrell",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 918462,
+      "positionsGained": 9
+    },
+    {
+      "id": "acd3f1b0-d53a-4d06-92f3-c865c98dc3c9",
+      "name": "Cat Stevens",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 893384,
+      "positionsGained": -4
+    },
+    {
+      "id": "6a9e3ffe-fb25-492a-8c1e-9ee08a3b3e33",
+      "name": "Avril Lavigne",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 892760,
+      "positionsGained": -4
+    },
+    {
+      "id": "8e2c8424-6341-464d-8615-df378172b467",
+      "name": "Eminem & White Gold",
+      "albums": [
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 867056,
+      "positionsGained": 28
+    },
+    {
+      "id": "0ad5bf80-f64e-4cc6-a165-7723110d8af1",
+      "name": "Quevedo & Aitana",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 854412,
+      "positionsGained": -4
+    },
+    {
+      "id": "2d4759e8-571d-4e8c-b17f-6f3624bae90b",
+      "name": "Silver",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 851696,
+      "positionsGained": -4
+    },
+    {
+      "id": "9a181c97-0bdd-4888-b9d5-f5c481b31e85",
+      "name": "Iggy Pop",
+      "albums": [
+        "EVERY LOSER"
+      ],
+      "songsCount": 11,
+      "timePlayed": 839625,
+      "positionsGained": -4
+    },
+    {
+      "id": "f1eabbbe-d8a2-4f4e-8b68-2e83d9853de6",
+      "name": "NF & Cordae",
+      "albums": [
+        "HOPE"
+      ],
+      "songsCount": 1,
+      "timePlayed": 838424,
+      "positionsGained": 20
+    },
+    {
+      "id": "ea47404b-6c88-4c95-8cc0-5ff1a894f891",
+      "name": "Sweet",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 803524,
+      "positionsGained": -4
+    },
+    {
+      "id": "326d514e-5e09-4559-8bff-10913137cf99",
+      "name": "Lewis Capaldi",
+      "albums": [
+        "Divinely Uninspired To a Hellish Extent (Extended Edition)"
+      ],
+      "songsCount": 15,
+      "timePlayed": 799606,
+      "positionsGained": -4
+    },
+    {
+      "id": "46c293cf-f242-410d-83db-d50b18ef5769",
+      "name": "Five Stairsteps",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 788268,
+      "positionsGained": -4
+    },
+    {
+      "id": "59bc7ed8-cdb3-4d6b-946b-f80810b64e14",
+      "name": "The Sneepers",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 787852,
+      "positionsGained": -4
+    },
+    {
+      "id": "8f5a623c-796b-4c71-b847-28d08ddea075",
+      "name": "Quevedo, De La Rose & De La Ghetto",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 766197,
+      "positionsGained": -4
+    },
+    {
+      "id": "572cd1ac-a92f-431d-bfb6-38e1a22f061e",
+      "name": "Cheap Trick",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 761337,
+      "positionsGained": -3
+    },
+    {
+      "id": "5db7e9a2-aa96-4e5d-9155-ad1b44ed7ef5",
+      "name": "Juice WRLD & YoungBoy Never Broke Again",
+      "albums": [
+        "Death Race For Love (Bonus Track Version)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 757760,
+      "positionsGained": -3
+    },
+    {
+      "id": "69c87501-ff56-4efd-9087-e21d618f801a",
+      "name": "Coldplay x We Are KING X Jacob Collier",
+      "albums": [
+        "Music of the Spheres"
+      ],
+      "songsCount": 1,
+      "timePlayed": 756400,
+      "positionsGained": -3
+    },
+    {
+      "id": "9a5d306f-f218-4fcb-b08a-2e003175dcd3",
+      "name": "Glen Campbell",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 720248,
+      "positionsGained": -2
+    },
+    {
+      "id": "c23b8d55-d8ef-4567-9e66-af4162c6ef74",
+      "name": "Shawn Mendes & Justin Bieber",
+      "albums": [
+        "Wonder"
+      ],
+      "songsCount": 1,
+      "timePlayed": 716256,
+      "positionsGained": -2
+    },
+    {
+      "id": "8eb267ca-24a0-4601-9169-299781b76434",
+      "name": "Pablo López",
+      "albums": [
+        "UNIKORNIO Once millones de versos después de ti"
+      ],
+      "songsCount": 10,
+      "timePlayed": 715852,
+      "positionsGained": -2
+    },
+    {
+      "id": "8d92d9ac-5c3b-4b22-a1db-bcd01548d01b",
+      "name": "Quevedo & Myke Towers",
+      "albums": [
+        "DONDE QUIERO ESTAR"
+      ],
+      "songsCount": 1,
+      "timePlayed": 712905,
+      "positionsGained": -2
+    },
+    {
+      "id": "90e736d4-3887-47b0-b136-ce01c6eb86d6",
+      "name": "Parliament",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 693498,
+      "positionsGained": -2
+    },
+    {
+      "id": "d20b4e6e-11b9-460e-8e9f-e1b92f8e4af6",
+      "name": "Quevedo & Sin Nombre",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 690048,
+      "positionsGained": -2
+    },
+    {
+      "id": "5b0fa316-8eb9-4137-9771-28a42c47704b",
+      "name": "Cory Henry",
+      "albums": [
+        "Mercury - Act 2"
+      ],
+      "songsCount": 1,
+      "timePlayed": 688464,
+      "positionsGained": 51
+    },
+    {
+      "id": "af8b8ef3-9b80-45ee-860a-e2175f48e12c",
+      "name": "Jay & The Americans",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 675628,
+      "positionsGained": -3
+    },
+    {
+      "id": "bf17b5cf-9c15-4aa6-a4fe-34bcca4043bb",
+      "name": "Waylon Jennings",
+      "albums": [
+        "Deadpool & Wolverine (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 668316,
+      "positionsGained": -3
+    },
+    {
+      "id": "30e1e692-7957-41af-9942-404d13f9c8d0",
+      "name": "J Balvin, Bad Bunny & Mr Eazi",
+      "albums": [
+        "OASIS"
+      ],
+      "songsCount": 1,
+      "timePlayed": 659694,
+      "positionsGained": -3
+    },
+    {
+      "id": "8dd2c939-ca66-4ca8-941c-0591309f2369",
+      "name": "Niall Horan",
+      "albums": [
+        "Heartbreak Weather"
+      ],
+      "songsCount": 14,
+      "timePlayed": 655646,
+      "positionsGained": -3
+    },
+    {
+      "id": "5091303e-c2d5-4bd0-adf6-443869734b64",
+      "name": "Alice Cooper",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 641955,
+      "positionsGained": -3
+    },
+    {
+      "id": "5448125c-ec07-438f-8769-f24f5f1c9fb8",
+      "name": "Jay Wheeler",
+      "albums": [
+        "El Amor y Yo"
+      ],
+      "songsCount": 12,
+      "timePlayed": 641853,
+      "positionsGained": -3
+    },
+    {
+      "id": "3b992ffe-167d-4d66-812e-ede4cdcf674e",
+      "name": "The Chainsmokers & NGHTMRE",
+      "albums": [
+        "Sick Boy"
+      ],
+      "songsCount": 1,
+      "timePlayed": 632031,
+      "positionsGained": -3
+    },
+    {
+      "id": "f0ddeed9-02c5-4e62-9000-24a1559752d0",
+      "name": "CHVRCHES",
+      "albums": [
+        "Love Is Dead",
+        "Screen Violence"
+      ],
+      "songsCount": 22,
+      "timePlayed": 615576,
+      "positionsGained": -2
+    },
+    {
+      "id": "33602528-903e-46ae-8d90-174d7f65813f",
+      "name": "Electric Light Orchestra",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 606876,
+      "positionsGained": -2
+    },
+    {
+      "id": "91d5e333-6b7c-49d5-9766-cf59d4a026ab",
+      "name": "Earth, Wind & Fire",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 601442,
+      "positionsGained": -2
+    },
+    {
+      "id": "4bba6eb5-9f12-48a0-ae4a-4e11d21af4e5",
+      "name": "Rainbow",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 593553,
+      "positionsGained": -1
+    },
+    {
+      "id": "7488a645-3f95-428f-ba65-5def8658a8c8",
+      "name": "Bad Bunny",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 15,
+      "timePlayed": 570408,
+      "positionsGained": -1
+    },
+    {
+      "id": "253a5e90-e38c-47c6-a619-6996e7148ca8",
+      "name": "girl in red & Sabrina Carpenter",
+      "albums": [
+        "I'M DOING IT AGAIN BABY!"
+      ],
+      "songsCount": 1,
+      "timePlayed": 559464,
+      "positionsGained": 21
+    },
+    {
+      "id": "b3a7f106-ceb9-4b2c-ab9f-e56bc37cb22f",
+      "name": "Elvin Bishop",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 557662,
+      "positionsGained": -2
+    },
+    {
+      "id": "29fdc718-69e8-4580-945c-7830ca87fcd8",
+      "name": "Conan Gray",
+      "albums": [
+        "Kid Krow",
+        "Superache"
+      ],
+      "songsCount": 24,
+      "timePlayed": 547028,
+      "positionsGained": -2
+    },
+    {
+      "id": "7afa0fa4-e73c-4b37-ab2a-5dc0ba3b1c57",
+      "name": "Jackson 5",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 545358,
+      "positionsGained": -2
+    },
+    {
+      "id": "839374d7-5385-41af-9361-e5df3c8bbd0b",
+      "name": "The Chainsmokers & Aazar",
+      "albums": [
+        "Sick Boy"
+      ],
+      "songsCount": 1,
+      "timePlayed": 523572,
+      "positionsGained": -2
+    },
+    {
+      "id": "2e2e0b4a-855e-4e12-91fb-3a999ebd6dc4",
+      "name": "Quevedo & Pitbull",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 497553,
+      "positionsGained": 22
+    },
+    {
+      "id": "b7ccff5a-3174-4094-aa32-069d4b88bae7",
+      "name": "Sam Cooke",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 493086,
+      "positionsGained": -3
+    },
+    {
+      "id": "391f46c5-8df3-4d3d-9458-c45698b23eb2",
+      "name": "NF & Julia Michaels",
+      "albums": [
+        "HOPE"
+      ],
+      "songsCount": 1,
+      "timePlayed": 492460,
+      "positionsGained": -3
+    },
+    {
+      "id": "b5d5f5d8-116b-4bc9-900e-0f868e0f4099",
+      "name": "Norman Greenbaum",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 489430,
+      "positionsGained": -3
+    },
+    {
+      "id": "5f1cf5d4-2f0f-4b63-b882-e5403fbb200f",
+      "name": "Quevedo & Rels B",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 486033,
+      "positionsGained": -3
+    },
+    {
+      "id": "c50f5bc1-7142-487a-a9b5-7c2cc874d5f5",
+      "name": "Lauv & LANY",
+      "albums": [
+        "~how i'm feeling~"
+      ],
+      "songsCount": 1,
+      "timePlayed": 471404,
+      "positionsGained": -3
+    },
+    {
+      "id": "530d69fe-4c31-4be1-b353-2037a14b8c6e",
+      "name": "Aliotta Haynes Jeremiah",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 2 Awesome Mix, Vol. 2 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 470464,
+      "positionsGained": -3
+    },
+    {
+      "id": "dfe38315-3ea1-4b29-af47-fc9612fec45c",
+      "name": "J Balvin & Bad Bunny",
+      "albums": [
+        "OASIS"
+      ],
+      "songsCount": 7,
+      "timePlayed": 467068,
+      "positionsGained": -3
+    },
+    {
+      "id": "07841859-a372-4a2e-b372-ad7a8b41c0f7",
+      "name": "Trevor Daniel & Julia Michaels",
+      "albums": [
+        "That Was Then"
+      ],
+      "songsCount": 1,
+      "timePlayed": 465579,
+      "positionsGained": -3
+    },
+    {
+      "id": "22fa75af-96d6-4318-9c28-25660e1df9db",
+      "name": "Pentakill",
+      "albums": [
+        "II: Grasp of the Undying",
+        "III: Lost Chapter",
+        "Smite and Ignite"
+      ],
+      "songsCount": 29,
+      "timePlayed": 461125,
+      "positionsGained": -3
+    },
+    {
+      "id": "63386f8a-0670-412a-92f0-65aa8817e47a",
+      "name": "Eminem & Jelly Roll",
+      "albums": [
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 460642,
+      "positionsGained": -3
+    },
+    {
+      "id": "2fc97d78-117c-495f-a638-7f6458fe86d7",
+      "name": "NF & Sasha Alex Sloan",
+      "albums": [
+        "The Search"
+      ],
+      "songsCount": 1,
+      "timePlayed": 453120,
+      "positionsGained": -3
+    },
+    {
+      "id": "5b7b2462-4d25-4344-988c-b328fff1ae05",
+      "name": "The Chainsmokers & Drew Love",
+      "albums": [
+        "Sick Boy"
+      ],
+      "songsCount": 1,
+      "timePlayed": 444342,
+      "positionsGained": -3
+    },
+    {
+      "id": "17dad0a3-595a-43a5-b300-43b42ac59d03",
+      "name": "The Flaming Lips",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 426056,
+      "positionsGained": -3
+    },
+    {
+      "id": "7d75d493-4b6f-426b-b02b-b93782e69020",
+      "name": "The Runaways",
+      "albums": [
+        "Guardians of the Galaxy Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 420204,
+      "positionsGained": -3
+    },
+    {
+      "id": "1ee5fb16-747f-40c0-a508-ee9c9387fd91",
+      "name": "Nessa Barrett & Tommy Genesis",
+      "albums": [
+        "AFTERCARE"
+      ],
+      "songsCount": 1,
+      "timePlayed": 395284,
+      "positionsGained": -3
+    },
+    {
+      "id": "ec7c3e87-fa80-4e85-afad-eae04fe77637",
+      "name": "Quevedo & Yung Beef",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 388702,
+      "positionsGained": -3
+    },
+    {
+      "id": "d8b6f6ff-cead-4e29-9139-731012b81517",
+      "name": "Becky Hill",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 7,
+      "timePlayed": 380976,
+      "positionsGained": -3
+    },
+    {
+      "id": "5ca7ddcd-912d-40c1-a101-ac7f0e56c351",
+      "name": "Robin Schulz",
+      "albums": [
+        "The Afterlove (Extended Version)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 378672,
+      "positionsGained": -3
+    },
+    {
+      "id": "84f79b23-39ea-4b31-b3f9-7d2b74b6dd8f",
+      "name": "Quevedo & Cruz Cafuné",
+      "albums": [
+        "DONDE QUIERO ESTAR"
+      ],
+      "songsCount": 1,
+      "timePlayed": 365814,
+      "positionsGained": -2
+    },
+    {
+      "id": "fed8668a-21fb-420f-9826-dce01129c90f",
+      "name": "Quevedo & La Pantera",
+      "albums": [
+        "BUENAS NOCHES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 362684,
+      "positionsGained": -2
+    },
+    {
+      "id": "c801eff4-5119-4cc9-b35a-d44286a2c350",
+      "name": "The Mowgli's",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 346016,
+      "positionsGained": -2
+    },
+    {
+      "id": "ad9759c4-bc0d-472c-bee9-cf464b6cdc63",
+      "name": "Alok, Sigala & Ellie Goulding",
+      "albums": [
+        "Higher Than Heaven (Deluxe)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 343666,
+      "positionsGained": -2
+    },
+    {
+      "id": "acda17aa-cbbf-44a5-a5d1-40daf2a946dc",
+      "name": "Bad Bunny & Buscabulla",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 339722,
+      "positionsGained": -2
+    },
+    {
+      "id": "064b99ed-415d-4adc-b2ac-2793d3c709b4",
+      "name": "Halsey & Alanis Morissette",
+      "albums": [
+        "Manic"
+      ],
+      "songsCount": 1,
+      "timePlayed": 324432,
+      "positionsGained": 22
+    },
+    {
+      "id": "0d1abaed-548b-46bb-9260-a2346055861d",
+      "name": "Halsey & Dominic Fike",
+      "albums": [
+        "Manic"
+      ],
+      "songsCount": 1,
+      "timePlayed": 315744,
+      "positionsGained": -2
+    },
+    {
+      "id": "50b4d549-182e-4f29-8d24-794f51e21f44",
+      "name": "Eminem & Jessie Reyez",
+      "albums": [
+        "Kamikaze"
+      ],
+      "songsCount": 1,
+      "timePlayed": 310386,
+      "positionsGained": -2
+    },
+    {
+      "id": "17b8dda8-2310-40d0-a394-49ae813e691d",
+      "name": "Becky Hill & Topic",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 298032,
+      "positionsGained": -2
+    },
+    {
+      "id": "bfe0e49d-33c1-45e5-a48b-47373a5e2c67",
+      "name": "The Kid LAROI & Marshmello",
+      "albums": [
+        "F*CK LOVE (SAVAGE)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 281184,
+      "positionsGained": -2
+    },
+    {
+      "id": "5bac0f27-4c36-4efe-ae4c-9590e874fb4e",
+      "name": "Halsey, SUGA & BTS",
+      "albums": [
+        "Manic"
+      ],
+      "songsCount": 1,
+      "timePlayed": 278640,
+      "positionsGained": -2
+    },
+    {
+      "id": "1e283819-c490-4b27-92db-9df28aa11715",
+      "name": "Julia Wolf",
+      "albums": [
+        "Good Thing We Stayed"
+      ],
+      "songsCount": 10,
+      "timePlayed": 270915,
+      "positionsGained": -2
+    },
+    {
+      "id": "bc425111-e568-4f07-af76-055b4cc2ec7b",
+      "name": "KAROL G, Anuel AA & J Balvin",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 263105,
+      "positionsGained": -2
+    },
+    {
+      "id": "5790ba33-a3d4-402b-90e3-fa6f30679626",
+      "name": "Bad Bunny & Bomba Estéreo",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 258403,
+      "positionsGained": -2
+    },
+    {
+      "id": "e44092e0-8dbb-4b52-a765-8e2d37b3cf68",
+      "name": "Faith No More",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 250017,
+      "positionsGained": -2
+    },
+    {
+      "id": "8ae992e3-26e9-4263-ae60-e006a2747bb6",
+      "name": "Bad Bunny & Jhay Cortez",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 238001,
+      "positionsGained": -2
+    },
+    {
+      "id": "a011daec-9706-4a5f-ba9b-f2e39461987e",
+      "name": "Bad Bunny & Raw Alejandro",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 227735,
+      "positionsGained": -1
+    },
+    {
+      "id": "6283ac52-f51f-4927-ab61-c930763b2374",
+      "name": "KAROL G & Nathy Peluso",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 225253,
+      "positionsGained": -1
+    },
+    {
+      "id": "e6d1444e-37c0-4d37-862c-604c6439f11b",
+      "name": "Eminem & JID",
+      "albums": [
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 213760,
+      "positionsGained": -1
+    },
+    {
+      "id": "8b5c0c4f-c498-45bc-aaa2-73030a4b599f",
+      "name": "KAROL G & Nicki Minaj",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 201978,
+      "positionsGained": -1
+    },
+    {
+      "id": "a72391fb-947d-4236-85e4-6ea95d1c9342",
+      "name": "OneRepublic & Kygo",
+      "albums": [
+        "Human (Deluxe)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 199896,
+      "positionsGained": -1
+    },
+    {
+      "id": "88015adf-4db8-4ebe-a0b3-d2bd13f916ca",
+      "name": "The Replacements",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 198713,
+      "positionsGained": -1
+    },
+    {
+      "id": "7c838c2c-9d00-460f-90c8-6acc69a6218b",
+      "name": "Bad Bunny & Tony Dize",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 198478,
+      "positionsGained": -1
+    },
+    {
+      "id": "26d1bd59-5b86-470f-8e4a-a40ef1d4dc39",
+      "name": "Kygo",
+      "albums": [
+        "Thrill Of The Chase"
+      ],
+      "songsCount": 12,
+      "timePlayed": 191895,
+      "positionsGained": -1
+    },
+    {
+      "id": "915438f5-2959-4670-8451-63aa5a09eda2",
+      "name": "Nessa Barrett & Artemas",
+      "albums": [
+        "AFTERCARE"
+      ],
+      "songsCount": 1,
+      "timePlayed": 191764,
+      "positionsGained": -1
+    },
+    {
+      "id": "4cdafdfd-15ef-4cae-babc-dcb610f99bb0",
+      "name": "Ehamic",
+      "albums": [
+        "Guardians of the Galaxy, Vol. 3 Awesome Mix, Vol. 3 (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 190563,
+      "positionsGained": -1
+    },
+    {
+      "id": "c8802e85-ec53-427e-979d-476593b21301",
+      "name": "Maren Morris",
+      "albums": [
+        "The Wild Robot (Original Motion Picture Soundtrack)"
+      ],
+      "songsCount": 2,
+      "timePlayed": 185391,
+      "positionsGained": -1
+    },
+    {
+      "id": "16a42a1f-d9b1-4715-bc8f-798341891e86",
+      "name": "Danny Ocean",
+      "albums": [
+        "54+1"
+      ],
+      "songsCount": 13,
+      "timePlayed": 169377,
+      "positionsGained": -1
+    },
+    {
+      "id": "9aeac850-99e6-493d-b7af-c98182276aac",
+      "name": "Charlie Puth & Jung Kook",
+      "albums": [
+        "CHARLIE"
+      ],
+      "songsCount": 1,
+      "timePlayed": 154279,
+      "positionsGained": 0
+    },
+    {
+      "id": "8513a861-3541-495a-8b69-8f44bf8d6522",
+      "name": "Paul Rosenberg",
+      "albums": [
+        "Kamikaze"
+      ],
+      "songsCount": 1,
+      "timePlayed": 110418,
+      "positionsGained": 0
+    },
+    {
+      "id": "e3e8dd3b-dfd0-4fd2-93be-322cf9b2d268",
+      "name": "Eminem & Steve Berman",
+      "albums": [
+        "The Marshall Mathers LP"
+      ],
+      "songsCount": 1,
+      "timePlayed": 53640,
+      "positionsGained": 0
+    },
+    {
+      "id": "50f1a542-6124-4094-97bf-151122a377ff",
+      "name": "Paul \"Bunyan\" Rosenberg",
+      "albums": [
+        "The Marshall Mathers LP"
+      ],
+      "songsCount": 1,
+      "timePlayed": 32130,
+      "positionsGained": 0
+    },
+    {
+      "id": "e5290cc0-95fa-4c3d-915f-f6d8ad65d995",
+      "name": "Aitana",
+      "albums": [
+        "11 RAZONES"
+      ],
+      "songsCount": 6,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "62723508-20a0-469a-8bd1-fa04528c25c9",
+      "name": "Aitana & Cali y El Dandee",
+      "albums": [
+        "11 RAZONES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "b1d06f05-4dbc-45d4-9806-4ad0b3d8738a",
+      "name": "Aitana, Álvaro Díaz & Pole",
+      "albums": [
+        "11 RAZONES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "450abc01-8307-4368-9e74-bf043917a591",
+      "name": "KAROL G, Juanka & Brray",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "07321109-a94a-4363-b789-295f7468747f",
+      "name": "Bob Sinclar",
+      "albums": [
+        "Western Dream"
+      ],
+      "songsCount": 11,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "5cedc9be-5dd0-4064-809e-1f72915d2099",
+      "name": "KAROL G, Ludacris & Emilee",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "67a76ff3-d93d-4cb7-ac84-04d17b85da39",
+      "name": "Sigrid & Bring Me The Horizon",
+      "albums": [
+        "How To Let Go"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "343dff7b-4531-4423-9bec-bc86986fb156",
+      "name": "Becky Hill & Shift K3Y",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "90537d05-45aa-4da7-9194-ac58ea740920",
+      "name": "Becky Hill & Ella Eyre",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "d36916be-12fa-4a88-85dc-bbcacf403a92",
+      "name": "KAROL G & Ovy On the Drums",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "4d6ace4e-d04d-45de-8846-6d0fb192f134",
+      "name": "Aitana & Sebastián Yatra",
+      "albums": [
+        "11 RAZONES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "1dbbcb74-5407-4825-bece-a5dede9fad1c",
+      "name": "Aitana & Natalia Lacunza",
+      "albums": [
+        "11 RAZONES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "feefab47-ce52-409c-991a-624eac31b377",
+      "name": "Bad Bunny & Tainy",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "3d834d65-1ae0-4bd1-b0c0-f19d0748fd06",
+      "name": "The Score & AWOLNATION",
+      "albums": [
+        "Carry On"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "e9d7e3f0-2c72-4bca-a4ed-5249f48c3fc3",
+      "name": "Becky Hill & S1mba",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "82521420-bf35-4839-a4b2-dc33fd76238b",
+      "name": "KAROL G & Maluma",
+      "albums": [
+        "OCEAN"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "edd925ac-bfc6-44f8-8222-bc84df06ae29",
+      "name": "KAROL G & Anuel AA",
+      "albums": [
+        "OCEAN"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "a862848f-2113-4d6b-ab42-077c62c63e49",
+      "name": "KAROL G & Sech",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "3c8acd5a-44b1-4ad2-8a5f-d60f1b207786",
+      "name": "KAROL G & Mariah Angeliq",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "5a0d3a0e-563d-40e2-b1ef-f2534a295ab4",
+      "name": "Aitana & Beret",
+      "albums": [
+        "11 RAZONES"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "a7d9d915-33e5-4e0d-bc62-79432ecf1263",
+      "name": "KAROL G & Maldy",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "49581a59-bac4-49ca-b518-00ea171223e6",
+      "name": "Becky Hill & Sigala",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "5a813399-2c25-4460-9df7-b696b4428765",
+      "name": "Kygo & Sam Feldt",
+      "albums": [
+        "Thrill Of The Chase"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "fb4487ee-a46b-4483-9d56-c838cf95e7c3",
+      "name": "CHVRCHES & Robert Smith",
+      "albums": [
+        "Screen Violence"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "7c9f6cf8-e1f1-4fea-82ca-9f2c0881f49c",
+      "name": "KAROL G, Bad Gyal & Sean Paul",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "2f09d813-0d31-4fe7-a25a-8a1d11c6f0b8",
+      "name": "KAROL G, Wisin & Yandel & Nicky Jam",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "6c6508cd-cf2d-43aa-903c-ef4049ceb0e1",
+      "name": "Becky Hill & Banx & Ranx",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "097794bc-02e8-42e5-b3bd-42e742219ceb",
+      "name": "Eminem & Sly Pyper",
+      "albums": [
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "0b77d4c6-0103-4370-8d68-22f044d52c95",
+      "name": "KAROL G & Carla Morrison",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "4bcdebff-69a5-4a17-9414-b3fe57d0fec1",
+      "name": "Bad Bunny & Chencho Corleone",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "55de881b-a4ce-4f4a-b345-c707b5ba6500",
+      "name": "KAROL G & J. Balvin",
+      "albums": [
+        "OCEAN"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "07108b20-5901-4407-b6b0-c2cf890d38fa",
+      "name": "KAROL G & Ozuna",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "a82cdbc6-2891-4a7e-930d-0565d21f850e",
+      "name": "KAROL G, Justin Quiles & ANGEL DIOR",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "c6563675-a4a1-4b40-8422-d51126ecb978",
+      "name": "The Score/The Score - Topic",
+      "albums": [
+        "ATLAS (Deluxe)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "4f0e0420-b86c-4364-a45e-6c2f8a4afa85",
+      "name": "Bad Bunny & The Marías",
+      "albums": [
+        "Un Verano Sin Ti"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "e6e6b41d-c6c7-48e6-b2b0-2060aebbb8fe",
+      "name": "KAROL G & Quevedo",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "38138ae9-f5ce-4b16-afa9-4efeaa28321b",
+      "name": "Becky Hill & David Guetta",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "ebd999b7-c341-4c7c-b2cb-cd8ad4975934",
+      "name": "Juice WRLD & Rvssian",
+      "albums": [
+        "Death Race For Love (Bonus Track Version)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "9d6f7465-3cad-4712-93db-98b081f6e6cb",
+      "name": "Eminem, Dem Jointz & Sly Pyper",
+      "albums": [
+        "The Death of Slim Shady (Coup De Grâce)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "00b5ce69-5fa1-45da-8761-7b64a8eaaa38",
+      "name": "KAROL G & Yandar & Yostin",
+      "albums": [
+        "KG0516"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "68424bed-82b3-40fd-be71-d8a665de9ba8",
+      "name": "Shawn Mendes & Camila Cabello",
+      "albums": [
+        "Shawn Mendes (Deluxe)"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "1e8da274-2874-4c0e-8121-cc511d0c12e3",
+      "name": "KAROL G & Shakira",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "e01dffb8-488c-43ad-ae62-d1bbcc587857",
+      "name": "Becky HIll & 220 KID",
+      "albums": [
+        "Only Honest On The Weekend"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "c7023b62-15ae-4b29-8a5e-74db75051d8e",
+      "name": "Kygo, Gryffin & Calum Scott",
+      "albums": [
+        "Thrill Of The Chase"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    },
+    {
+      "id": "d9d049fa-8d7a-4d86-bef3-d09b3376466d",
+      "name": "KAROL G & Romeo Santos",
+      "albums": [
+        "MAÑANA SERÁ BONITO"
+      ],
+      "songsCount": 1,
+      "timePlayed": 0,
+      "positionsGained": 0
+    }
+  ]
+}
