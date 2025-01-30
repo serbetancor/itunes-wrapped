@@ -69,7 +69,7 @@ const hideTooltip = () => {
 
 <template>
   <div class="flex flex-col items-center p-4">
-    <input type="range" v-model="topCount" min="1" max="100" class="mb-4 w-64" />
+    <input type="range" v-model="topCount" min="1" max="200" class="mb-4 w-64" />
     <span>Top {{ topCount }} song{{ topCount > 1 ? 's' : '' }}</span>
     <!--
 
@@ -102,7 +102,7 @@ const hideTooltip = () => {
         <li
           v-for="(song, index) in shownSongs"
           :key="song.id"
-          class="grid grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1 odd:bg-pink/10 even:bg-white"
+          class="grid min-h-12 grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1 odd:bg-pink/10 even:bg-white"
         >
           <span class="w-4 font-semibold">{{ index + 1 }}</span>
           <img v-if="song.image" class="w-10 rounded-full" :src="song.image" />

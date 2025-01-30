@@ -1,0 +1,2074 @@
+{
+  "data": [
+    {
+      "name": "Taylor Swift",
+      "id": 159260351,
+      "parse_image": "https://music.apple.com/us/artist/taylor-swift/159260351?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1d/39/4e/1d394ed5-279c-3186-4b30-e139a3f93adc/8e1d4c20-f1b8-48de-becd-8be82c903060_ami-identity-994af5c375f4c3aa96cd6ced4a700799-2024-03-28T12-56-11.536Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Imagine Dragons",
+      "id": 358714030,
+      "parse_image": "https://music.apple.com/us/artist/imagine-dragons/358714030?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/f2/7b/29/f27b29c0-49e6-4b40-e079-9a2163030444/0cd8f23b-d974-42e4-8fe7-1aaa533baf13_ami-identity-0dee3e31f20984eeb377fa8009444095-2024-04-03T19-26-12.960Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Arcane",
+      "id": 1592029734,
+      "parse_image": "https://music.apple.com/us/artist/arcane/1592029734?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/110x110bb.webp"
+    },
+    {
+      "name": "League of Legends Music",
+      "id": 960030338,
+      "parse_image": "https://music.apple.com/us/artist/league-of-legends-music/960030338?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/6f/81/fd6f8164-8f0e-8af4-b514-e89db5611ae1/198704321740_Cover.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Travis Scott",
+      "id": 549236696,
+      "parse_image": "https://music.apple.com/us/artist/travis-scott/549236696?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/8a/7f/aa/8a7faa0f-1d60-8e4d-1ac0-d835e9d6574a/ami-identity-37880238a23a47d53d01a6f4e67f0167-2025-01-24T04-53-52.460Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "LINKIN PARK",
+      "id": 148662,
+      "parse_image": "https://music.apple.com/us/artist/linkin-park/148662?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/fb/9c/21/fb9c2153-beb4-36cc-c843-318671ad5882/23541ba3-2dad-4271-8942-f9334d4f69af_ami-identity-640bb7a837fee9170cc487c37709e42e-2024-10-03T17-01-03.505Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Post Malone",
+      "id": 966309175,
+      "parse_image": "https://music.apple.com/us/artist/post-malone/966309175?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/68/a4/ff/68a4ff39-09e1-24f1-a23a-ed0e19f414d2/mza_10086378726648720433.png/110x110bb.webp"
+    },
+    {
+      "name": "Coldplay",
+      "id": 471744,
+      "parse_image": "https://music.apple.com/us/artist/coldplay/471744?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/63/94/ac/6394acdd-a223-049c-e373-5a3597c3858e/9947797f-59c5-420d-9c1d-81be5a7b5889_ami-identity-627a3a5a7feb2fd65e55602f252c9aa8-2024-06-17T12-11-33.334Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Hiroyuki Sawano",
+      "id": 156620523,
+      "parse_image": "https://music.apple.com/us/artist/hiroyuki-sawano/156620523?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/64/f8/32/64f83275-a7af-2a88-ddbc-bc032fe0bfd3/mzl.nqorvsns.jpg/110x110bb.webp"
+    },
+    {
+      "name": "NF",
+      "id": 898094630,
+      "parse_image": "https://music.apple.com/us/artist/nf/898094630?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/1e/bf/e9/1ebfe9c6-4d2d-b415-b3cb-e1e3c2797197/265cdc14-cd50-4e8c-a3c4-8eb53de02b14_ami-identity-2185802b4bcfeed81e8f8dc59999108d-2023-04-18T22-47-47.510Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Eminem",
+      "id": 111051,
+      "parse_image": "https://music.apple.com/us/artist/eminem/111051?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/87/8e/a0/878ea0a1-ed8d-6fd7-3567-76ab8e6529af/mzl.ayuccyos.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Token",
+      "id": 171854,
+      "parse_image": "https://music.apple.com/us/artist/the-tokens/171854?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/51/03/c4/5103c4d6-d167-35c6-0ced-a9ebd164772f/13284e43-f592-4080-9333-81c12b29e2d7_ami-identity-92d6c6f213abaa1180d7a3635c30ffed-2024-02-01T16-02-57.144Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "James Blunt",
+      "id": 27496674,
+      "parse_image": "https://music.apple.com/us/artist/james-blunt/27496674?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/02/c7/bb/02c7bba9-d4a1-b2ac-410e-51cd39d8abd0/fca5da15-3eb2-4d63-825d-44f0ada12263_ami-identity-7c0880ddb3be2693f55856bbbd25e999-2023-07-31T16-35-38.910Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "twenty one pilots",
+      "id": 349736311,
+      "parse_image": "https://music.apple.com/us/artist/twenty-one-pilots/349736311?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/5d/3f/fe/5d3ffefa-07a0-1dbf-becb-16359c2b0156/201a6ea5-f449-4d9d-85d5-eac697940d01_ami-identity-c9ba08a71090ad5f6094375f4aa48f32-2024-02-29T14-10-21.019Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "LANY",
+      "id": 867853783,
+      "parse_image": "https://music.apple.com/us/artist/lany/867853783?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/7d/98/52/7d9852e0-3e8f-94de-06e4-a3e349e62a0e/ca9803c6-df5f-4dfb-9e13-16ae2f7dded1_ami-identity-0d298f41e3775ce9e42a3da0d1771f1d-2023-09-08T00-45-50.239Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "J. Cole",
+      "id": 73705833,
+      "parse_image": "https://music.apple.com/us/artist/j-cole/73705833?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c0/1e/4a/c01e4a64-15c9-72fe-7cff-e3cd5b927d8e/42ed542f-f759-4f0b-a948-885b6316a2a8_ami-identity-253b8334df60cfdb9573dabcfa4820c4-2024-04-05T03-59-12.991Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Metro Boomin",
+      "id": 670534462,
+      "parse_image": "https://music.apple.com/us/artist/metro-boomin/670534462?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/73/b9/31/73b931cf-28ae-d248-fcd0-a52fd5dd19a8/4253e999-9fb5-45fe-a040-d6085082dfd6_ami-identity-e28ee99feb872b1d45ee8f94f9a0603f-2023-06-08T20-52-07.721Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Daft Punk",
+      "id": 5468295,
+      "parse_image": "https://music.apple.com/us/artist/daft-punk/5468295?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ed/f9/01/edf90194-32cf-fe39-1b7e-bb42d0c4dea5/mza_4894750657028739591.png/110x110bb.webp"
+    },
+    {
+      "name": "Halsey",
+      "id": 324916925,
+      "parse_image": "https://music.apple.com/us/artist/halsey/324916925?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/48/81/9e/48819e03-33f3-57dc-6b5b-39142ad53b63/ami-identity-c1209b76097b770cd43ee5d64f18c2e8-2024-10-25T22-38-30.611Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Mac Miller",
+      "id": 419944559,
+      "parse_image": "https://music.apple.com/us/artist/mac-miller/419944559?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f4/d4/70/f4d470f9-d15a-be8d-add5-d53340dac9c1/mzl.larabvqb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Juice WRLD",
+      "id": 1368733420,
+      "parse_image": "https://music.apple.com/us/artist/juice-wrld/1368733420?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/42/04/ae/4204ae87-e800-6b47-d95c-068e3bd52995/mzl.gwhtpegi.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Lauv",
+      "id": 982612996,
+      "parse_image": "https://music.apple.com/us/artist/lauv/982612996?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/5d/2d/6b/5d2d6b57-98e9-647d-c358-2f0b1d990113/c4f14a6a-4600-4336-bda6-6396a9bbeeaa_ami-identity-ddeee229a34023afb97c518bfb244038-2024-04-24T04-43-33.327Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Cutting Crew",
+      "id": 519198,
+      "parse_image": "https://music.apple.com/us/artist/cutting-crew/519198?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/61/bf/5c/61bf5cd1-ebff-f521-727d-f4528872a1c9/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Quevedo",
+      "id": 377761784,
+      "parse_image": "https://music.apple.com/us/artist/quevedo/377761784?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/73/f1/16/73f11690-c30d-cffc-01d1-6ed7a8a61d0b/ami-identity-9a8f978f0d24f10fbddc0ea93abbfb4a-2024-10-30T19-42-56.568Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Trevor Daniel",
+      "id": 1324137865,
+      "parse_image": "https://music.apple.com/us/artist/trevor-daniel/1324137865?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/5b/8f/47/5b8f4792-cc1c-95ee-43c7-036aa223395f/ami-identity-7f07f5dc4aa6c1feb83eef08fff10d53-2024-10-24T19-18-21.530Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Woodkid",
+      "id": 423849908,
+      "parse_image": "https://music.apple.com/us/artist/woodkid/423849908?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/cf/b5/aa/cfb5aa22-83ac-d5a4-707b-1af6f70fba7a/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Green Day",
+      "id": 954266,
+      "parse_image": "https://music.apple.com/us/artist/green-day/954266?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/25/35/39/253539f6-efcb-11c1-f11d-0329af780e6a/63b3a478-9e5e-4d7b-a9cf-ca9f5b2449c3_ami-identity-890469d04c5b60a2a29907f0e4ab0130-2023-10-24T12-52-33.834Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Fall Out Boy",
+      "id": 28673423,
+      "parse_image": "https://music.apple.com/us/artist/fall-out-boy/28673423?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages123/v4/53/ea/13/53ea1398-3c7f-addb-9373-3fc63048b318/1fa85529-2c36-4928-933b-17a2d15afeb7_ami-identity-21187399153a680bbb3449e7ce920172-2023-01-18T15-10-56.952Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "U2",
+      "id": 78500,
+      "parse_image": "https://music.apple.com/us/artist/u2/78500?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/8b/ce/d0/8bced093-1625-4d8d-d1fb-46edf19bf6ac/d03d21ce-16d2-4efc-8b8d-0307bef5d13a_ami-identity-f8d278eb0d578250c38d8a8439af325f-2024-09-30T10-31-27.500Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Harry Styles",
+      "id": 396754057,
+      "parse_image": "https://music.apple.com/us/artist/one-direction/396754057?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/8f/26/008f26ce-ec78-ad42-9303-260ac3b9701c/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Freya Ridings",
+      "id": 1225659793,
+      "parse_image": "https://music.apple.com/us/artist/freya-ridings/1225659793?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/12/78/28/12782843-d0c3-adf7-f028-f14ceadca45a/11f6981a-d042-404a-8885-87f390569770_ami-identity-7b196866d6c0b8aa462dfbb001f8ea68-2023-01-13T09-34-13.493Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Nirvana",
+      "id": 112018,
+      "parse_image": "https://music.apple.com/us/artist/nirvana/112018?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/55/2b/13/552b1389-341f-f54a-478f-3908629d2740/mza_3521856525663275523.png/110x110bb.webp"
+    },
+    {
+      "name": "KOHTA YAMAMOTO",
+      "id": 1208888794,
+      "parse_image": "https://music.apple.com/us/artist/kohta-yamamoto/1208888794?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/c3/f1/c7/c3f1c7d9-d247-97eb-415c-b4b115e326db/50dfb996-0219-4f3d-85bb-9690b794a2e9_ami-identity-8763924f432a52586853326bc10e6d77-2024-03-15T11-25-06.129Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Lynyrd Skynyrd",
+      "id": 97262,
+      "parse_image": "https://music.apple.com/us/artist/lynyrd-skynyrd/97262?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/43/2a/e1/432ae180-ac55-5adb-0d17-a3574dc0715f/mza_540377523482931454.png/110x110bb.webp"
+    },
+    {
+      "name": "Sting",
+      "id": 93818,
+      "parse_image": "https://music.apple.com/us/artist/the-police/93818?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1e/73/40/1e7340ed-21d8-43cd-de69-ff4e347d6544/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "The Kid LAROI",
+      "id": 1435848034,
+      "parse_image": "https://music.apple.com/us/artist/the-kid-laroi/1435848034?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/1e/22/9b/1e229b25-97fd-0553-e7fa-ded63405eeca/940cc832-3150-44ce-ac52-56579b027011_ami-identity-2659880baed54ea2f54957bd0fc27164-2024-10-07T19-26-26.029Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Guns N' Roses",
+      "id": 106621,
+      "parse_image": "https://music.apple.com/us/artist/guns-n-roses/106621?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/12/53/58/125358b2-b521-5ec7-103b-0766df3888c7/mza_7703466928051976566.png/110x110bb.webp"
+    },
+    {
+      "name": "The Goo Goo Dolls",
+      "id": 147559,
+      "parse_image": "https://music.apple.com/us/artist/the-goo-goo-dolls/147559?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/aa/e3/2c/aae32ca2-baa3-0975-fc6a-99d8161710ea/ami-identity-ad30b1038459e9b90e3987b32156e99d-2025-01-06T22-37-58.182Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "girl in red",
+      "id": 1349818950,
+      "parse_image": "https://music.apple.com/us/artist/girl-in-red/1349818950?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/a6/e5/3d/a6e53d25-6d73-7f58-5851-ab5991056683/d03b9060-79ea-4918-91cf-ff08066f1ee7_ami-identity-b1d035a2d097d1a60dd6785d5d820ba8-2024-02-02T15-46-31.877Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Nessa Barrett",
+      "id": 1525607372,
+      "parse_image": "https://music.apple.com/us/artist/nessa-barrett/1525607372?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/95/5f/e7/955fe75f-eb67-4ac7-7c73-283723fdd624/ami-identity-30d1cbc73f1162a92aa275952a99f90e-2024-11-15T01-20-06.442Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Gunna",
+      "id": 1236267297,
+      "parse_image": "https://music.apple.com/us/artist/gunna/1236267297?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/81/1d/a2/811da247-a67b-1e4d-fc6b-b5daeea169b4/1886585d-cb8f-4a7f-9c36-3b68797c3c72_ami-identity-bfb24f2c81be11d69911fe7bb9b04e61-2024-05-03T00-58-16.722Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Grover Washington",
+      "id": 485819,
+      "parse_image": "https://music.apple.com/us/artist/grover-washington-jr/485819?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/af/22/7e/af227ebb-8d8e-63b4-c127-578d4d2db21e/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Jr.",
+      "id": 14967,
+      "parse_image": "https://music.apple.com/us/artist/t-i/14967?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/6f/c2/0f/6fc20f3b-cb4c-07db-a8be-ca2b995cc7e6/a41a182a-bf80-4cbc-aaa9-3718181caf8d_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Avenged Sevenfold",
+      "id": 6766228,
+      "parse_image": "https://music.apple.com/us/artist/avenged-sevenfold/6766228?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/de/4c/b1/de4cb1db-3b5b-37f2-bedc-72c23f076eaf/7cf206ef-ff14-4043-aee4-bc2e8ac18001_ami-identity-3ffd132d9dd8457ac27339e1e973d18a-2023-03-14T13-02-49.310Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Swae Lee",
+      "id": 829356035,
+      "parse_image": "https://music.apple.com/us/artist/rae-sremmurd/829356035?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/85/c0/ff/85c0ff55-8d34-5c5e-ffcc-e689e77b8614/5aafa4e9-53cb-4a58-965d-8edd57f6198d_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Don Toliver",
+      "id": 1237012992,
+      "parse_image": "https://music.apple.com/us/artist/don-toliver/1237012992?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/66/05/93/66059350-8202-7472-23c9-1b510da68e26/24dd0d2c-cc5a-4c0f-be0f-d929c89cd400_ami-identity-cacb2d8ba70d803142bbddc0616f9897-2024-05-22T18-06-48.392Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "JID",
+      "id": 273058501,
+      "parse_image": "https://music.apple.com/us/artist/kid-cudi/273058501?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ae/39/a6/ae39a64d-45bb-2287-d416-1ba9a3bb7958/971bb523-c86e-4f8f-a563-a68a2400005d_ami-identity-159f05b8d6e2f281d4e9429d4a8b13aa-2023-12-05T22-56-45.865Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "The Score",
+      "id": 869130954,
+      "parse_image": "https://music.apple.com/us/artist/the-score/869130954?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/37/b5/8337b568-afb5-7f26-c071-b73606b7ae07/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "id": 178834,
+      "parse_image": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/3c/ef/87/3cef873e-c12e-0dec-261e-72c5b56258b7/bac5c427-443b-458c-971f-0dfd7b060c9f_ami-identity-77c41761687dce595200cb391be57a57-2024-03-01T14-07-41.937Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "The Hunna",
+      "id": 1048755952,
+      "parse_image": "https://music.apple.com/us/artist/the-hunna/1048755952?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/ea/44/48/ea444803-81f1-af22-c3a3-c569e00462f5/0dfec072-c7dd-4ae8-8b7b-98dc560240f3_ami-identity-a76573ff3594f4a25c54ddb706376afd-2023-02-13T15-10-22.938Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Ramsey",
+      "id": 541011,
+      "parse_image": "https://music.apple.com/us/artist/ramsey-lewis/541011?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/6f/57/9c6f577e-07bc-d101-70e7-7c975d2aba9a/3860.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Shawn Mendes",
+      "id": 890403665,
+      "parse_image": "https://music.apple.com/us/artist/shawn-mendes/890403665?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c2/a8/a8/c2a8a8c4-12b3-71e4-4296-ba807aac637e/43550402-2603-4a2e-b0b6-abd999be52b8_ami-identity-90a4171d1c883e0e03abc48e3d81e444-2024-07-31T17-41-27.815Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "OneRepublic",
+      "id": 260414340,
+      "parse_image": "https://music.apple.com/us/artist/onerepublic/260414340?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/0e/1e/a7/0e1ea7c5-ba8c-6386-9748-bcc855792215/mza_6402350579490195288.png/110x110bb.webp"
+    },
+    {
+      "name": "Ray Chen",
+      "id": 372544258,
+      "parse_image": "https://music.apple.com/us/artist/ray-chen/372544258?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/7e/37/2c/7e372cfa-0020-bb6b-2216-436b458f0554/mzl.snqlqyju.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Offset",
+      "id": 569925101,
+      "parse_image": "https://music.apple.com/us/artist/migos/569925101?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/37/ef/30/37ef30e4-bdc8-d44a-aec6-fd4691dffdb2/ami-identity-c7a2d0c7c50e3dc557a5178513527276-2024-12-13T21-15-19.969Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "I Prevail",
+      "id": 948448824,
+      "parse_image": "https://music.apple.com/us/artist/i-prevail/948448824?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d3/21/54/d32154ab-0285-05fc-9072-abb9d172f444/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "d4vd",
+      "id": 1599361691,
+      "parse_image": "https://music.apple.com/us/artist/d4vd/1599361691?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages123/v4/75/a1/ac/75a1ac2f-d39d-abdb-50bf-67da91b5fce9/3392d2c0-61a2-4c2c-9c2b-590c49956b24_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "DaBaby",
+      "id": 1175595427,
+      "parse_image": "https://music.apple.com/us/artist/dababy/1175595427?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ff/31/45/ff31459b-c531-55e1-2b1a-9b3a211569df/f3962160-3ddf-4bce-8b3f-7589825d9c44_ami-identity-e3154fec864836f208f3fbc13a124599-2024-09-23T18-10-54.574Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Empyre",
+      "id": 949663588,
+      "parse_image": "https://music.apple.com/us/artist/empire-cast/949663588?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/16/a5/0a16a58e-9055-fc00-8e7b-140d6c98c4af/198622610346_cover.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Marcus King",
+      "id": 1483469623,
+      "parse_image": "https://music.apple.com/us/artist/marcus-king/1483469623?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/9a/9b/6b/9a9b6b16-800f-5617-6d57-a0b4b7fd21c5/ami-identity-a0aec638551850bb4bb3ed70d55ebd4c-2024-10-14T22-22-39.224Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Red Hot Chili Peppers",
+      "id": 889780,
+      "parse_image": "https://music.apple.com/us/artist/red-hot-chili-peppers/889780?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/ed/ef/daedeff5-cbe4-5f7d-3ad0-07a4c560161b/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Tate McRae",
+      "id": 1446365464,
+      "parse_image": "https://music.apple.com/us/artist/tate-mcrae/1446365464?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/95/df/85/95df8505-fed0-b68a-3bf6-2a6b1446f0f2/ami-identity-11b6c33ddb521791b7ba1dd8c4dcf764-2025-01-24T04-45-03.766Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "James Blake",
+      "id": 59504818,
+      "parse_image": "https://music.apple.com/us/artist/james-blake/59504818?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/e0/75/e5/e075e5b6-56d9-e855-5855-63efee18b049/00379136-65d9-4ab3-b4bf-56fc4b961dfd_ami-identity-81df333028c51efe121dab9df6d34cec-2023-06-28T14-36-23.858Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "id": 940710524,
+      "parse_image": "https://music.apple.com/us/artist/lil-uzi-vert/940710524?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/64/f7/6f/64f76f37-054f-5e67-baf9-ee2022085e92/ami-identity-90c70b0a82de3a94a46c3ad23b22d0e4-2024-10-24T04-04-13.810Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sheryl Lee Ralph",
+      "id": 158251432,
+      "parse_image": "https://music.apple.com/us/artist/sheryl-lee-ralph/158251432?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/d4/55/5fd4558f-7b7d-f62b-41b4-48b95b313079/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Daniel Di Angelo",
+      "id": 1220575731,
+      "parse_image": "https://music.apple.com/us/artist/daniel-di-angelo/1220575731?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/26/ea/aa/26eaaabe-5cfc-2ac6-2df1-bf3195771ef5/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Denzel Curry",
+      "id": 631440154,
+      "parse_image": "https://music.apple.com/us/artist/denzel-curry/631440154?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/3f/c8/55/3fc855fb-e9c5-31fa-b3de-67b8fef3bfe3/8c4ce9d3-91dd-481e-aa10-0c0eb645ffe4_ami-identity-125348b6e5a45afc0614bb59dd8e1618-2024-06-06T05-05-12.874Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Gizzle",
+      "id": 450814869,
+      "parse_image": "https://music.apple.com/us/artist/gizzle/450814869?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/2c/d8/26/2cd826ab-e21a-8e4e-b0c8-4602274bd0b7/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Bren Joy",
+      "id": 1441327525,
+      "parse_image": "https://music.apple.com/us/artist/bren-joy/1441327525?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c8/57/24/c85724a4-2a7a-6327-5142-f87973b91fe6/946b2bc6-6027-410d-bde5-c1d035b22658_ami-identity-12926100085e3f1bc90a0a1c3218e19e-2024-05-02T03-55-08.459Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Gracie Abrams",
+      "id": 1450554836,
+      "parse_image": "https://music.apple.com/us/artist/gracie-abrams/1450554836?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/55/08/06/5508068d-791c-4d2c-2142-98552b37a6ac/7bc7e05c-eefb-43bd-ad24-3e5f11b610db_ami-identity-d38fed2c45e9286f6f86194eca60e265-2024-05-02T04-15-23.789Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Pierce the Veil",
+      "id": 258668501,
+      "parse_image": "https://music.apple.com/us/artist/pierce-the-veil/258668501?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/0c/3a/d8/0c3ad87d-7754-726d-ef8f-4c0d27a48e83/df763598-c608-4c11-b198-d221169eeb24_ami-identity-2000b694fae90a5b9a050fe37fb362dc-2022-10-16T23-27-33.619Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "BONES UK",
+      "id": 1129288398,
+      "parse_image": "https://music.apple.com/us/artist/bones-uk/1129288398?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/7c/e2/d4/7ce2d4c5-b143-5f03-d708-a6814c4af9b8/48744f5d-9f72-4f65-937e-8b74429b6f60_ami-identity-e12e9c644956cee5d8eb7fb7f8fce144-2024-04-05T20-54-23.912Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Lil Wayne",
+      "id": 5869117,
+      "parse_image": "https://music.apple.com/us/artist/lil-wayne/5869117?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/a1/22/7b/a1227bdb-98bb-bbbf-a025-d1f06a6b28ed/66f7c7aa-5f51-42a5-a92d-67122d602347_ami-identity-a65ba8774cde0e06f6b38b69c418c48d-2023-11-07T18-37-40.018Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "King Princess",
+      "id": 1349968534,
+      "parse_image": "https://music.apple.com/us/artist/king-princess/1349968534?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/16/da/bc16dac8-6552-09a0-4476-53cc09db40f9/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Charlie Puth",
+      "id": 336249253,
+      "parse_image": "https://music.apple.com/us/artist/charlie-puth/336249253?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/eb/73/c9/eb73c965-072d-5ed2-b9ab-545efd14c799/02a41365-84a9-46e8-8a18-9ec51b3ded6c_ami-identity-369af9b60942ad734b4d9e5e8a801af6-2024-05-21T20-25-51.437Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "FLETCHER",
+      "id": 357912923,
+      "parse_image": "https://books.apple.com/us/author/jessica-fletcher/id357912923?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/a2/09/ab/a209ab77-0aa0-c6c8-8182-a4aed378a3e6/9ff3eb5c-0190-4d7b-b827-2782777fcdf8_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "A$AP Rocky",
+      "id": 481488005,
+      "parse_image": "https://music.apple.com/us/artist/a%24ap-rocky/481488005?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/57/45/b7/5745b7bd-44a4-e3f3-795c-3259e0cedef9/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Stromae",
+      "id": 270954369,
+      "parse_image": "https://music.apple.com/us/artist/stromae/270954369?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/5a/76/ea/5a76eadf-aca4-38c1-6065-c1a42a9a221b/mza_11610344235846104160.png/110x110bb.webp"
+    },
+    {
+      "name": "Pomme",
+      "id": 327215444,
+      "parse_image": "https://music.apple.com/us/artist/nomy/327215444?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/dd/da/c7/dddac7e6-71a8-79bd-dba6-8d0620381243/mzl.vudonavc.png/110x110bb.webp"
+    },
+    {
+      "name": "Stray Kids",
+      "id": 1304823362,
+      "parse_image": "https://music.apple.com/us/artist/stray-kids/1304823362?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/b9/5b/fc/b95bfc71-9d33-a194-1722-1ce635b69d56/ami-identity-ae24761de3608ee52087a99d0cd83d87-2024-11-20T23-06-55.760Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "id": 979458609,
+      "parse_image": "https://music.apple.com/us/artist/olivia-rodrigo/979458609?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/34/dd/36/34dd3678-40c6-9d8b-fa0f-cb6d82d3103b/6c46071d-e4d2-4671-a110-6ad83a63b89b_ami-identity-5b05d351a6e3c7256ef7680c8aef2894-2023-06-30T03-58-10.754Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Curtis Harding",
+      "id": 354623326,
+      "parse_image": "https://music.apple.com/us/artist/curtis-harding/354623326?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/be/d0/20bed0a0-2325-893c-b5b7-ed28ace22626/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Jazmine Sullivan",
+      "id": 27880734,
+      "parse_image": "https://music.apple.com/us/artist/jazmine-sullivan/27880734?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/6c/0a/a7/6c0aa710-d9ed-325e-5f0b-0a6e10e4bb7f/mzl.dwnimzmi.jpg/110x110bb.webp"
+    },
+    {
+      "name": "21 Savage",
+      "id": 894820464,
+      "parse_image": "https://music.apple.com/us/artist/21-savage/894820464?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fe/d4/ad/fed4ad0b-4993-9637-fc3a-7ff5213d388d/mzl.hcwxwhyi.jpg/110x110bb.webp"
+    },
+    {
+      "name": "J Balvin",
+      "id": 444520760,
+      "parse_image": "https://music.apple.com/us/artist/j-balvin/444520760?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/a0/82/2e/a0822ef7-bb35-0e8a-26c6-fc17b89cd981/4e221583-bbd6-4b39-a223-ab11ef917eef_ami-identity-2477920ef7d821e53b230e4ca07b3e3e-2024-08-07T23-22-48.742Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Misha Mansoor",
+      "id": 780211455,
+      "parse_image": "https://music.apple.com/us/artist/misha-mansoor/780211455?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/22/10/14221077-66ad-dde0-aa94-4279c5de18d3/634164219628.png/110x110ac.webp"
+    },
+    {
+      "name": "The Chainsmokers",
+      "id": 580391756,
+      "parse_image": "https://music.apple.com/us/artist/the-chainsmokers/580391756?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/07/6b/51/076b51b0-94ef-8513-52f2-a11909b1ca21/36a2a5e6-f81f-4ce5-8894-706b7aa64517_ami-identity-27852ea90adda198875408ceb0169bd5-2024-04-04T17-51-26.894Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Raja Kumari",
+      "id": 691533633,
+      "parse_image": "https://music.apple.com/us/artist/raja-kumari/691533633?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/09/06/08/09060834-32ef-fd0e-e8e0-378a0c00fef2/2f80b39f-679b-435b-a2ca-596cab82ffb5_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Stefflon Don",
+      "id": 543629340,
+      "parse_image": "https://music.apple.com/us/artist/stefflon-don/543629340?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/fa/6c/10/fa6c10f5-7417-9501-19e7-4fde44847217/2b4448ac-7c01-4b5e-aa44-969f61efe8ed_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Fantastic Negrito",
+      "id": 720222195,
+      "parse_image": "https://music.apple.com/us/artist/fantastic-negrito/720222195?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/d6/2b/8ed62b5b-01db-a133-7664-a4e6a9cbd2fa/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Royal",
+      "id": 672409,
+      "parse_image": "https://music.apple.com/us/artist/royal-philharmonic-orchestra/672409?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/e2/d0/b9e2d0af-8ce2-e078-d4e2-eccf24d7e206/12UMGIM55707.rgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "the Serpent",
+      "id": 1275753035,
+      "parse_image": "https://music.apple.com/us/artist/royal-the-serpent/1275753035?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/db/b8/40/dbb840c4-979c-6d26-2072-304795ee0cf3/c12e0f10-8a8f-456b-8f37-6c5fd242f216_ami-identity-27e7c59e8394e754d997242a98fc3721-2023-09-01T06-02-59.469Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Chris Isaak",
+      "id": 151329,
+      "parse_image": "https://music.apple.com/us/artist/chris-isaak/151329?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/42/08/c8/4208c8ac-6ea2-2f97-ba75-3c1712f640c9/mzl.vjxfgenp.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Pusha T",
+      "id": 682277,
+      "parse_image": "https://music.apple.com/us/artist/pusha-t/682277?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/6e/08/a1/6e08a1e0-e9be-a0e9-f4f4-684432fbe92e/mzl.uftegzsv.jpg/110x110bb.webp"
+    },
+    {
+      "name": "FEVER 333",
+      "id": 1272838229,
+      "parse_image": "https://music.apple.com/us/artist/fever-333/1272838229?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/7d/a2/f3/7da2f30e-e175-5d5d-f516-47e650c96d22/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Benson Boone",
+      "id": 1587414058,
+      "parse_image": "https://music.apple.com/us/artist/benson-boone/1587414058?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/d8/51/7e/d8517ee1-4883-be8f-b1e1-e93923bb0876/1078d2d6-5916-42ba-ad3d-4e1d43a8617c_ami-identity-09df2b561fdce3fcf0037a9e066fb973-2024-04-02T22-14-24.958Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Bea Miller",
+      "id": 706171903,
+      "parse_image": "https://music.apple.com/us/artist/bea-miller/706171903?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/cd/ef/b2/cdefb2b8-2387-d94d-f6ef-4fe2fccf968e/39328380-92fe-4908-afe0-e0758ce3d847_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "NAV",
+      "id": 1200089113,
+      "parse_image": "https://music.apple.com/us/artist/nav/1200089113?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1c/d0/c4/1cd0c415-016e-f308-569f-a7973c6085ff/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "The Cure",
+      "id": 566519,
+      "parse_image": "https://music.apple.com/us/artist/the-cure/566519?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/82/26/af/8226af01-ca25-b70e-6160-b65d79ef1fd2/faec9ede-8f0e-4f69-a92d-413f897b547a_ami-identity-77b4e84444f501eb54efaf58e291c34a-2024-09-20T16-12-54.334Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Young Miko",
+      "id": 1576521417,
+      "parse_image": "https://music.apple.com/us/artist/young-miko/1576521417?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/0c/2c/67/0c2c67a7-51b8-ce4a-3b4a-a59546c92d42/mza_1888475692343438783.png/110x110bb.webp"
+    },
+    {
+      "name": "Tom Morello",
+      "id": 899409,
+      "parse_image": "https://music.apple.com/us/artist/rage-against-the-machine/899409?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/95/8d/42/958d42f6-09fb-3d6d-474a-5860251a49d2/e4d6a0d4-2bf5-4a20-8565-d70302ea97a0_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "PVRIS",
+      "id": 847482820,
+      "parse_image": "https://music.apple.com/us/artist/pvris/847482820?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/e0/d2/99/e0d2990a-044e-402e-acea-e2e0120e102d/8b41307b-1897-45ff-8f4b-2453d99b44ff_ami-identity-73fe2a93421ecc3669da3b7e99714af7-2022-10-20T05-48-59.960Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "MIYAVI",
+      "id": 76063095,
+      "parse_image": "https://music.apple.com/us/artist/miyavi/76063095?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/56/ff/e4/56ffe4cc-373a-ae61-4589-5e51fde286e2/c07e67be-a411-419b-82ce-5dd6c2a16e35_ami-identity-8c7a8ba542588bfb580209e0dfec166e-2024-04-14T06-04-46.343Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Djerv",
+      "id": 377939187,
+      "parse_image": "https://music.apple.com/us/artist/djerv/377939187?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/50/be/10/50be1018-fbd7-2865-677f-c65f1535ca67/ami-identity-2798780e5297a38dd40b548298503b11-2024-11-26T22-08-16.856Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Kris Bowers",
+      "id": 396377227,
+      "parse_image": "https://music.apple.com/us/artist/kris-bowers/396377227?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0f/12/87/0f1287f9-df43-9284-9386-24661ae1b759/mzl.nzadjbjo.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Roisee",
+      "id": 1224783801,
+      "parse_image": "https://music.apple.com/us/artist/roisee/1224783801?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/79/00/a5/7900a5f9-0e62-5a9a-8a2e-199e0996202a/artwork.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Future",
+      "id": 128050210,
+      "parse_image": "https://music.apple.com/us/artist/future/128050210?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ad/47/eb/ad47eb40-a68e-8a13-755d-2bf44fa7b2b2/ed9230d6-bb21-47d1-b5e1-09eb45272575_ami-identity-9301504ae26ebbedb9d8d3cf6c9dafdb-2024-09-11T20-31-56.674Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "The Wombats",
+      "id": 162731772,
+      "parse_image": "https://music.apple.com/us/artist/the-wombats/162731772?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/f9/32/57/f9325768-5ff0-5fd6-63b8-35e3bea30bbd/ami-identity-0c400601ed6ffc0408eba552aa14653a-2024-10-25T13-36-02.255Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "ZAND",
+      "id": 506756541,
+      "parse_image": "https://music.apple.com/us/artist/ali-zand-vakili/506756541?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5d/4c/63/5d4c6302-9244-34ea-0b94-aab81f2c1ab4/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Mike Shinoda",
+      "id": 148662,
+      "parse_image": "https://music.apple.com/us/artist/linkin-park/148662?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/6c/07/81/6c078156-91e3-10e3-3dbb-d64805201759/1c69ad5c-21d5-4f95-aaec-ce1f401bbce0_ami-identity-b3dabdf20db3745db879ec0a903356c2-2023-09-25T19-06-34.532Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Emily Armstrong",
+      "id": 497644548,
+      "parse_image": "https://music.apple.com/us/artist/emily-armstrong/497644548?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Madonna",
+      "id": 20044,
+      "parse_image": "https://music.apple.com/us/artist/madonna/20044?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/6f/ed/d8/6fedd8aa-ebed-7fce-c0d6-4938fa19b7fb/1eabb313-e1ec-470f-b5fe-ede6f7a23983_ami-identity-d6894690f735e0ff6853ea7f9674c67d-2023-01-17T04-51-22.663Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Mako",
+      "id": 76061125,
+      "parse_image": "https://music.apple.com/us/artist/mako/76061125?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/11/a5/b5/11a5b5a9-8a14-2c7b-b518-58aa489ae647/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Grey",
+      "id": 14144119,
+      "parse_image": "https://books.apple.com/us/author/john-gray/id14144119?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/6f/81/fd6f8164-8f0e-8af4-b514-e89db5611ae1/198704321740_Cover.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Men At Work",
+      "id": 15412031,
+      "parse_image": "https://music.apple.com/us/artist/men-at-work/15412031?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/cc/62/0c/cc620ccb-c10d-c538-ce73-06cf185b3303/mzl.ynbraxen.jpg/110x110bb.webp"
+    },
+    {
+      "name": "2 Chainz",
+      "id": 435300447,
+      "parse_image": "https://music.apple.com/us/artist/2-chainz/435300447?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/3e/0c/74/3e0c74f9-87b8-639f-517d-4a1cf4bb3c56/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Ashnikko",
+      "id": 721130075,
+      "parse_image": "https://music.apple.com/us/artist/ashnikko/721130075?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/1b/a6/01/1ba601d5-5cc1-808a-ae5b-72bf09f2bde7/870d65e9-9423-47cb-9aac-2e7e8ef9a8ea_ami-identity-7c2f79575402daab9bc6c6d88b8b1b8a-2023-03-01T14-51-35.405Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sigrid",
+      "id": 1206070304,
+      "parse_image": "https://music.apple.com/us/artist/sigrid/1206070304?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/4d/c5/6c/4dc56c55-6d82-b0a9-a3d5-269df54a7302/a6b6d429-df8d-4617-ab40-9c7bf3b6a2af_ami-identity-1a93ab0d0fec750275fc7c347cf8f095-2023-10-24T16-36-18.525Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Wizkid",
+      "id": 309335750,
+      "parse_image": "https://music.apple.com/us/artist/wizkid/309335750?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/4b/86/90/4b8690ee-dab5-6aea-0080-138c7d29d3d2/ami-identity-a9b8d976fe72d34a0da012252f754e66-2024-10-21T17-12-59.895Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Ellie Goulding",
+      "id": 338264227,
+      "parse_image": "https://music.apple.com/us/artist/ellie-goulding/338264227?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/1d/d5/18/1dd51831-9e62-17a8-5d83-e1cedb3b087a/33005279-483f-4fd7-b4ee-7999a081481d_ami-identity-481ed17acbda010ef60497462be34298-2023-02-01T18-09-02.248Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Joji",
+      "id": 5519840,
+      "parse_image": "https://music.apple.com/us/artist/jojo/5519840?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/19/c1/ff19c1c0-bd5f-b5e6-3073-fcf2dc107f6c/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Ty Dolla $ign",
+      "id": 602917745,
+      "parse_image": "https://music.apple.com/us/artist/ty-dolla-%24ign/602917745?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/6d/9b/6a/6d9b6afb-de78-f7c3-57c7-0ea73d6a6503/6142cc9d-a77c-43a1-b203-1fd6e9d4a927_ami-identity-607bb10f24ef10465be203a768ebf602-2024-02-28T21-35-06.886Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "American Authors",
+      "id": 557564979,
+      "parse_image": "https://music.apple.com/us/artist/american-authors/557564979?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/7b/06/8a/7b068a60-cee7-8708-3ea4-f4120251f2bf/62cae2af-0e4f-4720-9c37-6719d690f3f9_ami-identity-b074008af882758465f73eb32a4081ef-2024-01-23T17-19-55.120Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "DJ Khalil",
+      "id": 20540412,
+      "parse_image": "https://music.apple.com/us/artist/dj-khalil/20540412?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/92/6a/7a926ac5-5677-7739-bebe-07e108c33551/5056167132288_1.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Little Simz",
+      "id": 627674564,
+      "parse_image": "https://music.apple.com/us/artist/little-simz/627674564?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/be/9b/63/be9b6372-f30a-1b2b-6c7b-a3d649c259c3/2bcde542-cc65-48a0-b79d-e71d7a3cc10f_ami-identity-df736ca37be09229a925ca89daaf250a-2024-02-26T17-19-33.850Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Burna Boy",
+      "id": 591899010,
+      "parse_image": "https://music.apple.com/us/artist/burna-boy/591899010?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c1/88/52/c1885291-f6f3-58e0-42a4-a402dc438072/ami-identity-6da09ef9671470357efc35d0963cf105-2024-12-19T23-08-35.156Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Elyanna",
+      "id": 1486460923,
+      "parse_image": "https://music.apple.com/us/artist/elyanna/1486460923?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e8/4e/59/e84e5967-b624-1a9b-b06c-7cd83ddb7e4f/1d02bf26-6f93-444c-a5f0-3ca669a99474_ami-identity-bf8c76ffdc48f4a6f252bf34e22a4085-2024-04-05T00-36-17.029Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "TINI",
+      "id": 2545599,
+      "parse_image": "https://music.apple.com/us/artist/tiny-tim/2545599?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ba/20/d8/ba20d835-b885-0c0a-2519-8455b15d8060/mzl.hksatqou.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Beau Young Prince",
+      "id": 523758506,
+      "parse_image": "https://music.apple.com/us/artist/beau-young-prince/523758506?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/fa/97/04/fa97048e-e1a9-93d5-f531-7a057e5b9dcf/9de7470d-3dd9-4df4-8566-41dfd72bbd92_ami-identity-1b05282c2116ea6b52f4e91f06ea3f1a-2023-11-16T18-54-57.141Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Bad Bunny",
+      "id": 1126808565,
+      "parse_image": "https://music.apple.com/us/artist/bad-bunny/1126808565?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/6c/92/d4/6c92d475-7be5-8b7a-a7d8-fdc3d937629e/mza_9478576998108878943.png/110x110bb.webp"
+    },
+    {
+      "name": "Anuel AA",
+      "id": 996166916,
+      "parse_image": "https://music.apple.com/us/artist/anuel-aa/996166916?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/c9/46/60/c9466034-4990-03f5-0b16-97891afdfc8c/4a17ce13-1c93-40c2-a609-7fd76cd18f2f_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Nicki Minaj",
+      "id": 278464538,
+      "parse_image": "https://music.apple.com/us/artist/nicki-minaj/278464538?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/31/ff/09/31ff09dc-479c-e23e-006e-3810b12bc7da/4ffa51f7-98a2-466f-bc71-0d4a220dcb42_ami-identity-2b030140561304c28397671b03fd9e3f-2023-12-08T05-56-51.387Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "ZAYN",
+      "id": 973181994,
+      "parse_image": "https://music.apple.com/us/artist/zayn/973181994?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/e2/f9/4e/e2f94e88-cb92-bdcc-58e3-67d8d99feebb/0b1a3ecf-86a3-4b7c-b141-b7240347cdf8_ami-identity-9b0c1994b5141111deb465009fae7be4-2024-03-11T17-30-26.013Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jaden",
+      "id": 280708839,
+      "parse_image": "https://music.apple.com/us/artist/jaden/280708839?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/70/5d/45/705d459f-927b-83eb-4fea-67da4ddc2da5/f793bbb8-69ca-49d0-9639-d2a8266ff728_ami-identity-4172495aa134669cbe03b5f7ad2d4f3c-2024-06-21T04-02-39.402Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Animé",
+      "id": 446399591,
+      "parse_image": "https://music.apple.com/us/artist/anime-kei/446399591?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/3b/93/78/3b937855-3c76-f217-5d02-a41140b6500c/63983291-a6b9-4586-9f3a-c19fc546ea71.png/110x110bb.webp"
+    },
+    {
+      "name": "Blackway",
+      "id": 316105037,
+      "parse_image": "https://music.apple.com/us/artist/blackway/316105037?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/ce/0d/79/ce0d7934-2dec-4ca2-5d8e-730abffc5d4c/21457498-0e65-43ec-af67-50dfefdb4d39_ami-identity-3cb9e27c9e8cac96332d33bb5d21fe67-2024-02-22T20-37-58.403Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Black Caviar",
+      "id": 1024822258,
+      "parse_image": "https://music.apple.com/us/artist/black-caviar/1024822258?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/0e/30/b8/0e30b816-905f-bcdb-0b39-e4e9a24804cc/63e10ebb-1f09-49eb-95d2-f96f53d0d153_ami-identity-da216460ccff1f0cc704245df3aae1b7-2024-07-16T21-08-08.387Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Thutmose",
+      "id": 1101481312,
+      "parse_image": "https://music.apple.com/us/artist/thutmose/1101481312?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/cf/b7/4e/cfb74eca-725f-07c6-1876-64eb4ecce717/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "id": 390647681,
+      "parse_image": "https://music.apple.com/us/artist/sabrina-carpenter/390647681?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e7/ad/0c/e7ad0c8a-e2ea-f99a-5e48-407d88246d03/58c8344c-52df-4d39-adab-e5934e9cdc49_ami-identity-cc64ebed2010125d7f6cfc205f49983d-2024-06-03T21-39-07.597Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Vince Staples",
+      "id": 566639154,
+      "parse_image": "https://music.apple.com/us/artist/vince-staples/566639154?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/ee/cd/47eecdf5-7bba-0c8a-854b-6a8b8bce5141/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Jacquees",
+      "id": 386779763,
+      "parse_image": "https://music.apple.com/us/artist/jacquees/386779763?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/42/b1/ec/42b1ec87-4ebe-7a05-d4b2-2ab50280652c/ami-identity-a1f78b15d1f3ce51150794b9970f0b42-2024-10-20T19-42-35.300Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Big Sean",
+      "id": 302533564,
+      "parse_image": "https://music.apple.com/us/artist/big-sean/302533564?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/45/53/bb/4553bbe8-7f5b-92d1-15e9-a8cf2c438b6d/e04d4684-6cad-461c-8418-ad89f8106195_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "BabyTron",
+      "id": 1473692829,
+      "parse_image": "https://music.apple.com/us/artist/babytron/1473692829?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/0f/35/ad0f3576-0035-144e-7448-1b7c9d112713/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Jon Hopkins",
+      "id": 15040325,
+      "parse_image": "https://music.apple.com/us/artist/jon-hopkins/15040325?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e1/fe/fb/e1fefb64-7864-e64c-69b2-89ea42b3d2dd/mzl.oxzsnnrk.jpg/110x110bb.webp"
+    },
+    {
+      "name": "The Cranberries",
+      "id": 122615,
+      "parse_image": "https://music.apple.com/us/artist/the-cranberries/122615?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/00/0f/f2/000ff276-c977-f6e2-0ff4-0fb19825c3ba/mza_4358712318537594483.png/110x110bb.webp"
+    },
+    {
+      "name": "Merrilee Rush",
+      "id": 131278218,
+      "parse_image": "https://music.apple.com/us/artist/merrilee-rush/131278218?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/03/15/31031580-4753-81b0-78fb-596306f5a9ca/mzi.emzietur.jpg/110x110ac.webp"
+    },
+    {
+      "name": "The Turnarounds",
+      "id": 892049638,
+      "parse_image": "https://music.apple.com/us/artist/travis-harris-the-west-coast-turnarounds/892049638?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b7/eb/cf/mzi.ctbfwsel.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Lil Dicky",
+      "id": 667590649,
+      "parse_image": "https://music.apple.com/us/artist/lil-dicky/667590649?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/30/85/03/308503de-d98b-1764-46d9-fb770cafa246/03271345-9e9b-4c66-a746-37b6a07fea10_ami-identity-9c705f4cecffa1dd8e2c26cf30ac78dd-2023-12-13T21-58-22.659Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "League of Legends",
+      "id": 960030338,
+      "parse_image": "https://music.apple.com/us/artist/league-of-legends-music/960030338?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/d9/c4/8d/d9c48d1d-5046-7731-0889-65b1e3d22648/e6cb9afa-3196-4227-ae14-188f108eec72_ami-identity-05607a94abb4a7494a19465e172e9703-2024-06-13T19-00-49.957Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "KAROL G",
+      "id": 290814601,
+      "parse_image": "https://music.apple.com/us/artist/karol-g/290814601?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a3/5f/b6/a35fb62a-d0bc-8511-858f-4c0532f5782a/3c6dc706-d8de-493a-8060-13b03444fe4a_ami-identity-d59cbd95617167e768f2dbfe6377cf2e-2024-06-19T14-47-58.813Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Fleetwood Mac",
+      "id": 158038,
+      "parse_image": "https://music.apple.com/us/artist/fleetwood-mac/158038?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/1d/51/17/1d5117c7-86de-3075-487c-bbfd06ed4b52/mza_8192933590323373427.png/110x110bb.webp"
+    },
+    {
+      "name": "Bas",
+      "id": 252299862,
+      "parse_image": "https://music.apple.com/us/artist/bas/252299862?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages123/v4/b2/65/42/b265424d-96ce-913c-ca28-2c3a0b6b4afc/6ae69a05-0a43-4f26-8d63-e499ee8fa8a1_ami-identity-8c68abba538fd306aa91eade0c348667-2023-01-24T16-51-19.145Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Central Cee",
+      "id": 1085149646,
+      "parse_image": "https://music.apple.com/us/artist/central-cee/1085149646?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/81/b0/bc/81b0bc35-c73d-99e8-29ff-9acfdd4bd102/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Manuel Carrasco",
+      "id": 20207179,
+      "parse_image": "https://music.apple.com/us/artist/manuel-carrasco/20207179?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/fe/83/9c/fe839c35-6f9c-2995-61b6-91b35a6e3773/ami-identity-d62bccb58f606a6d4327ce50020b20db-2025-01-07T15-50-48.160Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Hugh Jackman",
+      "id": 3677919,
+      "parse_image": "https://itunes.apple.com/us/artist/hugh-jackman/3677919?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/63/54/a6635418-7d49-b237-d1c9-ba85fa57dbc6/075679886613.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Keala Settle",
+      "id": 268060762,
+      "parse_image": "https://music.apple.com/us/artist/keala-settle/268060762?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/63/54/a6635418-7d49-b237-d1c9-ba85fa57dbc6/075679886613.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Zac Efron",
+      "id": 253406605,
+      "parse_image": "https://itunes.apple.com/us/artist/zac-efron/253406605?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/63/54/a6635418-7d49-b237-d1c9-ba85fa57dbc6/075679886613.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Zendaya",
+      "id": 445381314,
+      "parse_image": "https://music.apple.com/us/artist/zendaya/445381314?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/a3/55/bb/a355bbfb-68cc-259a-453f-d75acb6ef27c/mzl.zcmvjhmc.jpg/110x110bb.webp"
+    },
+    {
+      "name": "The Greatest Showman Ensemble",
+      "id": 1299844941,
+      "parse_image": "https://music.apple.com/us/artist/the-greatest-showman-ensemble/1299844941?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/91/b0/cf91b07c-aca2-4511-e61c-63d13b8d1117/075679868770.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Radiohead",
+      "id": 657515,
+      "parse_image": "https://music.apple.com/us/artist/radiohead/657515?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/11/84/6c/11846c4b-359d-a188-c9df-c79ebd1d0401/mza_16732295908170664432.png/110x110bb.webp"
+    },
+    {
+      "name": "Chris de Burgh",
+      "id": 94287,
+      "parse_image": "https://music.apple.com/us/artist/chris-de-burgh/94287?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b9/86/de/b986de20-4dd7-2722-08ba-6ab394d90772/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Ari Lennox",
+      "id": 448854570,
+      "parse_image": "https://music.apple.com/us/artist/ari-lennox/448854570?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/bf/fd/e9/bffde9b6-4956-e1d8-fecc-d8423d4caeb0/ami-identity-6ec1d9163d7cc09775873d7eb943bc85-2025-01-28T14-13-14.264Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Fergie",
+      "id": 360391,
+      "parse_image": "https://music.apple.com/us/artist/black-eyed-peas/360391?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/3a/17/ce/3a17ce40-8d3f-31bd-df8e-f41af049d672/mzl.hhxqbqhe.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Ed Sheeran",
+      "id": 183313439,
+      "parse_image": "https://music.apple.com/us/artist/ed-sheeran/183313439?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/dd/28/c7/dd28c79a-772f-7a3c-2ce6-20da85b62e54/a4e831ac-410f-4178-a957-cd60e0f3c406_ami-identity-759967e43150fe52efc34501d7c47ce8-2024-09-27T16-52-53.459Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "YKD Jah",
+      "id": 1514734890,
+      "parse_image": "https://music.apple.com/us/artist/ykd-jah/1514734890?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/18/5b/ab185b83-a490-fad6-e6a3-9db775bf0f9b/artwork.jpg/110x110ac.webp"
+    },
+    {
+      "name": "DUCKWRTH",
+      "id": 927720279,
+      "parse_image": "https://music.apple.com/us/artist/duckwrth/927720279?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/64/09/48/64094869-a74a-3a07-0a1f-3f57e4ee5dc5/3fbb07ed-dacd-4d65-a3f5-b1185c643825_ami-identity-babf96f99ec7adc78f66acfc16c5afec-2024-06-14T06-59-33.027Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Shaboozey",
+      "id": 914125510,
+      "parse_image": "https://music.apple.com/us/artist/shaboozey/914125510?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/d6/92/f5/d692f588-1609-40fe-3a23-ec54f9142000/ade1484b-5b43-426d-8990-62d8701204bf_ami-identity-98c29be3d0ee8248d0dab4966617a220-2024-03-22T14-25-59.249Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Ayra Starr",
+      "id": 1536429348,
+      "parse_image": "https://music.apple.com/us/artist/ayra-starr/1536429348?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/e3/41/46/e34146e5-ac08-ca71-ca16-10f89758769d/31411565-20e2-44b9-a9c8-2e8885f276d0_ami-identity-34043dbeadeb9bd7ff2463d570f34c82-2024-08-13T20-43-22.242Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "The The",
+      "id": 106580,
+      "parse_image": "https://music.apple.com/us/artist/the-the/106580?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/25/9f/ee/259fee71-c54c-7156-a095-288e760b2b09/mza_2692345089151184473.png/110x110bb.webp"
+    },
+    {
+      "name": "Patsy Cline",
+      "id": 95778,
+      "parse_image": "https://music.apple.com/us/artist/patsy-cline/95778?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/da/70/76/da7076b9-21e6-eb57-1131-c58f86cd6835/mzl.uxljjmvz.jpg/110x110bb.webp"
+    },
+    {
+      "name": "ODESZA",
+      "id": 739033803,
+      "parse_image": "https://music.apple.com/us/artist/odesza/739033803?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/15/e3/cb/15e3cbe3-8ad5-a2d0-0b59-15c07bab82dc/06436f15-4a2a-42a9-97db-6720625a1484_ami-identity-09caa0e891dc6f26722943e90fb45e1a-2023-07-18T17-50-06.378Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Redbone",
+      "id": 1888697,
+      "parse_image": "https://music.apple.com/us/artist/redbone/1888697?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/5c/80/dc/5c80dc88-4b62-7f53-11d0-a542faaa937a/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Heart",
+      "id": 487883,
+      "parse_image": "https://music.apple.com/us/artist/heart/487883?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/39/51/0c/39510cd0-3fab-a0fe-462c-58ac92214fde/mza_3666921924894062655.png/110x110bb.webp"
+    },
+    {
+      "name": "Eric Carmen",
+      "id": 20534,
+      "parse_image": "https://music.apple.com/us/artist/eric-carmen/20534?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/53/fa/32/53fa32c7-d4fc-0333-b4a2-20ab1f838b0f/mzl.wfnibbvu.jpg/110x110bb.webp"
+    },
+    {
+      "name": "The Platters",
+      "id": 368242,
+      "parse_image": "https://music.apple.com/us/artist/the-platters/368242?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/55/ea/0355eadc-12e5-8c02-905f-716258d3e610/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "David Bowie",
+      "id": 551695,
+      "parse_image": "https://music.apple.com/us/artist/david-bowie/551695?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/be/48/9a/be489a17-b91b-50c0-cba3-b24d938fc927/mza_8098407866351572991.png/110x110bb.webp"
+    },
+    {
+      "name": "Coi Leray",
+      "id": 1358539712,
+      "parse_image": "https://music.apple.com/us/artist/coi-leray/1358539712?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/bb/86/b8/bb86b8df-26a0-abbb-8db3-ccf2014f3ebc/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "JC Reyes",
+      "id": 1239717825,
+      "parse_image": "https://music.apple.com/us/artist/jc-reyes/1239717825?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/fd/9b/d1/fd9bd188-596f-4e72-fa75-c3b1e9614413/mza_8866307029188129263.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Florence + the Machine",
+      "id": 281070699,
+      "parse_image": "https://music.apple.com/us/artist/florence-the-machine/281070699?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/d3/b7/1bd3b72f-21c1-8897-542e-d0f407bc5a44/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Skylar Grey",
+      "id": 403746928,
+      "parse_image": "https://music.apple.com/us/artist/skylar-grey/403746928?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/c0/18/ee/c018eec7-fb3a-8294-db97-494c57744fa0/d6436d38-b5a4-4fe0-b09a-c7d9b225561a_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Blue Swede",
+      "id": 140872900,
+      "parse_image": "https://music.apple.com/us/artist/blue-swede/140872900?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/15/46/eb/1546eb9b-6906-2e42-cbd0-8a530ffeeb17/mza_18296396950535333133.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Aretha Franklin",
+      "id": 98742,
+      "parse_image": "https://music.apple.com/us/artist/aretha-franklin/98742?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/87/bf/59/87bf599b-b3b0-49ec-b313-abc29825948f/mza_3672144982174520189.png/110x110bb.webp"
+    },
+    {
+      "name": "Spacehog",
+      "id": 156250,
+      "parse_image": "https://music.apple.com/us/artist/spacehog/156250?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/b8/28/5cb8286c-e964-e67a-0976-4b4d2ac92820/634457580626.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Khalid",
+      "id": 82842423,
+      "parse_image": "https://music.apple.com/us/artist/khalid/82842423?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/a9/02/09/a9020987-7348-89b3-c225-ec9127a6ecbb/0686c936-7af2-48e6-a04f-d15cf2437398_ami-identity-19aec74056de095bcdd2d625f42128c4-2024-07-30T18-44-10.428Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jaymes Young",
+      "id": 688910162,
+      "parse_image": "https://music.apple.com/us/artist/jaymes-young/688910162?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/03/82/aa038276-b55a-3702-a91f-7ded47452f1d/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Huey Lewis and the News",
+      "id": 13793427,
+      "parse_image": "https://music.apple.com/us/artist/huey-lewis-the-news/13793427?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/60/a7/85/60a78502-944d-a7c2-1616-d35605b6fc2d/mzl.zmapffmr.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Ez Mil",
+      "id": 1424439211,
+      "parse_image": "https://music.apple.com/us/artist/ez-mil/1424439211?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/a9/d5/56/a9d55651-e9f8-d7ed-79cb-130c104c4163/c7a78739-4d9c-43f1-8ca3-aa2b93eb4963_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jimmy Durante",
+      "id": 147717,
+      "parse_image": "https://music.apple.com/us/artist/jimmy-durante/147717?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/4e/f5/65/4ef5650b-609d-6e10-4b63-9961e2454054/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Labrinth",
+      "id": 205732582,
+      "parse_image": "https://music.apple.com/us/artist/labrinth/205732582?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/7d/8d/b2/7d8db228-e4f1-3835-3f8f-b4ad1be252ab/9c2ff831-6645-4025-8ec0-7400cc365d10_ami-identity-9425cfdc876613edeff76fc375e35c08-2023-05-10T00-39-37.614Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "George Harrison",
+      "id": 136975,
+      "parse_image": "https://music.apple.com/us/artist/the-beatles/136975?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/91/ab/10/91ab10a7-737b-ec27-c885-da85193dac4c/4daff581-232f-4331-bff8-7ceaee2730a2_ami-identity-95bd069f34ada194188787177eed304f-2024-09-19T08-15-41.744Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Rupert Holmes",
+      "id": 15469287,
+      "parse_image": "https://music.apple.com/us/artist/rupert-holmes/15469287?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/20/be/7c/20be7cee-3ea0-ce98-5cac-e5fd0b2b22b2/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Ovy On the Drums",
+      "id": 1066207235,
+      "parse_image": "https://music.apple.com/us/artist/ovy-on-the-drums/1066207235?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/71/95/36/719536a0-857a-0cf5-7b4c-f49deb4b1a84/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "X",
+      "id": 622429974,
+      "parse_image": "https://music.apple.com/us/artist/x-ambassadors/622429974?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/fa/e3/41/fae341bc-4b37-c665-fc0c-774efec57107/14aa2a05-ac6a-430c-8ee3-cc697ae41dc2_ami-identity-d9940009aa63624cc02d1873f255e0d5-2024-06-25T16-56-17.409Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Raspberries",
+      "id": 122615,
+      "parse_image": "https://music.apple.com/us/artist/the-cranberries/122615?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/66/33/b0/6633b0f1-4b57-ea41-e613-ed5d1db75ca1/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "John Travolta",
+      "id": 36007,
+      "parse_image": "https://itunes.apple.com/us/artist/john-travolta/36007?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/d5/dc/25d5dc67-bf45-6e42-510e-bcf6bcee1cda/00602547377951.rgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Olivia Newton-John",
+      "id": 95110,
+      "parse_image": "https://music.apple.com/us/artist/olivia-newton-john/95110?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/10/2e/6e/102e6e2f-a64a-9687-b21e-fe41b64e7ca7/mzl.tqbxjryp.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Beastie Boys",
+      "id": 1971863,
+      "parse_image": "https://music.apple.com/us/artist/beastie-boys/1971863?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/16/2c/76/162c767d-b00a-5664-1548-df303ae12729/mza_8084110850478364065.png/110x110bb.webp"
+    },
+    {
+      "name": "EI8HT",
+      "id": 267073015,
+      "parse_image": "https://music.apple.com/us/artist/ei8ht/267073015?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c9/ca/6b/c9ca6b51-87a9-4a13-d37f-24535687023d/23UMGIM63882.rgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Julia Michaels",
+      "id": 378430797,
+      "parse_image": "https://music.apple.com/us/artist/julia-michaels/378430797?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/b9/df/6e/b9df6e88-325e-6b6c-4d29-8b22f074220d/ami-identity-8499460c726198573916ee85eda9c23a-2025-01-13T13-15-16.595Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Looking Glass",
+      "id": 955487,
+      "parse_image": "https://music.apple.com/us/artist/looking-glass/955487?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/43/18/45/431845c2-59b1-3cd5-413e-e08d37a0b925/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Omar Montes",
+      "id": 464468299,
+      "parse_image": "https://music.apple.com/us/artist/omar-montes/464468299?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/1f/81/501f81db-a235-8a43-f583-cedfdcb2db7f/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Cat Stevens",
+      "id": 107587,
+      "parse_image": "https://music.apple.com/us/artist/cat-stevens/107587?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/81/32/a981328c-de6f-678e-6dce-5770dfeefed2/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Avril Lavigne",
+      "id": 459885,
+      "parse_image": "https://music.apple.com/us/artist/avril-lavigne/459885?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/12/61/b5/1261b57d-f889-0053-6f9d-59350c9e2ec3/7fdcbcfe-f5ef-40f6-87a8-31c03165872d_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sech",
+      "id": 579050972,
+      "parse_image": "https://music.apple.com/us/artist/sech/579050972?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/94/99/fa/9499faca-2285-dc50-88bc-2ec994ef5a33/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Aitana",
+      "id": 1302824608,
+      "parse_image": "https://music.apple.com/us/artist/aitana/1302824608?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/b1/5c/a4/b15ca441-ea6b-ab03-66ce-4dabc1b1c611/ami-identity-674df84f49dc2062d33bd758a2b6e171-2025-01-23T08-56-52.669Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Silver",
+      "id": 180478133,
+      "parse_image": "https://music.apple.com/us/artist/bob-seger-the-silver-bullet-band/180478133?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/5c/a7/c45ca7a7-e360-f6e8-e4b8-2d9f888c99a9/artwork.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Iggy Pop",
+      "id": 13622,
+      "parse_image": "https://music.apple.com/us/artist/iggy-pop/13622?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/c3/67/98/c3679827-0356-57c7-84fe-d5fd9def6425/d3560544-ba7c-40be-ab31-b1a16f4f29b8_ami-identity-5b36fa49828a7925c577be1e10f4e86c-2023-01-06T11-56-10.588Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Nas",
+      "id": 35307,
+      "parse_image": "https://music.apple.com/us/artist/nas/35307?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/a5/c1/47/a5c147ed-6e7d-9330-94c8-a87881181926/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Sweet",
+      "id": 492548,
+      "parse_image": "https://music.apple.com/us/artist/sweet/492548?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/0b/c3/ba/0bc3badc-59b8-df18-433d-4b269c453b28/mzl.riuiwuyd.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Lewis Capaldi",
+      "id": 1213405916,
+      "parse_image": "https://music.apple.com/us/artist/lewis-capaldi/1213405916?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/fd/de/46/fdde467c-c035-bee4-2ada-874a64dd82c4/a233b0ce-4154-4146-a927-3d9614c0e5a9_ami-identity-0695df847f31eee237f30b0199060c4b-2023-01-19T17-15-55.224Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Five Stairsteps",
+      "id": 2322190,
+      "parse_image": "https://music.apple.com/us/artist/the-five-stairsteps/2322190?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/bb/9b/8b/bb9b8b0d-5537-906d-ff75-f3aa8cd67362/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "The Sneepers",
+      "id": 1227489516,
+      "parse_image": "https://music.apple.com/us/artist/the-sneepers/1227489516?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/17/1d/13/171d1379-206b-3961-0de0-c947ba75c79b/00050087370435.rgb.jpg/110x110ac.webp"
+    },
+    {
+      "name": "De La Rose",
+      "id": 3065897,
+      "parse_image": "https://music.apple.com/us/artist/spectre-de-la-rose/3065897?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/65/3d/71653d19-2b45-303b-4ddc-9d3d46bbd9a8/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "De La Ghetto",
+      "id": 160731620,
+      "parse_image": "https://music.apple.com/us/artist/de-la-ghetto/160731620?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/18/c0/8d/18c08daa-2bb3-86af-bca0-a3c8fe207813/ed56a2fe-b50b-46ce-a8f3-2d80af390ee5_ami-identity-faf147cc6bb8ae30577b59f8c0d65e83-2023-07-07T18-34-29.291Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Marvin Gaye",
+      "id": 127329,
+      "parse_image": "https://music.apple.com/us/artist/marvin-gaye/127329?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/a9/3b/ee/a93beec2-4e5b-50d5-0447-7f9b6e5df969/mza_8018811082061201081.png/110x110bb.webp"
+    },
+    {
+      "name": "Tammi Terrell",
+      "id": 274649,
+      "parse_image": "https://music.apple.com/us/artist/tammi-terrell/274649?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/a9/6b/4e/a96b4e04-9216-5e92-c68d-835999c8ee2c/mzl.xbialgio.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Cheap Trick",
+      "id": 461577,
+      "parse_image": "https://music.apple.com/us/artist/cheap-trick/461577?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/c5/d5/84/c5d58481-4a44-6f73-2d64-0a171747ef56/mza_8374858786942407735.png/110x110bb.webp"
+    },
+    {
+      "name": "YoungBoy Never Broke Again",
+      "id": 1168822104,
+      "parse_image": "https://music.apple.com/us/artist/youngboy-never-broke-again/1168822104?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/7c/df/06/7cdf06b3-ef17-9a55-2e08-91340e50005c/252eb4a1-a7ae-492b-b924-23b434c85229_ami-identity-aedc1f00c95245e01421552039555b2a-2023-11-10T22-19-52.264Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "10cc",
+      "id": 405340,
+      "parse_image": "https://music.apple.com/us/artist/10cc/405340?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/70/ba/8a/70ba8a52-eb36-31cd-5c08-9b12baa22848/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Glen Campbell",
+      "id": 70412,
+      "parse_image": "https://music.apple.com/us/artist/glen-campbell/70412?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2c/72/91/2c7291e0-7690-c5e3-ed0c-508408e2f8e1/mzl.zzbywmnh.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Justin Bieber",
+      "id": 320569549,
+      "parse_image": "https://music.apple.com/us/artist/justin-bieber/320569549?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/3a/c1/a3/3ac1a308-06fe-f693-ea95-09ca2b2c88a1/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Pablo López",
+      "id": 284055028,
+      "parse_image": "https://music.apple.com/us/artist/pablo-l%C3%B3pez/284055028?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/d3/75/66/d3756682-dbef-5eb1-687d-0b755f68b0ab/3f8e1a99-b047-40b5-8d15-6f5ccd4f48da_ami-identity-544469acf16e307f8530bf9927d4e52e-2023-01-27T12-19-35.365Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Myke Towers",
+      "id": 1210225867,
+      "parse_image": "https://music.apple.com/us/artist/myke-towers/1210225867?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/dd/96/62/dd966253-10e8-c453-b355-9c1572d769a0/51d164a6-8c59-40e9-bfe8-c1a130002d6e_ami-identity-96b3a53fede2eec1677bc74d4e032408-2024-07-31T20-42-38.881Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Parliament",
+      "id": 79943,
+      "parse_image": "https://music.apple.com/us/artist/parliament/79943?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/07/07/d0/0707d08b-288f-ab96-b05e-6a8aff5d71f6/mza_4319209039277070893.png/110x110bb.webp"
+    },
+    {
+      "name": "Sin Nombre",
+      "id": 1479260602,
+      "parse_image": "https://music.apple.com/us/artist/banda-sin-nombre/1479260602?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/05/1a/38/051a382a-d71f-397d-a187-4e262fb779ac/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Becky Hill",
+      "id": 533839517,
+      "parse_image": "https://music.apple.com/us/artist/becky-hill/533839517?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/28/15/45/28154562-8c9b-7404-e9de-30dfc9144197/b4dee0e2-cb4c-4ea2-8416-94adfc89ae00_ami-identity-ed88c3a458c42338a6e0536b9280e8b3-2024-05-31T11-00-03.203Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jay",
+      "id": 1352449404,
+      "parse_image": "https://music.apple.com/us/artist/jay-z/1352449404?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/70/91/99/709199a5-0722-1648-0697-a00f1691da9c/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "The Americans",
+      "id": 3447642,
+      "parse_image": "https://music.apple.com/us/artist/the-all-american-rejects/3447642?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/33/b5/b5/33b5b58f-a862-1ce3-5489-04cca0434928/36e10344-41d0-4efd-91e4-3bfbaa7285d9_ami-identity-cbed3ba7572460ae52e7c8b70d74fd91-2023-08-22T22-44-13.479Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Waylon Jennings",
+      "id": 70127,
+      "parse_image": "https://music.apple.com/us/artist/waylon-jennings/70127?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/8c/29/bd/8c29bd74-7db5-2bfc-0926-7f00052e9b00/mza_1530129651409641118.png/110x110bb.webp"
+    },
+    {
+      "name": "Mr Eazi",
+      "id": 638430219,
+      "parse_image": "https://music.apple.com/us/artist/mr-eazi/638430219?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/fe/a9/ef/fea9efd2-ce62-b8ce-1e1b-60ecfded80c4/9ce42030-538e-4818-a490-98ef9f3f9c97_ami-identity-5581700eeaddc299034720314d9cb2d2-2023-10-24T17-03-12.396Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Niall Horan",
+      "id": 396754057,
+      "parse_image": "https://music.apple.com/us/artist/one-direction/396754057?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages123/v4/c3/ec/ba/c3ecba71-c321-0d47-785b-cbdca4de42d5/0d3aa04e-ac7b-4f70-a51b-3e5a4604e715_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Alice Cooper",
+      "id": 393703,
+      "parse_image": "https://music.apple.com/us/artist/alice-cooper/393703?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/02/a2/22/02a22288-86c1-b748-4938-886de6902bca/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Jay Wheeler",
+      "id": 164376380,
+      "parse_image": "https://music.apple.com/us/artist/jay-wheeler/164376380?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/9a/c3/cd/9ac3cdd2-f979-5d7b-9938-4007056acaa3/7d65fc1e-686a-4267-9685-84e7e5275015_ami-identity-3b888f3d8347ea4b09613af854206d17-2024-05-04T00-23-44.039Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "NGHTMRE",
+      "id": 910641213,
+      "parse_image": "https://music.apple.com/us/artist/nghtmre/910641213?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/eb/00/df/eb00dfe0-de7e-c2ca-efa3-837d771a6f3e/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Cordae",
+      "id": 1384072011,
+      "parse_image": "https://music.apple.com/us/artist/cordae/1384072011?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/7c/0f/1f/7c0f1f53-05d2-46f4-53e8-53a0cacff52f/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "CHVRCHES",
+      "id": 566867492,
+      "parse_image": "https://music.apple.com/us/artist/chvrches/566867492?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/32/25/34/322534e7-2de6-62ef-c43a-cb38b4933edb/08b9f034-bf97-48ff-927c-3eb20ed3c527_ami-identity-2c5dbc8c2c347f5e7d80d8fe2be1db32-2023-08-18T21-47-20.572Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Electric Light Orchestra",
+      "id": 471528,
+      "parse_image": "https://music.apple.com/us/artist/electric-light-orchestra/471528?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/72/a3/cb/72a3cb19-c1cc-1cd2-d9d5-5299d034dec7/mzl.hkirmsoh.png/110x110bb.webp"
+    },
+    {
+      "name": "Earth",
+      "id": 290699,
+      "parse_image": "https://music.apple.com/us/artist/earth-wind-fire/290699?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0d/92/9a/0d929a8b-6026-8419-51f7-3dc5bbd64701/4050538506198.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Wind",
+      "id": 290699,
+      "parse_image": "https://music.apple.com/us/artist/earth-wind-fire/290699?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/2f/df/7b2fdfbc-404f-1357-5eba-cbbbe492ddb2/jacket_ESCL02662B00Z_550.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Fire",
+      "id": 290699,
+      "parse_image": "https://music.apple.com/us/artist/earth-wind-fire/290699?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/ed/d8/d6edd86d-ea73-c31a-fbd4-42a964565f95/199066711057.jpg/110x110bb.webp"
+    },
+    {
+      "name": "White Gold",
+      "id": 1526310082,
+      "parse_image": "https://music.apple.com/us/artist/white-gold/1526310082?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ab/cd/23/abcd23e1-6ff4-5cec-fb75-993e529e9ae2/d0ef7c06-f87e-40f2-8495-2a93df71d23e_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Rainbow",
+      "id": 135532,
+      "parse_image": "https://music.apple.com/us/artist/deep-purple/135532?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/67/12/c8/6712c87b-b01c-5943-64d1-93aa8193895c/mzl.nvltszvk.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Elvin Bishop",
+      "id": 137873,
+      "parse_image": "https://music.apple.com/us/artist/elvin-bishop/137873?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/a9/e1/52a9e1fe-1736-7521-e3d1-1e038d98ace3/mzl.fhmxgvww.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Conan Gray",
+      "id": 1168567308,
+      "parse_image": "https://music.apple.com/us/artist/conan-gray/1168567308?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/82/f2/15/82f215ff-53f2-ea40-61a5-9bd82453c0b9/ami-identity-501fae298d84a5606e4634ff5abdd848-2024-10-16T17-37-53.921Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jackson 5",
+      "id": 104063,
+      "parse_image": "https://music.apple.com/us/artist/jackson-5/104063?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/07/82/52/0782522d-b254-7778-c7c7-42ebf870a9e0/mza_1983929805131727500.png/110x110bb.webp"
+    },
+    {
+      "name": "Aazar",
+      "id": 71315,
+      "parse_image": "https://music.apple.com/us/artist/steve-azar/71315?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/fe/6e/25fe6e48-119f-3c30-5a66-f2c09571315c/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Sam Cooke",
+      "id": 1195231,
+      "parse_image": "https://music.apple.com/us/artist/sam-cooke/1195231?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ff/3d/b0/ff3db00e-8a4c-5e99-a160-64e72bcca60b/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Norman Greenbaum",
+      "id": 15160573,
+      "parse_image": "https://music.apple.com/us/artist/norman-greenbaum/15160573?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/24/4b/aa/244baa97-a530-e4b9-b679-bc8ac6e48b21/mzl.livjpgkp.png/110x110bb.webp"
+    },
+    {
+      "name": "Rels B",
+      "id": 1132604153,
+      "parse_image": "https://music.apple.com/us/artist/rels-b/1132604153?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/53/91/85/53918595-762a-1992-542f-e2ca3f188cc4/mza_7627624161292392921.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Aliotta Haynes Jeremiah",
+      "id": 97151472,
+      "parse_image": "https://music.apple.com/us/artist/aliotta-haynes-jeremiah/97151472?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/e1/71/c4/e171c4ce-1d97-4164-715a-a4811e883958/888174464077.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Pentakill",
+      "id": 870541409,
+      "parse_image": "https://music.apple.com/us/artist/pentakill/870541409?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f9/da/6af9dafa-a989-b45b-3f5d-cb3c14c76977/859722129991.png/110x110ac.webp"
+    },
+    {
+      "name": "Jelly Roll",
+      "id": 30624911,
+      "parse_image": "https://music.apple.com/us/artist/jelly-roll/30624911?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/50/d0/6f/50d06fcd-c9fa-8b9d-be78-e08b4fa0e986/9c185a91-61c1-4390-8031-c99beaecdf74_ami-identity-0b49835731a54c62a57615393723d301-2024-06-11T23-25-21.233Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sasha Alex Sloan",
+      "id": 868093249,
+      "parse_image": "https://music.apple.com/us/artist/sasha-alex-sloan/868093249?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ed/05/5e/ed055e1e-17d1-bc40-705b-128bca2ff99d/dc2e903c-cc8e-490a-9de0-ad6ad44ecbf1_ami-identity-d33defa6c3f62c0b7daa71b07acc77d3-2024-02-05T18-33-57.112Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Drew Love",
+      "id": 1048812123,
+      "parse_image": "https://music.apple.com/us/artist/they/1048812123?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/40/4c/4b404c78-67e2-f8cf-ed46-f64664e50389/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "The Flaming Lips",
+      "id": 156604,
+      "parse_image": "https://music.apple.com/us/artist/the-flaming-lips/156604?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/5b/fd/21/5bfd2164-5570-f664-3c70-ff0924fdee6d/mzl.ufaepalk.jpg/110x110bb.webp"
+    },
+    {
+      "name": "The Runaways",
+      "id": 343261,
+      "parse_image": "https://music.apple.com/us/artist/the-runaways/343261?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/1e/51/53/1e515382-0d64-092a-e3f5-5810a4561d6e/mzl.aouephop.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Tommy Genesis",
+      "id": 977846167,
+      "parse_image": "https://music.apple.com/us/artist/tommy-genesis/977846167?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/b6/dc/0c/b6dc0c04-04b3-b9cb-1a26-d07d749b2804/c25fd2ed-e4b3-4063-8c5b-55b1776af468_ami-identity-93083775a2459e5b1c5b4d409b228a11-2023-03-23T19-17-01.528Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Kygo",
+      "id": 635806094,
+      "parse_image": "https://music.apple.com/us/artist/kygo/635806094?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0b/89/cc/0b89cca1-7b33-a3ae-99c0-df918d98390f/mzm.xitokrfl.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Yung Beef",
+      "id": 250111109,
+      "parse_image": "https://music.apple.com/us/artist/yung-berg/250111109?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/aa/58/8c/aa588cb7-eeb4-bcef-30a6-5c318455f936/mzl.ccxixcaa.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Robin Schulz",
+      "id": 347433400,
+      "parse_image": "https://music.apple.com/us/artist/robin-schulz/347433400?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/d2/ab/22/d2ab226e-5db6-d48d-7bc0-7eb5b4b4ff71/2708104c-ed95-4435-b1d5-9bc2102915a0_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Cruz Cafuné",
+      "id": 1099148991,
+      "parse_image": "https://music.apple.com/us/artist/cruz-cafun%C3%A9/1099148991?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6a/72/da/6a72dafb-6afc-52b7-a80d-8b6be23210f1/mza_18031520953929227688.jpg/110x110bb.webp"
+    },
+    {
+      "name": "La Pantera",
+      "id": 1261081817,
+      "parse_image": "https://music.apple.com/us/artist/chikybombom-la-pantera/1261081817?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/36/4c/e3/364ce33a-6b06-cda8-2f7a-84f8b249aa39/mzl.jrmgueqr.png/110x110bb.webp"
+    },
+    {
+      "name": "The Mowgli's",
+      "id": 508282916,
+      "parse_image": "https://music.apple.com/us/artist/the-mowglis/508282916?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/23/06/90/23069028-8949-28a2-5ac4-3fc20bc04b60/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Alok",
+      "id": 324709167,
+      "parse_image": "https://music.apple.com/us/artist/alok/324709167?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/f5/90/1e/f5901ec2-809a-8102-44ca-3bbb44e04b08/74942e8f-2cf4-4b36-9fff-213998d14725_ami-identity-0862132c8861392244261ef144c19a13-2023-07-14T18-56-55.903Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sigala",
+      "id": 912773746,
+      "parse_image": "https://music.apple.com/us/artist/sigala/912773746?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages113/v4/d9/a3/07/d9a307be-a923-375b-f550-f21642d56825/c050e713-899b-4972-ae6a-da0de06b856d_ami-identity-e711a9b48295d639c76a3a2b8bc674cf-2023-01-23T12-34-37.322Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Buscabulla",
+      "id": 916005416,
+      "parse_image": "https://music.apple.com/us/artist/buscabulla/916005416?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c7/be/97/c7be97da-dab7-b489-a9e5-f0e6de37db7b/60e352fb-e0a0-4648-98c2-909e1e0e3eb1_ami-identity-87c4e24a56f01ab402cab7e170bfd516-2024-06-25T17-53-28.796Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Pitbull",
+      "id": 27044968,
+      "parse_image": "https://music.apple.com/us/artist/pitbull/27044968?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/92/1e/1f/921e1f50-de07-4271-dbab-2caa2c46703c/ami-identity-3d38d863f34575f665d32eeaa115c80e-2024-11-03T23-35-56.700Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Dominic Fike",
+      "id": 1104179033,
+      "parse_image": "https://music.apple.com/us/artist/dominic-fike/1104179033?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/83/97/13/839713f9-7f6f-8dbb-e37a-9fb58bb28621/58d42b78-7bf7-49f9-a853-145db9ed43bb_ami-identity-c591af659b243bd05700d77c52d34b26-2024-05-03T18-40-51.595Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jessie Reyez",
+      "id": 1043591612,
+      "parse_image": "https://music.apple.com/us/artist/jessie-reyez/1043591612?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/17/8f/41/178f41b3-22c3-add6-e8af-802480e62433/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Topic",
+      "id": 1075860684,
+      "parse_image": "https://music.apple.com/us/artist/topic/1075860684?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/1b/cb/1e/1bcb1ecb-724a-ffbf-b56e-218ee78505ad/16bb2529-bb41-4628-8d85-75e5623423ef_ami-identity-e662911b3ec9451b1e421e847cc319ae-2024-01-16T23-23-19.221Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Marshmello",
+      "id": 980795202,
+      "parse_image": "https://music.apple.com/us/artist/marshmello/980795202?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/94/67/e1/9467e13a-c18e-2266-c920-cfa871e31d0a/ami-identity-ddcf775f0338963084776f074c513067-2024-11-12T23-21-08.420Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "SUGA",
+      "id": 883131348,
+      "parse_image": "https://music.apple.com/us/artist/bts/883131348?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9c/39/2f/9c392fe0-d6ae-2901-d865-22908243d3b6/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "BTS",
+      "id": 883131348,
+      "parse_image": "https://music.apple.com/us/artist/bts/883131348?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/31/77/b0/3177b0da-f5ec-f46c-473a-bdbf4f2161dc/bc5fdca7-12e1-4ea2-a3e9-f9481d5d25bb_ami-identity-5644914dae79e9896405d9b5b7ac9e89-2023-06-09T04-02-49.194Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Julia Wolf",
+      "id": 1482698876,
+      "parse_image": "https://music.apple.com/us/artist/julia-wolf/1482698876?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/fd/e4/55/fde455c3-47d1-a1ab-8ed4-4d4994950848/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Bomba Estéreo",
+      "id": 250837405,
+      "parse_image": "https://music.apple.com/us/artist/bomba-est%C3%A9reo/250837405?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/52/0b/f1/520bf176-367b-e02f-1c9e-95c087c89614/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Faith No More",
+      "id": 170077,
+      "parse_image": "https://music.apple.com/us/artist/faith-no-more/170077?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ac/c1/b3/acc1b343-aa3f-7eb4-1d86-18e3dc43e604/ad7f3507-c680-47d6-b976-d80bf1a678d6_ami-identity-5b96a0754319b3acd3555c0e842fa53d-2023-12-20T16-58-19.203Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jhay Cortez",
+      "id": 1275242928,
+      "parse_image": "https://music.apple.com/us/artist/jhayco/1275242928?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/8f/9c/29/8f9c2964-bbb2-f9fd-9447-e5e494a7be0b/5872ab17-d062-4224-91ad-74ab6e91d5ab_ami-identity-7733bc24ec23a40c932f2e849bd03cb3-2024-09-04T20-31-18.703Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Cory Henry",
+      "id": 398508609,
+      "parse_image": "https://music.apple.com/us/artist/cory-henry/398508609?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/12/bf/f1/12bff1a3-8277-eb9f-0c94-7f591d6b59d0/d8e11f4f-8bf0-48aa-a53a-f24b53de2168_ami-identity-4c77e3404276d0c94da3ffb231f0f36a-2024-03-12T23-27-57.604Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Nathy Peluso",
+      "id": 1336405189,
+      "parse_image": "https://music.apple.com/us/artist/nathy-peluso/1336405189?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ee/19/e6/ee19e684-2db7-b299-e6b0-70579b332aa7/6c65ea88-ae48-4322-976f-b2a2e2d83563_ami-identity-0488acb9d58bc3d612d86c841fba995c-2024-05-07T18-36-51.616Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "The Replacements",
+      "id": 206276,
+      "parse_image": "https://music.apple.com/us/artist/the-replacements/206276?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/04/b6/43/04b6434d-34d2-832e-a10d-abe53db87365/mzl.bgytjews.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Tony Dize",
+      "id": 89667976,
+      "parse_image": "https://music.apple.com/us/artist/tony-dize/89667976?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e4/cf/a9/e4cfa968-5334-d45c-87a9-1696a288ff6e/mza_17988841399728927228.png/110x110bb.webp"
+    },
+    {
+      "name": "Artemas",
+      "id": 1300620186,
+      "parse_image": "https://music.apple.com/us/artist/artemas/1300620186?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/0f/6b/33/0f6b33fe-64bd-7ef7-910c-633fbe06e37c/ami-identity-b4cdf97096d02ef0fc800697291f3a02-2024-10-14T13-11-07.528Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Ehamic",
+      "id": 574896266,
+      "parse_image": "https://music.apple.com/us/artist/ehamic/574896266?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2e/41/55/2e415561-0b27-f0dc-b5dd-d4292875aa0b/196925556859.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Maren Morris",
+      "id": 262260873,
+      "parse_image": "https://music.apple.com/us/artist/maren-morris/262260873?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/4e/bc/d9/4ebcd9cf-bbde-be40-2f62-2d9f31af3409/0c08e3b5-f30a-4a08-b37e-53ff390bc0ac_ami-identity-b7b5ea218d6842ede40e617c2b43705f-2024-06-20T18-07-58.853Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Danny Ocean",
+      "id": 1248515752,
+      "parse_image": "https://music.apple.com/us/artist/danny-ocean/1248515752?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/15/a7/a8/15a7a86c-c75a-fa0e-f23c-5278f2dd198e/2837e0ce-a1fe-4529-ac55-6767df0570ab_ami-identity-5d28a4b0aeb0e8e3b9e1fed2291e2c42-2024-05-07T23-11-25.440Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Alanis Morissette",
+      "id": 1092859,
+      "parse_image": "https://music.apple.com/us/artist/alanis-morissette/1092859?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/21/30/52/2130527d-d2cc-b3de-fb7e-6e4f400e5c45/mza_9397103542788987636.png/110x110bb.webp"
+    },
+    {
+      "name": "Jung Kook",
+      "id": 883131348,
+      "parse_image": "https://music.apple.com/us/artist/bts/883131348?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/4c/a3/8b/4ca38b57-59b2-fbab-217d-62c5d6752c86/74b9ee74-d818-489f-95e6-cbd97f82229c_ami-identity-be4a2146ef9622e76e6ab86b3c394556-2023-11-03T04-02-21.413Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Paul Rosenberg",
+      "id": 19680337,
+      "parse_image": "https://music.apple.com/us/artist/paul-rosenberg/19680337?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/c2/54/03c2540d-b9f3-9807-b429-da23cbb854a2/00602577046421.rgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Paul \"Bunyan\" Rosenberg",
+      "id": 360513,
+      "parse_image": "https://music.apple.com/us/artist/paul-bunyan-rosenberg/360513?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/d3/01/44d3016a-6747-25bf-8cd4-4c4fa5ced26f/19UMGIM04260.rgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Cali y El Dandee",
+      "id": 348595452,
+      "parse_image": "https://music.apple.com/us/artist/cali-y-el-dandee/348595452?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0c/d2/8f/0cd28fe1-e92f-fadb-fb59-11da85b6af8c/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Álvaro Díaz",
+      "id": 7044841,
+      "parse_image": "https://music.apple.com/us/artist/%C3%A1lvaro-d%C3%ADaz/7044841?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/6f/2e/0a/6f2e0ac3-b16f-ab70-00d9-28fdae916f85/7188de00-5e1e-4a6f-a040-11fe7040cf48_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Pole",
+      "id": 4526325,
+      "parse_image": "https://music.apple.com/us/artist/pole/4526325?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/1e/a0/5e/mzi.yteyjiid.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Juanka",
+      "id": 1580691011,
+      "parse_image": "https://music.apple.com/us/artist/el-juanka-y-la-fila/1580691011?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/18/dc/89/18dc89fc-fa35-af17-c39f-c5af4fbb20b0/8effde71-56ba-4ad4-9532-5826dc7904cd_ami-identity-32451e84c1bb418cedc0713e8d8e9739-2022-12-13T20-33-33.690Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Brray",
+      "id": 1103506647,
+      "parse_image": "https://music.apple.com/us/artist/brray/1103506647?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/4b/0e/27/4b0e2784-c5da-5ed7-f585-d065d4095f7e/file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Bob Sinclar",
+      "id": 14606058,
+      "parse_image": "https://music.apple.com/us/artist/bob-sinclar/14606058?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/16/f2/75/16f27548-de80-5a84-4955-0dc1e1530129/mzl.pgajayiq.jpeg/110x110bb.webp"
+    },
+    {
+      "name": "Ludacris",
+      "id": 352073,
+      "parse_image": "https://music.apple.com/us/artist/ludacris/352073?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/07/60/f5/0760f543-e658-148b-eaeb-c1ad6e692bfe/mzl.mmadccgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Emilee",
+      "id": 1493556326,
+      "parse_image": "https://music.apple.com/us/artist/emilee/1493556326?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e6/ae/fb/e6aefbcf-21e3-4f32-a705-d4644f1c3d0d/artwork.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Bring Me The Horizon",
+      "id": 121043936,
+      "parse_image": "https://music.apple.com/us/artist/bring-me-the-horizon/121043936?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/d3/e7/94/d3e794ee-55c4-2fca-223e-7286d82c60cd/0639d658-7d94-467e-b2f8-f5e97289a3cf_ami-identity-82f37e93ca0320f79c8cd58e647f7a6b-2024-01-11T18-32-49.462Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Shift K3Y",
+      "id": 611678721,
+      "parse_image": "https://music.apple.com/us/artist/shift-k3y/611678721?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/70/97/bd/7097bd93-4723-0509-45f3-15a5de600e6d/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Ella Eyre",
+      "id": 631307211,
+      "parse_image": "https://music.apple.com/us/artist/ella-eyre/631307211?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/91/3f/a1/913fa1ad-583c-a6d1-71d1-bc002157d312/f5ad6cb8-7b54-463b-bae4-20ceeb371ed5_ami-identity-56adde0546ac1d6897da0f9f7140d260-2023-12-12T15-56-14.215Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sebastián Yatra",
+      "id": 722264654,
+      "parse_image": "https://music.apple.com/us/artist/sebasti%C3%A1n-yatra/722264654?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/fc/67/84/fc67847a-c628-6a7d-f3c5-275d55387543/ami-identity-02a4d6467a06e9572e3a780df3129f51-2024-12-18T15-44-31.587Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Natalia Lacunza",
+      "id": 1437168906,
+      "parse_image": "https://music.apple.com/us/artist/natalia-lacunza/1437168906?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/85/29/61/852961bc-0a9b-e991-a5d1-d8677190ec85/096dd111-95d7-4572-b340-d2c59f8dc200_ami-identity-46080e160b32385bc7a393cc631fae94-2024-08-07T11-48-17.537Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Tainy",
+      "id": 193167653,
+      "parse_image": "https://music.apple.com/us/artist/tainy/193167653?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/e3/22/d5/e322d559-172f-f845-10b4-78aeeca1da2b/439c63cc-73ad-4654-bd1c-7f069cc61139_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "AWOLNATION",
+      "id": 371362363,
+      "parse_image": "https://music.apple.com/us/artist/awolnation/371362363?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/ca/9e/1a/ca9e1a5c-548d-fe8f-ffe8-fea7e7ecebf0/6f30b457-8811-46b9-8eed-0d0294758de8_ami-identity-d008fa3ba4c87cb69cb7d952a4e5999f-2024-03-26T21-06-53.710Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "S1mba",
+      "id": 1396099695,
+      "parse_image": "https://music.apple.com/us/artist/s1mba/1396099695?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a0/f5/3e/a0f53e00-1363-c059-5ef0-1ef67eba32c8/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Maluma",
+      "id": 448916501,
+      "parse_image": "https://music.apple.com/us/artist/maluma/448916501?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/9d/42/52/9d4252ef-8aa0-e34a-ab28-c619458bc398/ami-identity-ab0d92ed952b7a06da172e269f7ff196-2024-11-21T17-17-30.051Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Mariah Angeliq",
+      "id": 1405167443,
+      "parse_image": "https://music.apple.com/us/artist/mariah-angeliq/1405167443?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/d8/cf/27/d8cf279f-d5d3-5328-57bf-00fc024db6bf/44c0a076-f774-4033-a190-2db4a7f41a1b_ami-identity-7ba1ce687f289e62013a743ca554f495-2023-03-16T15-03-41.999Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Beret",
+      "id": 1098639327,
+      "parse_image": "https://music.apple.com/us/artist/beret/1098639327?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/1d/ce/75/1dce75a2-ce45-0bb3-0b4e-7c288f93c481/mza_5074769826032460761.png/110x110bb.webp"
+    },
+    {
+      "name": "Maldy",
+      "id": 283224257,
+      "parse_image": "https://music.apple.com/us/artist/maldy/283224257?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/08/a4/72/08a472a5-4f54-c2b1-abdf-a79b1eaccfc1/033a6c90-fb83-43e4-8a59-0b5dd3afa67b_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sam Feldt",
+      "id": 890558420,
+      "parse_image": "https://music.apple.com/us/artist/sam-feldt/890558420?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/2a/33/ef/2a33ef85-bc05-e284-c8c5-36407b221dff/6ca83cd5-5250-463d-b58a-adc887555f98_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Robert Smith",
+      "id": 566519,
+      "parse_image": "https://music.apple.com/us/artist/the-cure/566519?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/aa/bb/6eaabb29-54a9-8c72-7f73-4464fcbffd0f/1963622836152_cover.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Bad Gyal",
+      "id": 1174817313,
+      "parse_image": "https://music.apple.com/us/artist/bad-gyal/1174817313?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/3e/68/b1/3e68b12f-72fd-380b-f74e-1d0101fa2b5c/9c696a05-8e56-4f7c-b042-4705e4139082_ami-identity-8b83c0d8900ec920d189105611cb2b91-2024-01-26T19-45-33.918Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Sean Paul",
+      "id": 155138,
+      "parse_image": "https://music.apple.com/us/artist/sean-paul/155138?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5f/55/09/5f550930-5673-3ba5-4b9f-6ed6786e9de8/mzl.sclgcibb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Wisin",
+      "id": 80993837,
+      "parse_image": "https://music.apple.com/us/artist/wisin-yandel/80993837?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ad/15/3b/ad153bb5-994b-08a2-234e-4418f18a702a/85b94b39-152a-425b-8367-c4b376de9492_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Yandel",
+      "id": 80993837,
+      "parse_image": "https://music.apple.com/us/artist/wisin-yandel/80993837?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/9f/17/7b/9f177b4e-562e-a9d0-f9c9-f44354daccf0/3c8687e6-31e0-42f9-9603-4cc144203cfd_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Nicky Jam",
+      "id": 33987470,
+      "parse_image": "https://music.apple.com/us/artist/nicky-jam/33987470?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/09/7e/53/097e5360-f0a7-b479-fc37-c2d2ed4ce3a2/88b54e6c-664b-49ee-97c5-c489d9fb95e1_ami-identity-018c7e93692fbb95d87f8d6f10acb233-2024-09-05T20-04-51.121Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Banx",
+      "id": 280779964,
+      "parse_image": "https://music.apple.com/us/artist/bankie-banx/280779964?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/a7/60/4c/a7604c6a-3f4a-75aa-bdd7-4c478f091242/mzl.qbkcgtal.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Ranx",
+      "id": 129284303,
+      "parse_image": "https://music.apple.com/us/artist/delly-ranx/129284303?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/a7/60/4c/a7604c6a-3f4a-75aa-bdd7-4c478f091242/mzl.qbkcgtal.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Sly Pyper",
+      "id": 1435750845,
+      "parse_image": "https://music.apple.com/us/artist/sly-pyper-the-wizard/1435750845?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/2c/ce/8b2cced1-ef53-ae9f-df26-5c5d8ad0009e/24UMGIM70968.rgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Carla Morrison",
+      "id": 292289334,
+      "parse_image": "https://music.apple.com/us/artist/carla-morrison/292289334?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/33/0c/0b/330c0b28-457f-67f1-efa2-1e4ccfe6cff5/c1ba1326-1589-4070-974d-e4dea0167250_ami-identity-bb69e702b601ca109478c274b89b6149-2024-05-14T18-09-15.859Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Chencho Corleone",
+      "id": 1055034875,
+      "parse_image": "https://music.apple.com/us/artist/chencho-corleone/1055034875?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/b7/1f/a0/b71fa0c1-a16d-6fae-9a06-4d845ce45188/bf478cd4-7a37-4b31-9461-41c217484774_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "J. Balvin",
+      "id": 444520760,
+      "parse_image": "https://music.apple.com/us/artist/j-balvin/444520760?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/a0/82/2e/a0822ef7-bb35-0e8a-26c6-fc17b89cd981/4e221583-bbd6-4b39-a223-ab11ef917eef_ami-identity-2477920ef7d821e53b230e4ca07b3e3e-2024-08-07T23-22-48.742Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Ozuna",
+      "id": 283578837,
+      "parse_image": "https://music.apple.com/us/artist/ozuna/283578837?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/26/6e/b4/266eb4d9-2298-886d-2f12-71242e27168b/cc65664c-24df-4c75-8dae-43a4ba754a12_ami-identity-9486929e66e5b63df2ca05cb5f997ab2-2024-02-14T21-56-11.218Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Justin Quiles",
+      "id": 875457681,
+      "parse_image": "https://music.apple.com/us/artist/justin-quiles/875457681?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/40/16/0e/40160e20-acde-28e9-46fd-70f3e2f8dea8/e6927452-3096-4298-a3e0-baf4e2f29436_ami-identity-460382101dcdf6f553028a7b91396b38-2024-01-26T00-30-00.424Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "ANGEL DIOR",
+      "id": 1552026045,
+      "parse_image": "https://music.apple.com/us/artist/angel-dior/1552026045?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/d1/8a/b8/d18ab84f-5569-e137-04ae-936086dcfe34/mzl.iekgwtjk.jpg/110x110bb.webp"
+    },
+    {
+      "name": "The Marías",
+      "id": 1244878938,
+      "parse_image": "https://music.apple.com/us/artist/the-mar%C3%ADas/1244878938?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/5c/94/2a/5c942a63-124a-05a4-a07d-4bb566329369/f7394fd7-f145-4ef5-803c-f2a1bc37bb31_ami-identity-c8134e2b85689e4cb4feead8223c22e5-2024-03-04T17-38-49.403Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "David Guetta",
+      "id": 5557599,
+      "parse_image": "https://music.apple.com/us/artist/david-guetta/5557599?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/59/80/98/598098fd-ce30-abca-e220-d98f89f48fcb/56f3f326-8833-4ca9-a617-b9ac642a1153_ami-identity-01d023cabaf55c4d7122ac830b90b612-2024-01-25T11-21-34.069Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Rvssian",
+      "id": 628716915,
+      "parse_image": "https://music.apple.com/us/artist/rvssian/628716915?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/83/3c/ab/833cab18-8574-4a85-20f1-404d936f4196/9f8748c8-3045-4f04-ac85-1644d15529ea_ami-identity-b84fe694e9b0f7103bf9f8b204f7cdea-2024-04-23T18-45-54.227Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Dem Jointz",
+      "id": 271516082,
+      "parse_image": "https://music.apple.com/us/artist/dem-jointz/271516082?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bf/ba/2e/bfba2eb8-bddc-8c13-92ec-c2403cac1d66/5000x5000-840350822569-0-0.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Yandar",
+      "id": 568341700,
+      "parse_image": "https://music.apple.com/us/artist/yandar/568341700?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/3c/b9/2e3cb9fe-7461-d09e-ea5b-a43c14a5cb8d/8429006812783_art.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Yostin",
+      "id": 567592769,
+      "parse_image": "https://music.apple.com/us/artist/yandar-yostin/567592769?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/72/5c/1a725c9a-5755-96f7-f9d6-b77954139084/cover.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Camila Cabello",
+      "id": 577354628,
+      "parse_image": "https://music.apple.com/us/artist/fifth-harmony/577354628?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/f5/9a/d7/f59ad7b7-4142-0a2d-944a-66a9bc8cbca4/mza_2774892865902891429.png/110x110bb.webp"
+    },
+    {
+      "name": "Shakira",
+      "id": 889327,
+      "parse_image": "https://music.apple.com/us/artist/shakira/889327?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/36/01/99/360199a8-ace1-44d8-485c-9bac313243bf/17fec21b-d273-4b10-83bf-918a22f14b85_file_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Becky HIll",
+      "id": 533839517,
+      "parse_image": "https://music.apple.com/us/artist/becky-hill/533839517?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/28/15/45/28154562-8c9b-7404-e9de-30dfc9144197/b4dee0e2-cb4c-4ea2-8416-94adfc89ae00_ami-identity-ed88c3a458c42338a6e0536b9280e8b3-2024-05-31T11-00-03.203Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "220 KID",
+      "id": 1434058308,
+      "parse_image": "https://music.apple.com/us/artist/220-kid/1434058308?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b6/22/d8/b622d812-a310-bae4-65ce-5ae9918eb0b8/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Gryffin",
+      "id": 953311187,
+      "parse_image": "https://music.apple.com/us/artist/gryffin/953311187?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/3d/b0/a3/3db0a35e-9e20-b9af-72e1-26ec35b31459/f5271e2a-5d8b-43ea-86f0-b1c418ca555c_ami-identity-22a22cd68100a23ffbef439bd297354e-2024-07-18T00-58-59.829Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Calum Scott",
+      "id": 190876590,
+      "parse_image": "https://music.apple.com/us/artist/calum-scott/190876590?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/b0/05/fd/b005fd1c-3c00-b749-df44-dcb3b677a6a6/f78e491c-ab97-4bd1-80f8-538b38e396c1_ami-identity-195559bb5d8ea5396df356539ea23193-2024-08-01T19-44-07.465Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Romeo Santos",
+      "id": 434832774,
+      "parse_image": "https://music.apple.com/us/artist/romeo-santos/434832774?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9a/1b/2f/9a1b2f3d-a0d9-881d-0c6c-aa28f60c5ecb/pr_source.png/110x110bb.webp"
+    },
+    {
+      "name": "Selena Gomez",
+      "id": 280215834,
+      "parse_image": "https://music.apple.com/us/artist/selena-gomez/280215834?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1c/a1/8e/1ca18ec2-f664-7bc7-827d-5ef9df5decdd/780ca030-33bd-4426-b905-8b36233bd376_ami-identity-9dc79b57efd6f0e1ede00c6af8f8954c-2024-02-22T15-22-52.231Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "Jacob Collier",
+      "id": 730498854,
+      "parse_image": "https://music.apple.com/us/artist/jacob-collier/730498854?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5b/a0/0e/5ba00ec4-b813-cd6e-44ea-c70cb47e627e/mzl.rijzhcki.png/110x110bb.webp"
+    },
+    {
+      "name": "Steve Berman",
+      "id": 111051,
+      "parse_image": "https://music.apple.com/us/artist/eminem/111051?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b2/e1/7b/b2e17b37-2372-3591-3bed-9002a6b14e20/21UMGIM39059.rgb.jpg/110x110bb.webp"
+    },
+    {
+      "name": "*NSYNC",
+      "id": 398128,
+      "parse_image": "https://music.apple.com/us/artist/justin-timberlake/398128?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ec/eb/5e/eceb5ef6-3fff-6035-4ee4-917753043c72/mzl.jglvjuas.jpg/110x110bb.webp"
+    },
+    {
+      "name": "Ski Mask the Slump God",
+      "id": 1174308445,
+      "parse_image": "https://music.apple.com/us/artist/ski-mask-the-slump-god/1174308445?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/f9/6a/0b/f96a0b15-d9b5-eb12-9e04-4481d8e3bba4/df69a244-2aff-4cbf-af01-cc30848ae969_ami-identity-311a34b8a236cc459ab0756ad2c9d473-2024-06-05T16-36-39.238Z_cropped.png/110x110bb.webp"
+    },
+    {
+      "name": "We Are KING",
+      "id": 264468838,
+      "parse_image": "https://music.apple.com/us/artist/we-the-kings/264468838?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/5d/65/d55d6543-55e3-214b-8739-27f150e0de07/859715860405_cover.jpg/110x110ac.webp"
+    },
+    {
+      "name": "Rauw Alejandro",
+      "id": 1107186883,
+      "parse_image": "https://music.apple.com/us/artist/rauw-alejandro/1107186883?uo=4",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/a2/49/2c/a2492ca0-788e-7a37-e7c3-2ea91bb2743f/ami-identity-57f547f3f1f84f7abd00a2f0c282910d-2024-11-11T22-54-47.330Z_cropped.png/110x110bb.webp"
+    }
+  ]
+}

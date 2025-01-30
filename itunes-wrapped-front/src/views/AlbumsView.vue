@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import library from '@/../../parser/data/current/Formatted_Biblioteca_byalbum.json'
+import library from '@/../../parser/data/current/Formatted_Biblioteca_byAlbum.json'
 import { ref, computed } from 'vue'
 
 import type { Album } from '@/models/itunes'
@@ -25,7 +25,7 @@ const shownAlbums = computed(() => albums.value.slice(0, topCount.value))
         <li
           v-for="(album, index) in shownAlbums"
           :key="album.id"
-          class="grid grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1 odd:bg-pink/10 even:bg-white"
+          class="grid min-h-12 grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1 odd:bg-blue/10 even:bg-white"
         >
           <span class="w-4 font-semibold">{{ index + 1 }}</span>
           <img v-if="album.image" class="w-10 rounded-full" :src="album.image" />

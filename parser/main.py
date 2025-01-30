@@ -1,8 +1,9 @@
 import os
 import xml.etree.ElementTree as ET
-from utils import get_current_date, load_json, save_json, add_date, file_path
+from utils import get_current_date, save_json, add_date, file_path
 from processor import process_albums, process_artists, process_genres, process_tracks
-from fetcher import fetch_new_covers
+from fetcher import artist_metadata
+from updater import update_album_covers, update_artists_images
 
 CURRENT_DATE = get_current_date()
 CURRENT_FOLDER = "./data/current"
@@ -16,7 +17,7 @@ def parse_xml(xml_file, new_xml_file):
     else:
         raise FileNotFoundError(f"File not found: {xml_file}")
 
-    tree = ET.parse(new_xml_file)
+    tree = ET.parse(xml_file)
     root = tree.getroot()
     library_dict = root.find("dict")
 
@@ -61,51 +62,6 @@ def parse_xml(xml_file, new_xml_file):
     return tracks
 
 
-def update_covers():
-    covers = fetch_new_covers()
-    cover_dict = {cover["name"]: cover["image"] for cover in covers.get("data", [])}
-
-    album_file = "./data/current/Formatted_Biblioteca_byAlbum.json"
-    albums = load_json(album_file)
-
-    for album in albums.get("data", []):
-        album_name = album.get("name")
-        if album_name in cover_dict:
-            album["image"] = cover_dict[album_name]
-
-    save_json(
-        albums,
-        [
-            file_path(
-                f"Formatted_Biblioteca_byAlbum_{
-              CURRENT_DATE}.json",
-                output_folder,
-            ),
-            file_path("Formatted_Biblioteca_byAlbum.json", CURRENT_FOLDER),
-        ],
-    )
-
-    tracks_file = "./data/current/Formatted_Biblioteca.json"
-    tracks = load_json(tracks_file)
-
-    for track in tracks.get("data", []):
-        album_name = track.get("album")
-        if album_name in cover_dict:
-            track["image"] = cover_dict[album_name]
-
-    save_json(
-        tracks,
-        [
-            file_path(
-                f"Formatted_Biblioteca_{
-              CURRENT_DATE}.json",
-                output_folder,
-            ),
-            file_path("Formatted_Biblioteca.json", CURRENT_FOLDER),
-        ],
-    )
-
-
 def main():
     xml_file = "./libraries/Biblioteca.xml"
     new_xml_file = f"./libraries/Biblioteca_{CURRENT_DATE}.xml"
@@ -133,7 +89,8 @@ def main():
     process_artists(formatted_tracks["data"])
     process_genres(formatted_tracks["data"])
 
-    update_covers()
+    update_album_covers()
+    update_artists_images()
 
 
 if __name__ == "__main__":

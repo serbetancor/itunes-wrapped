@@ -24,7 +24,7 @@ const shownGenres = computed(() => genres.value.slice(0, topCount.value))
         <li
           v-for="(genre, index) in shownGenres"
           :key="genre.id"
-          class="grid grid-cols-[auto_1fr_auto_auto] gap-2 p-2 py-1 odd:bg-purple/10 even:bg-white"
+          class="grid min-h-12 grid-cols-[auto_1fr_auto_auto] items-center gap-2 p-2 py-1 odd:bg-purple/10 even:bg-white"
         >
           <span class="font-semibold">{{ index + 1 }}</span>
           <span>{{ genre.name }}</span>

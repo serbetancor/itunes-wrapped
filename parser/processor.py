@@ -1,7 +1,13 @@
 import os
 from collections import defaultdict
-from utils import get_current_date, load_json, save_json, generate_uuid, file_path
-
+from utils import (
+    get_current_date,
+    load_json,
+    save_json,
+    split_artists,
+    file_path,
+)
+from fetcher import albums_dict, album_id, artist_id, songs_dict
 
 dates = load_json("./data/dates.json")
 oldest_date = min(dates["data"])
@@ -18,7 +24,7 @@ def process_tracks(tracks):
     for track_id, track in tracks.items():
         formatted_tracks["data"].append(
             {
-                "id": str(track["Track ID"]),
+                "id": track["Track ID"],
                 "name": track["Name"],
                 "duration": track["Total Time"],
                 "trackNumber": track["Track Number"],
@@ -60,7 +66,7 @@ def process_tracks(tracks):
 def process_albums(data):
     albums = defaultdict(
         lambda: {
-            "id": generate_uuid(),
+            "id": 0,
             "name": "",
             "artist": "",
             "year": 0,
@@ -91,7 +97,7 @@ def process_albums(data):
         album["timePlayed"] += time_played
         album["tracks"].append(
             {
-                "id": str(track["id"]),
+                "id": track["id"],
                 "name": track["name"],
                 "duration": track["duration"],
                 "trackNumber": track["trackNumber"],
@@ -107,6 +113,7 @@ def process_albums(data):
         )
 
     for album in albums.values():
+        album["id"] = album_id(album["name"])
         album["tracks"] = sorted(album["tracks"], key=lambda x: x["trackNumber"])
 
     formatted_albums = {"data": list(albums.values())}
@@ -124,11 +131,11 @@ def process_albums(data):
     )
 
     old_album_index_map = {
-        album["name"]: idx for idx, album in enumerate(old_formatted_albums["data"])
+        album["id"]: idx for idx, album in enumerate(old_formatted_albums["data"])
     }
 
     for idx, album in enumerate(formatted_albums["data"]):
-        old_index = old_album_index_map.get(album["name"], len(old_album_index_map) - 1)
+        old_index = old_album_index_map.get(album["id"], len(old_album_index_map) - 1)
         positions_gained = old_index - idx
         album["positionsGained"] = positions_gained
 
@@ -148,9 +155,9 @@ def process_albums(data):
 def process_artists(data):
     artists = defaultdict(
         lambda: {
-            "id": generate_uuid(),
+            "id": 0,
             "name": "",
-            "albums": [],
+            "songs": [],
             "songsCount": 0,
             "timePlayed": 0,
             "positionsGained": 0,
@@ -158,20 +165,21 @@ def process_artists(data):
     )
 
     for track in data:
-        artist_name = track["artist"]
-        artist = artists[artist_name]
+        artists_names = split_artists(track["artist"])
+        for artist_name in artists_names:
+            artist = artists[artist_name]
 
-        if artist["name"] == "":
-            artist["name"] = artist_name
+            if artist["name"] == "":
+                artist["name"] = artist_name
 
-        if track["album"] not in artist["albums"]:
-            artist["albums"].append(track["album"])
+            if track not in artist["songs"]:
+                artist["songs"].append(track)
 
-        artist["songsCount"] += 1
-        artist["timePlayed"] += track["timePlayed"]
+            artist["songsCount"] += 1
+            artist["timePlayed"] += track["timePlayed"]
 
     for artist in artists.values():
-        artist["albums"] = sorted(artist["albums"])
+        artist["id"] = artist_id(artist["name"])
 
     formatted_artists = {"data": list(artists.values())}
 
@@ -214,28 +222,33 @@ def process_artists(data):
 def process_genres(data):
     genres = defaultdict(
         lambda: {
-            "id": generate_uuid(),
+            "id": 0,
             "name": "",
-            "albums": set(),
+            "albums": [],
             "artists": set(),
             "timePlayed": 0,
             "positionsGained": 0,
         }
     )
 
-    for track in data:
+    album_dict = albums_dict()
+
+    for index, track in enumerate(data):
         genre_name = track["genre"]
         genre = genres[genre_name]
 
         if genre["name"] == "":
             genre["name"] = genre_name
 
-        genre["albums"].add(track["album"])
+        album = album_dict.get(track["album"])
+        if album and album not in genre["albums"]:
+            genre["albums"].append(album)
+
+        genre["id"] = index
         genre["artists"].add(track["artist"])
         genre["timePlayed"] += track["timePlayed"]
 
     for genre in genres.values():
-        genre["albums"] = sorted(list(genre["albums"]))
         genre["artists"] = sorted(list(genre["artists"]))
 
     formatted_genres = {"data": list(genres.values())}

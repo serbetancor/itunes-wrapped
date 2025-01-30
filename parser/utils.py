@@ -1,6 +1,6 @@
 import os
 import json
-import uuid
+import re
 from datetime import datetime
 
 
@@ -29,11 +29,6 @@ def save_json(data, file_paths):
             json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def generate_uuid():
-    """Generates and returns a unique UUID string."""
-    return str(uuid.uuid4())
-
-
 def add_date(date, file_path="./data/dates.json"):
     """
     Adds a date to the JSON file if it is not already present.
@@ -46,3 +41,7 @@ def add_date(date, file_path="./data/dates.json"):
     if date not in data["data"]:
         data["data"].append(date)
         save_json(data, file_path)
+
+
+def split_artists(text):
+    return [s.strip() for s in re.split(r"\s*[,&]|\sX\s", text) if s.strip()]
