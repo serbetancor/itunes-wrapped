@@ -15,17 +15,16 @@ const shownAlbums = computed(() => albums.value.slice(0, topCount.value))
 </script>
 
 <template>
-  <div class="flex flex-col items-center p-4">
-    <input type="range" v-model="topCount" min="1" max="200" class="mb-4 w-64" />
+  <div class="flex flex-col items-center gap-4 p-4">
+    <input type="range" v-model="topCount" min="1" max="400" class="mb w-64" />
     <span>Top {{ topCount }} album{{ topCount > 1 ? 's' : '' }}</span>
 
-    <div class="w-1/2 px-4">
-      <h3 class="mb-2 text-lg font-bold">Ranking</h3>
+    <div class="w-10/12 px-4">
       <ul class="divide-y">
         <li
           v-for="(album, index) in shownAlbums"
           :key="album.id"
-          class="grid min-h-12 grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1 odd:bg-blue/10 even:bg-white"
+          class="odd:bg-blue/10 grid min-h-12 grid-cols-[auto_auto_1fr_auto_auto] items-center gap-3 p-2 py-1"
         >
           <span class="w-4 font-semibold">{{ index + 1 }}</span>
           <img v-if="album.image" class="w-10 rounded-full" :src="album.image" />

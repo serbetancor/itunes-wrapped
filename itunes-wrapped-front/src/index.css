@@ -1,4 +1,8 @@
-/* ./src/index.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@theme {
+  --color-blue: #35c0fb;
+  --color-green: #23c552;
+  --color-pink: #ff5e73;
+  --color-purple: #9c70ff;
+  --color-red: #ff4f4b;
+}
