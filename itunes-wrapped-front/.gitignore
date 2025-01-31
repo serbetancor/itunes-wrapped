@@ -15,7 +15,6 @@ coverage
 *.local
 
 # Editor directories and files
-certs/*
 .vscode/*
 !.vscode/extensions.json
 .idea

@@ -1,8 +1,9 @@
 interface BaseEntity {
-  id: string
+  id: number
   name: string
   timePlayed: number
   positionsGained: number
+  image?: string
 }
 
 export interface Song extends BaseEntity {
@@ -25,11 +26,11 @@ export interface Album extends BaseEntity {
 }
 
 export interface Artist extends BaseEntity {
-  albums: string[]
+  songs: Song[]
   songsCount: number
 }
 
 export interface Genre extends BaseEntity {
-  albums: string[]
+  albums: Album[]
   artists: string[]
 }
