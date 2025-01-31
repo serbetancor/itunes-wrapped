@@ -2,8 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 from utils import get_current_date, save_json, add_date, file_path
 from processor import process_albums, process_artists, process_genres, process_tracks
-from fetcher import artist_metadata
-from updater import update_album_covers, update_artists_images
+from updater import update_album_covers, update_artists_images, update_track_covers
 
 CURRENT_DATE = get_current_date()
 CURRENT_FOLDER = "./data/current"
@@ -17,7 +16,7 @@ def parse_xml(xml_file, new_xml_file):
     else:
         raise FileNotFoundError(f"File not found: {xml_file}")
 
-    tree = ET.parse(xml_file)
+    tree = ET.parse(new_xml_file)
     root = tree.getroot()
     library_dict = root.find("dict")
 
@@ -77,6 +76,8 @@ def main():
     )
 
     formatted_tracks = process_tracks(tracks)
+    formatted_tracks = update_track_covers(formatted_tracks)
+
     save_json(
         formatted_tracks,
         [
