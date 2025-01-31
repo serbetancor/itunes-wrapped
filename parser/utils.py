@@ -40,7 +40,7 @@ def add_date(date, file_path="./data/dates.json"):
 
     if date not in data["data"]:
         data["data"].append(date)
-        save_json(data, file_path)
+        save_json(data, [file_path])
 
 
 def split_artists(text):

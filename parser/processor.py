@@ -109,6 +109,7 @@ def process_albums(data):
                 "playCount": play_count,
                 "timePlayed": time_played,
                 "positionsGained": 0,
+                "image": track["image"],
             }
         )
 

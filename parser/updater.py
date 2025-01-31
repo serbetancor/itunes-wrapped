@@ -35,26 +35,6 @@ def update_album_covers():
         ],
     )
 
-    tracks_file = "./data/current/Formatted_Biblioteca.json"
-    tracks = load_json(tracks_file)
-
-    for track in tracks.get("data", []):
-        album_name = track.get("album")
-        if album_name in cover_dict:
-            track["image"] = cover_dict[album_name]
-
-    save_json(
-        tracks,
-        [
-            file_path(
-                f"Formatted_Biblioteca_{
-              CURRENT_DATE}.json",
-                output_folder,
-            ),
-            file_path("Formatted_Biblioteca.json", CURRENT_FOLDER),
-        ],
-    )
-
 
 def update_artists_images():
     artists_metadata = artist_metadata()
@@ -95,3 +75,17 @@ def update_artists_images():
             file_path("Formatted_Biblioteca_byArtist.json", CURRENT_FOLDER),
         ],
     )
+
+
+def update_track_covers(tracks):
+    albumsMetadata = album_metadata()
+    cover_dict = {
+        cover["name"]: cover["image"] for cover in albumsMetadata.get("data", [])
+    }
+
+    for track in tracks.get("data", []):
+        album_name = track.get("album")
+        if album_name in cover_dict:
+            track["image"] = cover_dict[album_name]
+
+    return tracks
